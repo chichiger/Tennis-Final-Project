@@ -1,0 +1,3825 @@
+,winner,loser,match score
+0,Grigor Dimitrov,Kei Nishikori,62 26 63 
+1,Grigor Dimitrov,Milos Raonic,767 62 
+2,Kei Nishikori,Stan Wawrinka,763 63 
+3,Milos Raonic,Rafael Nadal,46 63 64 
+4,Stan Wawrinka,Kyle Edmund,672 64 64 
+5,Kei Nishikori,Jordan Thompson,61 61 
+6,Grigor Dimitrov,Dominic Thiem,63 46 63 
+7,Milos Raonic,Diego Schwartzman,63 62 
+8,Stan Wawrinka,Viktor Troicki,765 64 
+9,Kei Nishikori,Jared Donaldson,46 64 63 
+10,Dominic Thiem,Sam Groth,765 63 
+11,Rafael Nadal,Mischa Zverev,61 61 
+12,Kyle Edmund,Lucas Pouille,63 31 (RET)
+13,Grigor Dimitrov,Nicolas Mahut,62 64 
+14,Jordan Thompson,David Ferrer,46 75 75 
+15,Rafael Nadal,Alexandr Dolgopolov,63 63 
+16,Lucas Pouille,Gilles Simon,766 764 
+17,Grigor Dimitrov,Steve Johnson,62 63 
+18,David Ferrer,Bernard Tomic,63 75 
+19,Jared Donaldson,Gilles Muller,64 64 
+20,Kyle Edmund,Ernesto Escobedo,764 766 
+21,Sam Groth,Pierre-Hugues Herbert,63 57 75 
+22,Nicolas Mahut,Stephane Robert,46 63 64 
+23,Diego Schwartzman,Sam Querrey,62 64 
+24,Jordan Thompson,Elias Ymer,63 62 
+25,Viktor Troicki,Yoshihito Nishioka,64 75 
+26,Mischa Zverev,Alex de Minaur,63 63 
+27,Yoshihito Nishioka,Tim Smyczek,75 64 
+28,Jared Donaldson,John-Patrick Smith,62 46 762 
+29,Alex de Minaur,Frances Tiafoe,674 64 64 
+30,Ernesto Escobedo,Ivan Dodig,63 673 63 
+31,Alex de Minaur,Mikhail Kukushkin,64 767 
+32,Ivan Dodig,Ryan Harrison,64 46 64 
+33,Yoshihito Nishioka,Go Soeda,64 06 62 
+34,Jared Donaldson,Rajeev Ram,62 64 
+35,Frances Tiafoe,Andrew Whittington,765 63 
+36,Tim Smyczek,Bjorn Fratangelo,46 62 63 
+37,John-Patrick Smith,Stefan Kozlov,62 63 
+38,Ernesto Escobedo,Tobias Kamke,63 64 
+39,Roberto Bautista Agut,Daniil Medvedev,63 64 
+40,Roberto Bautista Agut,Benoit Paire,63 63 
+41,Daniil Medvedev,Dudi Sela,46 762 62 
+42,Roberto Bautista Agut,Mikhail Youzhny,26 64 64 
+43,Dudi Sela,Albert Ramos-Vinolas,75 64 
+44,Benoit Paire,Aljaz Bedene,63 60 
+45,Daniil Medvedev,Jozef Kovalik,61 64 
+46,Jozef Kovalik,Marin Cilic,765 57 75 
+47,Roberto Bautista Agut,Rogerio Dutra Silva,63 62 
+48,Albert Ramos-Vinolas,Steve Darcis,62 60 
+49,Aljaz Bedene,Martin Klizan,763 673 762 
+50,Benoit Paire,Yuki Bhambri,63 64 
+51,Mikhail Youzhny,Renzo Olivo,61 75 
+52,Daniil Medvedev,Yen-Hsun Lu,64 63 
+53,Dudi Sela,Hyeon Chung,62 62 
+54,Benoit Paire,Konstantin Kravchuk,63 64 
+55,Hyeon Chung,Borna Coric,63 75 
+56,Mikhail Youzhny,Saketh Myneni,64 63 
+57,Yen-Hsun Lu,Radu Albot,62 61 
+58,Aljaz Bedene,Guillermo Garcia-Lopez,63 63 
+59,Yuki Bhambri,Ramkumar Ramanathan,61 61 
+60,Steve Darcis,Nikola Mektic,62 63 
+61,Rogerio Dutra Silva,Dusan Lajovic,762 46 763 
+62,Jozef Kovalik,Gastao Elias,675 64 62 
+63,Daniil Medvedev,Thiago Monteiro,63 63 
+64,Renzo Olivo,Casper Ruud,763 62 
+65,Dudi Sela,Damir Dzumhur,62 62 
+66,Hyeon Chung,Jurgen Melzer,60 764 
+67,Yuki Bhambri,Nicolas Kicker,63 61 
+68,Jozef Kovalik,Prajnesh Gunneswaran,762 62 
+69,Nikola Mektic,Marco Trungelliti,75 62 
+70,Hyeon Chung,Miljan Zekic,61 63 
+71,Nicolas Kicker,Sasi Kumar Mukund,675 63 75 
+72,Jozef Kovalik,Franko Skugor,63 64 
+73,Marco Trungelliti,Alessandro Bega,60 64 
+74,Jurgen Melzer,Steven Diez,61 61 
+75,Prajnesh Gunneswaran,Hiroki Moriya,62 63 
+76,Nikola Mektic,Federico Gaio,63 60 
+77,Yuki Bhambri,Marco Cecchinato,75 61 
+78,Novak Djokovic,Andy Murray,63 57 64 
+79,Andy Murray,Tomas Berdych,63 64 
+80,Novak Djokovic,Fernando Verdasco,46 767 63 
+81,Andy Murray,Nicolas Almagro,764 75 
+82,Novak Djokovic,Radek Stepanek,63 63 
+83,Tomas Berdych,Jo-Wilfried Tsonga,75 63 
+84,Fernando Verdasco,Ivo Karlovic,62 75 
+85,Andy Murray,Gerald Melzer,766 75 
+86,Novak Djokovic,Horacio Zeballos,63 64 
+87,Tomas Berdych,Jiri Vesely,765 16 61 
+88,Fernando Verdasco,David Goffin,61 766 
+89,Jo-Wilfried Tsonga,Dustin Brown,61 63 
+90,Ivo Karlovic,Karen Khachanov,763 763 
+91,Nicolas Almagro,Philipp Kohlschreiber,765 766 
+92,Radek Stepanek,Arthur De Greef,63 62 
+93,Andy Murray,Jeremy Chardy,60 762 
+94,Novak Djokovic,Jan-Lennard Struff,761 63 
+95,Tomas Berdych,Alessandro Giannessi,761 62 
+96,David Goffin,Robin Haase,764 62 
+97,Jo-Wilfried Tsonga,Andrey Kuznetsov,61 46 62 
+98,Ivo Karlovic,Illya Marchenko,765 760 
+99,Philipp Kohlschreiber,Malek Jaziri,62 763 
+100,Radek Stepanek,Marcos Baghdatis,64 53 (RET)
+101,Nicolas Almagro,Paolo Lorenzi,762 46 63 
+102,Dustin Brown,Facundo Bagnis,61 672 64 
+103,Arthur De Greef,Mohamed Safwat,678 75 64 
+104,Karen Khachanov,Mubarak Shannan Zayid,61 63 
+105,Gerald Melzer,Paul-Henri Mathieu,672 63 62 
+106,Fernando Verdasco,Vasek Pospisil,75 60 
+107,Jiri Vesely,Anil Yuksel,62 63 
+108,Horacio Zeballos,Florian Mayer,673 64 769 
+109,Vasek Pospisil,Nikoloz Basilashvili,62 61 
+110,Radek Stepanek,Enrique Lopez-Perez,61 64 
+111,Alessandro Giannessi,Mirza Basic,64 62 
+112,Mohamed Safwat,Vincent Millot,63 06 62 
+113,Nikoloz Basilashvili,Luca Vanni,61 75 
+114,Radek Stepanek,Lorenzo Giustino,57 75 64 
+115,Mirza Basic,Marco Chiudinelli,64 06 61 
+116,Vincent Millot,Thomas Fabbiano,673 63 61 
+117,Enrique Lopez-Perez,Evgeny Donskoy,64 64 
+118,Mohamed Safwat,Taro Daniel,761 62 
+119,Alessandro Giannessi,Mousa Shanan Zayed,62 61 
+120,Vasek Pospisil,Jabor Al-Mutawa,62 62 
+121,Gilles Muller,Daniel Evans,765 62 
+122,Gilles Muller,Viktor Troicki,63 766 
+123,Daniel Evans,Andrey Kuznetsov,62 36 63 
+124,Daniel Evans,Dominic Thiem,36 64 61 
+125,Gilles Muller,Pablo Cuevas,765 64 
+126,Viktor Troicki,Philipp Kohlschreiber,(W/O)
+127,Andrey Kuznetsov,Pablo Carreno Busta,26 64 61 
+128,Dominic Thiem,Gastao Elias,675 63 75 
+129,Pablo Cuevas,Nicolas Mahut,64 26 62 
+130,Viktor Troicki,Paolo Lorenzi,63 64 
+131,Pablo Carreno Busta,Mischa Zverev,36 764 63 
+132,Philipp Kohlschreiber,Jordan Thompson,75 64 
+133,Gilles Muller,Matthew Barton,61 36 64 
+134,Daniel Evans,Marcel Granollers,16 63 63 
+135,Andrey Kuznetsov,Alex de Minaur,62 (RET)
+136,Philipp Kohlschreiber,Fabio Fognini,64 64 
+137,Gilles Muller,Alexandr Dolgopolov,36 63 75 
+138,Andrey Kuznetsov,Martin Klizan,26 61 30 (RET)
+139,Marcel Granollers,Santiago Giraldo,675 75 63 
+140,Matthew Barton,Kyle Edmund,763 765 
+141,Alex de Minaur,Benoit Paire,63 36 761 
+142,Gastao Elias,Christopher O'Connell,673 64 61 
+143,Daniel Evans,Thiago Monteiro,63 46 63 
+144,Paolo Lorenzi,Florian Mayer,764 46 765 
+145,Nicolas Mahut,Thomaz Bellucci,62 762 
+146,Jordan Thompson,Nikoloz Basilashvili,75 62 
+147,Mischa Zverev,Nicolas Almagro,64 62 
+148,Gastao Elias,Nikoloz Basilashvili,761 64 
+149,Thiago Monteiro,Santiago Giraldo,63 61 
+150,Matthew Barton,Mathias Bourgue,63 61 
+151,Christopher O'Connell,Enrique Lopez-Perez,63 75 
+152,Mathias Bourgue,Paul-Henri Mathieu,02 (RET)
+153,Christopher O'Connell,Illya Marchenko,63 63 
+154,Gastao Elias,Luca Vanni,64 46 62 
+155,Thiago Monteiro,Thomas Fabbiano,57 767 63 
+156,Matthew Barton,Mikhail Kukushkin,762 75 
+157,Santiago Giraldo,Andrew Whittington,762 64 
+158,Enrique Lopez-Perez,Dusan Lajovic,63 64 
+159,Nikoloz Basilashvili,Rogerio Dutra Silva,64 63 
+160,Jack Sock,Joao Sousa,63 57 63 
+161,Jack Sock,Steve Johnson,64 63 
+162,Joao Sousa,Marcos Baghdatis,61 75 
+163,Steve Johnson,John Isner,63 57 763 
+164,Jack Sock,Jeremy Chardy,57 64 63 
+165,Marcos Baghdatis,Jiri Vesely,62 64 
+166,Joao Sousa,Robin Haase,63 62 
+167,John Isner,Malek Jaziri,63 36 766 
+168,Robin Haase,David Ferrer,26 64 764 
+169,Jack Sock,Ryan Harrison,765 46 61 
+170,Jeremy Chardy,Feliciano Lopez,(W/O)
+171,Steve Johnson,Yen-Hsun Lu,64 764 
+172,Marcos Baghdatis,Dustin Brown,46 764 64 
+173,Joao Sousa,Brydan Klein,63 64 
+174,Jiri Vesely,Rubin Statham,676 75 63 
+175,Joao Sousa,Albert Ramos-Vinolas,61 75 
+176,Feliciano Lopez,Michael Venus,36 64 63 
+177,Steve Johnson,Stephane Robert,64 63 
+178,Marcos Baghdatis,Adrian Mannarino,64 64 
+179,Dustin Brown,Michael Mmoh,764 36 64 
+180,Jeremy Chardy,Artem Sitak,64 62 
+181,Robin Haase,Finn Tearney,64 75 
+182,Ryan Harrison,Guillermo Garcia-Lopez,61 62 
+183,Malek Jaziri,Diego Schwartzman,761 63 
+184,Brydan Klein,Facundo Bagnis,61 676 763 
+185,Yen-Hsun Lu,Karen Khachanov,46 765 769 
+186,Jiri Vesely,Horacio Zeballos,64 63 
+187,Ryan Harrison,Rubin Statham,64 61 
+188,Brydan Klein,Steven Diez,36 64 64 
+189,Michael Mmoh,Jerzy Janowicz,763 63 
+190,Finn Tearney,Cameron Norrie,61 63 
+191,Ryan Harrison,Marcin Matkowski,64 64 
+192,Steven Diez,Treat Huey,75 62 
+193,Michael Mmoh,Greg Jones,61 61 
+194,Cameron Norrie,Marcelo Demoliner,64 62 
+195,Jerzy Janowicz,Krisjanis Stabins,64 64 
+196,Brydan Klein,Masato Shiga,64 62 
+197,Rubin Statham,Rhett Purcell,762 60 
+198,Finn Tearney,Aisam-Ul-Haq Qureshi,46 75 (RET)
+199,Roger Federer,Rafael Nadal,64 36 61 36 63 
+200,Roger Federer,Stan Wawrinka,75 63 16 46 63 
+201,Rafael Nadal,Grigor Dimitrov,63 57 765 674 64 
+202,Rafael Nadal,Milos Raonic,64 767 64 
+203,Stan Wawrinka,Jo-Wilfried Tsonga,762 64 63 
+204,Grigor Dimitrov,David Goffin,63 62 64 
+205,Roger Federer,Mischa Zverev,61 75 62 
+206,Mischa Zverev,Andy Murray,75 57 62 64 
+207,Milos Raonic,Roberto Bautista Agut,766 36 64 61 
+208,Stan Wawrinka,Andreas Seppi,762 764 764 
+209,Roger Federer,Kei Nishikori,674 64 61 46 63 
+210,Rafael Nadal,Gael Monfils,63 63 46 64 
+211,David Goffin,Dominic Thiem,57 764 62 62 
+212,Jo-Wilfried Tsonga,Daniel Evans,674 62 64 64 
+213,Grigor Dimitrov,Denis Istomin,26 762 62 61 
+214,Andy Murray,Sam Querrey,64 62 64 
+215,Milos Raonic,Gilles Simon,62 765 36 63 
+216,Stan Wawrinka,Viktor Troicki,36 62 62 767 
+217,Kei Nishikori,Lukas Lacko,64 64 64 
+218,Gael Monfils,Philipp Kohlschreiber,63 761 64 
+219,Dominic Thiem,Benoit Paire,61 46 64 64 
+220,Rafael Nadal,Alexander Zverev,46 63 675 63 62 
+221,Roger Federer,Tomas Berdych,62 64 64 
+222,David Goffin,Ivo Karlovic,63 62 64 
+223,Jo-Wilfried Tsonga,Jack Sock,764 75 678 63 
+224,Roberto Bautista Agut,David Ferrer,75 676 763 64 
+225,Grigor Dimitrov,Richard Gasquet,63 62 64 
+226,Daniel Evans,Bernard Tomic,75 762 763 
+227,Denis Istomin,Pablo Carreno Busta,64 46 64 46 62 
+228,Andreas Seppi,Steve Darcis,46 64 761 762 
+229,Mischa Zverev,Malek Jaziri,61 46 63 60 
+230,Andy Murray,Andrey Rublev,63 60 62 
+231,Denis Istomin,Novak Djokovic,768 57 26 765 64 
+232,Milos Raonic,Gilles Muller,63 64 764 
+233,Stan Wawrinka,Steve Johnson,63 64 64 
+234,Kei Nishikori,Jeremy Chardy,63 64 63 
+235,Gael Monfils,Alexandr Dolgopolov,63 64 16 60 
+236,Daniel Evans,Marin Cilic,36 75 63 63 
+237,Dominic Thiem,Jordan Thompson,62 61 676 64 
+238,Rafael Nadal,Marcos Baghdatis,63 61 63 
+239,Tomas Berdych,Ryan Harrison,63 766 62 
+240,David Goffin,Radek Stepanek,64 60 63 
+241,Jo-Wilfried Tsonga,Dusan Lajovic,62 62 63 
+242,Roberto Bautista Agut,Yoshihito Nishioka,62 63 63 
+243,Andreas Seppi,Nick Kyrgios,16 671 64 62 108 
+244,Grigor Dimitrov,Hyeon Chung,16 64 64 64 
+245,Roger Federer,Noah Rubin,75 63 763 
+246,Richard Gasquet,Carlos Berlocq,61 61 61 
+247,Mischa Zverev,John Isner,674 674 64 767 97 
+248,Ivo Karlovic,Andrew Whittington,64 64 64 
+249,David Ferrer,Ernesto Escobedo,26 64 64 62 
+250,Jack Sock,Karen Khachanov,63 64 64 
+251,Alexander Zverev,Frances Tiafoe,62 63 64 
+252,Gilles Simon,Rogerio Dutra Silva,64 61 61 
+253,Bernard Tomic,Victor Estrella Burgos,75 764 46 765 
+254,Viktor Troicki,Paolo Lorenzi,63 16 763 36 63 
+255,Pablo Carreno Busta,Kyle Edmund,62 64 62 
+256,Sam Querrey,Alex de Minaur,765 60 61 
+257,Philipp Kohlschreiber,Donald Young,75 63 60 
+258,Steve Darcis,Diego Schwartzman,63 63 26 64 
+259,Malek Jaziri,Alexander Bublik,62 63 75 
+260,Lukas Lacko,Dudi Sela,26 63 62 64 
+261,Benoit Paire,Fabio Fognini,763 46 63 36 63 
+262,Andy Murray,Illya Marchenko,75 765 62 
+263,Novak Djokovic,Fernando Verdasco,61 764 62 
+264,Milos Raonic,Dustin Brown,63 64 62 
+265,Stan Wawrinka,Martin Klizan,46 64 75 46 64 
+266,Kei Nishikori,Andrey Kuznetsov,57 61 64 676 62 
+267,Gael Monfils,Jiri Vesely,62 63 62 
+268,Marin Cilic,Jerzy Janowicz,46 46 62 62 63 
+269,Dominic Thiem,Jan-Lennard Struff,46 64 64 63 
+270,Rafael Nadal,Florian Mayer,63 64 64 
+271,Tomas Berdych,Luca Vanni,61 (RET)
+272,David Goffin,Reilly Opelka,64 46 62 46 64 
+273,Jo-Wilfried Tsonga,Thiago Monteiro,61 63 675 62 
+274,Roberto Bautista Agut,Guido Pella,63 61 61 
+275,Nick Kyrgios,Gastao Elias,61 62 62 
+276,Grigor Dimitrov,Christopher O'Connell,762 63 63 
+277,Alexander Bublik,Lucas Pouille,60 36 63 64 
+278,Roger Federer,Jurgen Melzer,75 36 62 62 
+279,Richard Gasquet,Blake Mott,64 64 62 
+280,John Isner,Konstantin Kravchuk,63 64 675 61 
+281,Ivo Karlovic,Horacio Zeballos,676 36 75 62 2220 
+282,David Ferrer,Omar Jasika,63 60 62 
+283,Diego Schwartzman,Pablo Cuevas,63 63 60 
+284,Jack Sock,Pierre-Hugues Herbert,64 764 63 
+285,Alexander Zverev,Robin Haase,62 36 57 63 62 
+286,Gilles Simon,Michael Mmoh,61 63 63 
+287,Lukas Lacko,Albert Ramos-Vinolas,46 75 16 64 63 
+288,Bernard Tomic,Thomaz Bellucci,62 61 64 
+289,Fabio Fognini,Feliciano Lopez,75 63 75 
+290,Viktor Troicki,Damir Dzumhur,64 64 26 26 63 
+291,Pablo Carreno Busta,Peter Polansky,60 36 36 62 30 (RET)
+292,Sam Querrey,Quentin Halys,6710 764 63 64 
+293,Philipp Kohlschreiber,Nikoloz Basilashvili,64 36 762 64 
+294,Marcos Baghdatis,Mikhail Youzhny,63 30 (RET)
+295,Carlos Berlocq,Radu Albot,64 764 57 768 
+296,Jeremy Chardy,Nicolas Almagro,40 (RET)
+297,Hyeon Chung,Renzo Olivo,62 63 62 
+298,Steve Darcis,Sam Groth,36 63 62 62 
+299,Alex de Minaur,Gerald Melzer,57 63 26 762 61 
+300,Alexandr Dolgopolov,Borna Coric,63 64 36 767 
+301,Rogerio Dutra Silva,Jared Donaldson,36 06 61 64 64 
+302,Kyle Edmund,Santiago Giraldo,62 75 63 
+303,Ernesto Escobedo,Daniil Medvedev,75 46 765 61 
+304,Victor Estrella Burgos,Aljaz Bedene,767 75 06 63 
+305,Daniel Evans,Facundo Bagnis,768 63 61 
+306,Ryan Harrison,Nicolas Mahut,63 64 62 
+307,Denis Istomin,Ivan Dodig,61 64 36 75 
+308,Malek Jaziri,Go Soeda,63 64 63 
+309,Steve Johnson,Federico Delbonis,63 64 64 
+310,Karen Khachanov,Adrian Mannarino,64 36 769 63 
+311,Dusan Lajovic,Stephane Robert,63 63 63 
+312,Paolo Lorenzi,James Duckworth,64 764 674 64 
+313,Gilles Muller,Taylor Fritz,766 765 63 
+314,Yoshihito Nishioka,Alex Bolt,64 16 62 64 
+315,Benoit Paire,Tommy Haas,762 64 (RET)
+316,Noah Rubin,Bjorn Fratangelo,674 75 36 62 62 
+317,Andrey Rublev,Yen-Hsun Lu,46 63 760 63 
+318,Dudi Sela,Marcel Granollers,57 63 62 60 
+319,Andreas Seppi,Paul-Henri Mathieu,64 764 673 75 
+320,Radek Stepanek,Dmitry Tursunov,62 761 63 
+321,Jordan Thompson,Joao Sousa,672 46 63 62 61 
+322,Frances Tiafoe,Mikhail Kukushkin,61 673 63 62 
+323,Andrew Whittington,Adam Pavlasek,64 46 62 63 
+324,Donald Young,Thomas Fabbiano,64 761 64 
+325,Mischa Zverev,Guillermo Garcia-Lopez,63 765 64 
+326,Radek Stepanek,John-Patrick Smith,62 64 
+327,Frances Tiafoe,Tim Smyczek,36 60 75 
+328,Bjorn Fratangelo,Hiroki Moriya,46 64 64 
+329,Lukas Lacko,Denis Kudla,62 62 
+330,Noah Rubin,Evgeny Donskoy,62 64 
+331,Jurgen Melzer,Rajeev Ram,62 36 63 
+332,Ernesto Escobedo,Yuki Bhambri,672 62 64 
+333,Andrey Rublev,Peter Polansky,64 46 63 
+334,Alex Bolt,Julien Benneteau,63 75 
+335,Go Soeda,Marco Trungelliti,62 36 64 
+336,Thomas Fabbiano,Andre Ghem,64 764 
+337,Alexander Bublik,Duckhee Lee,46 64 64 
+338,Ivan Dodig,Di Wu,61 75 
+339,Blake Mott,James McGee,765 36 63 
+340,Reilly Opelka,Casper Ruud,762 63 
+341,Luca Vanni,Jan Satral,46 64 64 
+342,Radek Stepanek,Blaz Kavcic,63 674 86 
+343,Frances Tiafoe,Yannik Reuter,64 60 
+344,Andrey Rublev,Yuichi Sugita,64 762 
+345,Bjorn Fratangelo,Stefanos Tsitsipas,46 61 63 
+346,Lukas Lacko,Maximo Gonzalez,46 62 62 
+347,Evgeny Donskoy,Matthew Ebden,763 46 62 
+348,Jurgen Melzer,Taro Daniel,63 62 
+349,Blake Mott,Tobias Kamke,62 64 
+350,Denis Kudla,Darian King,46 64 64 
+351,Rajeev Ram,Marcelo Arevalo,61 46 86 
+352,Ernesto Escobedo,Tatsuma Ito,61 63 
+353,Peter Polansky,Mirza Basic,64 63 
+354,Tim Smyczek,Mohamed Safwat,64 63 
+355,Julien Benneteau,Guilherme Clezar,75 60 
+356,Go Soeda,Adrian Menendez-Maceiras,36 64 75 
+357,James McGee,Vincent Millot,62 64 
+358,Thomas Fabbiano,Akira Santillan,46 64 62 
+359,Noah Rubin,Roberto Carballes Baena,64 36 62 
+360,Yuki Bhambri,Pedja Krstin,63 64 
+361,Alex Bolt,Matthias Bachinger,64 765 
+362,Alexander Bublik,Kimmer Coppejans,672 64 62 
+363,Ivan Dodig,Laslo Djere,63 16 62 
+364,Andre Ghem,Yuya Kibi,26 63 61 
+365,Duckhee Lee,Bradley Mousley,675 60 62 
+366,Hiroki Moriya,Uladzimir Ignatik,46 62 63 
+367,Reilly Opelka,Mitchell Krueger,63 762 
+368,Casper Ruud,Jonathan Eysseric,63 36 63 
+369,Jan Satral,Yasutaka Uchiyama,766 16 97 
+370,John-Patrick Smith,Kenny De Schepper,64 63 
+371,Marco Trungelliti,Peter Gojowczyk,50 (RET)
+372,Luca Vanni,Alexander Sarkissian,36 63 62 
+373,Di Wu,Miljan Zekic,64 62 
+374,Radek Stepanek,Sekou Bangoura,63 672 62 
+375,Frances Tiafoe,Marco Cecchinato,63 57 75 
+376,Marco Trungelliti,Jozef Kovalik,63 63 
+377,Yuichi Sugita,Marc Polmans,61 61 
+378,Duckhee Lee,Nicolas Kicker,57 75 61 
+379,Bjorn Fratangelo,Grega Zemlja,64 763 
+380,Yuki Bhambri,Stefan Kozlov,61 64 
+381,Miljan Zekic,Benjamin Becker,64 57 108 
+382,Andre Ghem,Joao Souza,62 57 86 
+383,Lukas Lacko,Jeremy Jahn,62 63 
+384,Evgeny Donskoy,Dmitry Popko,36 61 97 
+385,Jan Satral,Alessandro Giannessi,766 764 
+386,Taro Daniel,Aldin Setkic,75 64 
+387,Tobias Kamke,Dennis Novikov,765 64 
+388,Alex Bolt,Marius Copil,672 64 64 
+389,Mitchell Krueger,Marco Chiudinelli,16 64 63 
+390,Alexander Bublik,Arthur De Greef,57 63 86 
+391,Denis Kudla,Luke Saville,64 75 
+392,Uladzimir Ignatik,Vasek Pospisil,36 63 64 
+393,Rajeev Ram,Ilya Ivashka,64 64 
+394,Ernesto Escobedo,Maximilian Marterer,765 75 
+395,Peter Polansky,Tristan Lamasine,62 64 
+396,Alexander Sarkissian,Henri Laaksonen,64 61 
+397,Laslo Djere,Andrej Martin,60 62 
+398,Tim Smyczek,Jordi Samper-Montana,63 63 
+399,Julien Benneteau,Nikola Milojevic,63 63 
+400,Kenny De Schepper,Norbert Gombos,64 57 97 
+401,Casper Ruud,Teymuraz Gabashvili,64 64 
+402,Go Soeda,Ruben Bemelmans,7610 63 
+403,Vincent Millot,Riccardo Bellotti,63 61 
+404,Thomas Fabbiano,Bradley Klahn,64 673 63 
+405,Roberto Carballes Baena,Marinko Matosevic,64 62 
+406,Marcelo Arevalo,Scott Jones,62 62 
+407,Matthias Bachinger,Franko Skugor,766 63 
+408,Mirza Basic,Lorenzo Giustino,36 63 62 
+409,Guilherme Clezar,Kristijan Mesaros,62 61 
+410,Kimmer Coppejans,Tennys Sandgren,61 765 
+411,Ivan Dodig,Amir Weintraub,62 62 
+412,Matthew Ebden,Andrey Golubev,61 62 
+413,Jonathan Eysseric,Mathias Bourgue,16 63 62 
+414,Peter Gojowczyk,Saketh Myneni,60 62 
+415,Maximo Gonzalez,Enrique Lopez-Perez,764 764 
+416,Tatsuma Ito,Daniel Masur,64 765 
+417,Blaz Kavcic,Matteo Donati,62 33 (RET)
+418,Yuya Kibi,Brian Baker,63 764 
+419,Darian King,Jose Hernandez-Fernandez,62 62 
+420,Pedja Krstin,Zdenek Kolar,36 61 75 
+421,James McGee,Matija Pecotic,763 75 
+422,Jurgen Melzer,Joris De Loore,62 36 63 
+423,Adrian Menendez-Maceiras,Daniel Brands,36 767 64 
+424,Hiroki Moriya,Harry Bourchier,62 63 
+425,Blake Mott,Alexander Kudryavtsev,61 62 
+426,Bradley Mousley,Marton Fucsovics,36 60 64 
+427,Reilly Opelka,Stefano Napolitano,75 63 
+428,Yannik Reuter,Steven Diez,63 26 64 
+429,Noah Rubin,Cedrik-Marcel Stebe,57 64 64 
+430,Andrey Rublev,Max Purcell,64 676 61 
+431,Mohamed Safwat,Pedro Sousa,762 64 
+432,Akira Santillan,Elias Ymer,63 764 
+433,John-Patrick Smith,Agustin Velotti,766 63 
+434,Stefanos Tsitsipas,Gavin Van Peperzeel,62 61 
+435,Yasutaka Uchiyama,Marko Tepavac,64 762 
+436,Luca Vanni,Federico Gaio,57 62 63 
+437,Di Wu,Maverick Banes,61 61 
+438,Alexander Zverev,Richard Gasquet,764 63 
+439,Alexander Zverev,Jo-Wilfried Tsonga,676 62 64 
+440,Richard Gasquet,Benoit Paire,62 62 
+441,Jo-Wilfried Tsonga,Daniil Medvedev,62 75 
+442,Richard Gasquet,Kenny De Schepper,62 57 64 
+443,Alexander Zverev,Jeremy Chardy,64 46 62 
+444,Benoit Paire,Dustin Brown,10 (RET)
+445,Dustin Brown,Marin Cilic,64 64 
+446,Jo-Wilfried Tsonga,Pierre-Hugues Herbert,61 62 
+447,Richard Gasquet,Malek Jaziri,75 62 
+448,Alexander Zverev,Aljaz Bedene,75 36 64 
+449,Benoit Paire,Feliciano Lopez,64 765 
+450,Daniil Medvedev,Fernando Verdasco,63 63 
+451,Jeremy Chardy,Paul-Henri Mathieu,36 61 64 
+452,Kenny De Schepper,Illya Marchenko,769 762 
+453,Feliciano Lopez,Julien Benneteau,63 46 760 
+454,Kenny De Schepper,Mischa Zverev,64 63 
+455,Jeremy Chardy,Marcel Granollers,60 36 63 
+456,Fernando Verdasco,Gregoire Barrere,62 61 
+457,Aljaz Bedene,Borna Coric,75 46 61 
+458,Dustin Brown,Guillermo Garcia-Lopez,764 63 
+459,Pierre-Hugues Herbert,Calvin Hemery ,63 75 
+460,Malek Jaziri,Tristan Lamasine,16 75 763 
+461,Illya Marchenko,Quentin Halys,64 64 
+462,Paul-Henri Mathieu,Vincent Millot,62 46 63 
+463,Daniil Medvedev,Tobias Kamke,62 763 
+464,Benoit Paire,Karen Khachanov,764 64 
+465,Julien Benneteau,Stefano Napolitano,36 64 64 
+466,Calvin Hemery ,Vincent Millot,63 64 
+467,Kenny De Schepper,Gregoire Barrere,762 62 
+468,Tristan Lamasine,Jonathan Eysseric,46 764 63 
+469,Julien Benneteau,Fabrice Martin,64 64 
+470,Vincent Millot,Corentin Moutet,63 63 
+471,Kenny De Schepper,Aslan Karatsev,767 62 
+472,Jonathan Eysseric,Albert Montanes,64 75 
+473,Calvin Hemery ,Enrique Lopez-Perez,63 64 
+474,Stefano Napolitano,Divij Sharan,64 60 
+475,Gregoire Barrere,Jeremy Jahn,62 63 
+476,Tristan Lamasine,Jordi Samper-Montana,764 60 
+477,Victor Estrella Burgos,Paolo Lorenzi,672 75 766 
+478,Paolo Lorenzi,Albert Ramos-Vinolas,61 64 
+479,Victor Estrella Burgos,Thomaz Bellucci,764 763 
+480,Albert Ramos-Vinolas,Roberto Carballes Baena,75 46 62 
+481,Paolo Lorenzi,Rajeev Ram,63 64 
+482,Thomaz Bellucci,Renzo Olivo,62 61 
+483,Victor Estrella Burgos,Federico Gaio,64 64 
+484,Victor Estrella Burgos,Ivo Karlovic,677 765 768 
+485,Albert Ramos-Vinolas,Alejandro Falla,62 75 
+486,Paolo Lorenzi,Matthew Ebden,64 64 
+487,Thomaz Bellucci,Janko Tipsarevic,768 762 
+488,Renzo Olivo,Santiago Giraldo,763 26 63 
+489,Roberto Carballes Baena,Giovanni Lapentti,63 64 
+490,Federico Gaio,Gerald Melzer,674 63 762 
+491,Rajeev Ram,Nicolas Kicker,765 63 
+492,Rajeev Ram,Alexandr Dolgopolov,36 764 63 
+493,Gerald Melzer,Horacio Zeballos,674 63 764 
+494,Giovanni Lapentti,Thiago Monteiro,63 62 
+495,Renzo Olivo,Emilio Gomez,57 62 765 
+496,Roberto Carballes Baena,Rogerio Dutra Silva,63 61 
+497,Matthew Ebden,Agustin Velotti,26 64 63 
+498,Victor Estrella Burgos,Andrej Martin,36 62 64 
+499,Alejandro Falla,Alessandro Giannessi,64 63 
+500,Federico Gaio,Joao Souza,57 64 75 
+501,Santiago Giraldo,Benjamin Becker,64 64 
+502,Nicolas Kicker,Guido Andreozzi,46 63 64 
+503,Janko Tipsarevic,Daniel Gimeno-Traver,41 (RET)
+504,Roberto Carballes Baena,Alexander Sarkissian,36 766 64 
+505,Federico Gaio,Marco Cecchinato,673 765 64 
+506,Agustin Velotti,Eduardo Struvay,16 75 64 
+507,Alejandro Falla,Caio Zampieri,64 64 
+508,Roberto Carballes Baena,Andres Molteni,63 64 
+509,Alejandro Falla,Ruben Ramirez Hidalgo,64 36 61 
+510,Federico Gaio,Daniel Elahi Galan,62 36 762 
+511,Agustin Velotti,Camilo Ponce,63 61 
+512,Marco Cecchinato,Guilherme Clezar,46 764 765 
+513,Alexander Sarkissian,Juan Pablo Paz,64 64 
+514,Eduardo Struvay,Adrian Menendez-Maceiras,63 761 
+515,Caio Zampieri,Andrea Collarini,63 64 
+516,Grigor Dimitrov,David Goffin,75 64 
+517,David Goffin,Roberto Bautista Agut,57 64 763 
+518,Grigor Dimitrov,Nikoloz Basilashvili,61 63 
+519,David Goffin,Steve Darcis,61 63 
+520,Grigor Dimitrov,Viktor Troicki,63 63 
+521,Roberto Bautista Agut,Gilles Muller,75 765 
+522,Nikoloz Basilashvili,Martin Klizan,06 63 63 
+523,Nikoloz Basilashvili,Dominic Thiem,64 64 
+524,David Goffin,Radu Albot,62 677 63 
+525,Grigor Dimitrov,Jerzy Janowicz,46 63 75 
+526,Roberto Bautista Agut,Cedrik-Marcel Stebe,764 63 
+527,Gilles Muller,Mikhail Youzhny,63 75 
+528,Martin Klizan,Daniel Brands,763 62 
+529,Viktor Troicki,Robin Haase,26 64 763 
+530,Steve Darcis,Andreas Seppi,63 75 
+531,Gilles Muller,Mathias Bourgue,63 62 
+532,Martin Klizan,Andrey Kuznetsov,60 764 
+533,Viktor Troicki,Cem Ilkel,63 62 
+534,Radu Albot,Alexandar Lazarov,760 62 
+535,Nikoloz Basilashvili,Adrian Mannarino,767 763 
+536,Daniel Brands,Marco Chiudinelli,674 764 62 
+537,Steve Darcis,Maximilian Marterer,63 763 
+538,Robin Haase,Dimitar Kuzmanov,64 63 
+539,Jerzy Janowicz,Dudi Sela,64 64 
+540,Andreas Seppi,Damir Dzumhur,763 36 63 
+541,Cedrik-Marcel Stebe,Teymuraz Gabashvili,26 60 61 
+542,Mikhail Youzhny,Marko Tepavac,762 64 
+543,Daniel Brands,Teymuraz Gabashvili,64 36 64 
+544,Maximilian Marterer,Marko Tepavac,764 75 
+545,Mathias Bourgue,Filip Krajinovic,767 64 
+546,Cedrik-Marcel Stebe,Miljan Zekic,764 60 
+547,Teymuraz Gabashvili,Daniel Masur,75 46 765 
+548,Cedrik-Marcel Stebe,Steven Diez,63 761 
+549,Maximilian Marterer,Adrian Andreev,62 60 
+550,Mathias Bourgue,Alexandre Sidorenko,57 63 62 
+551,Filip Krajinovic,Hiroki Moriya,63 64 
+552,Miljan Zekic,Stefanos Tsitsipas,64 63 
+553,Marko Tepavac,Sarp Agabigun,64 62 
+554,Daniel Brands,Yannick Mertens,75 46 62 
+555,Alexandr Dolgopolov,Kei Nishikori,764 64 
+556,Kei Nishikori,Carlos Berlocq,46 64 63 
+557,Alexandr Dolgopolov,Pablo Carreno Busta,75 62 
+558,Kei Nishikori,Joao Sousa,61 64 
+559,Pablo Carreno Busta,Albert Ramos-Vinolas,63 46 64 
+560,Carlos Berlocq,Thiago Monteiro,36 62 63 
+561,Alexandr Dolgopolov,Gerald Melzer,75 64 
+562,Kei Nishikori,Diego Schwartzman,57 62 62 
+563,Alexandr Dolgopolov,Pablo Cuevas,63 764 
+564,Carlos Berlocq,David Ferrer,64 62 
+565,Pablo Carreno Busta,Alessandro Giannessi,61 46 64 
+566,Albert Ramos-Vinolas,Leonardo Mayer,674 763 10 (RET)
+567,Joao Sousa,Federico Delbonis,75 63 
+568,Gerald Melzer,Guido Andreozzi,764 63 
+569,Thiago Monteiro,Tommy Robredo,63 64 
+570,Albert Ramos-Vinolas,Guido Pella,678 64 766 
+571,Joao Sousa,Horacio Zeballos,62 764 
+572,Tommy Robredo,Fabio Fognini,64 63 
+573,Gerald Melzer,Paolo Lorenzi,63 63 
+574,Guido Andreozzi,Renzo Olivo,26 64 64 
+575,Carlos Berlocq,Jozef Kovalik,64 64 
+576,Federico Delbonis,Stephane Robert,63 61 
+577,Alexandr Dolgopolov,Janko Tipsarevic,63 63 
+578,Alessandro Giannessi,Rogerio Dutra Silva,57 766 64 
+579,Leonardo Mayer,Gastao Elias,46 64 64 
+580,Thiago Monteiro,Victor Estrella Burgos,62 61 
+581,Diego Schwartzman,Facundo Bagnis,61 64 
+582,Rogerio Dutra Silva,Joao Souza,62 62 
+583,Alessandro Giannessi,Dusan Lajovic,63 36 61 
+584,Jozef Kovalik,Ruben Ramirez Hidalgo,63 16 64 
+585,Guido Andreozzi,Maximo Gonzalez,60 64 
+586,Rogerio Dutra Silva,Federico Coria,62 60 
+587,Dusan Lajovic,Simone Bolelli,61 64 
+588,Jozef Kovalik,Andrej Martin,52 (RET)
+589,Maximo Gonzalez,Nicolas Kicker,63 16 63 
+590,Guido Andreozzi,Manuel Pena Lopez,64 62 
+591,Alessandro Giannessi,Roberto Carballes Baena,64 64 
+592,Joao Souza,Marco Cecchinato,761 63 
+593,Ruben Ramirez Hidalgo,Arthur De Greef,64 62 
+594,Ryan Harrison,Nikoloz Basilashvili,61 64 
+595,Nikoloz Basilashvili,Mikhail Kukushkin,765 61 
+596,Ryan Harrison,Donald Young,64 64 
+597,Donald Young,John Isner,765 36 766 
+598,Mikhail Kukushkin,Steve Johnson,60 64 
+599,Nikoloz Basilashvili,Matthew Ebden,763 64 
+600,Ryan Harrison,Damir Dzumhur,63 64 
+601,Nikoloz Basilashvili,Ivo Karlovic,762 63 
+602,John Isner,Yoshihito Nishioka,46 63 64 
+603,Ryan Harrison,Sam Querrey,63 61 
+604,Steve Johnson,Tim Smyczek,36 64 62 
+605,Damir Dzumhur,Steve Darcis,762 64 
+606,Matthew Ebden,Taylor Fritz,64 46 63 
+607,Mikhail Kukushkin,Darian King,63 60 
+608,Donald Young,Reilly Opelka,763 63 
+609,Darian King,Bernard Tomic,64 64 
+610,Donald Young,Adrian Mannarino,36 75 764 
+611,Steve Darcis,Radu Albot,75 36 64 
+612,Taylor Fritz,Yen-Hsun Lu,46 764 767 
+613,Nikoloz Basilashvili,Jordan Thompson,63 60 
+614,Damir Dzumhur,Kevin Anderson,676 762 64 
+615,Matthew Ebden,Peter Polansky,674 63 61 
+616,Ryan Harrison,Konstantin Kravchuk,63 75 
+617,Mikhail Kukushkin,Benjamin Becker,63 64 
+618,Yoshihito Nishioka,Guillermo Garcia-Lopez,64 64 
+619,Reilly Opelka,Jared Donaldson,61 75 
+620,Tim Smyczek,Frances Tiafoe,63 57 63 
+621,Peter Polansky,Matthew Barton,62 61 
+622,Tim Smyczek,Benjamin Becker,(W/O)
+623,Darian King,Tatsuma Ito,61 30 (RET)
+624,Matthew Ebden,Brian Baker,62 64 
+625,Peter Polansky,Jeevan Nedunchezhiyan,63 63 
+626,Benjamin Becker,Nikola Mektic,63 63 
+627,Matthew Ebden,Denis Kudla,764 16 61 
+628,Darian King,Andrew Watson,62 63 
+629,Brian Baker,Elias Ymer,64 64 
+630,Tim Smyczek,Scott Lipsky,62 63 
+631,Tatsuma Ito,James McGee,46 764 61 
+632,Matthew Barton,Tommy Paul,63 36 765 
+633,Jo-Wilfried Tsonga,David Goffin,46 64 61 
+634,David Goffin,Pierre-Hugues Herbert,61 63 
+635,Jo-Wilfried Tsonga,Tomas Berdych,63 64 
+636,Jo-Wilfried Tsonga,Marin Cilic,768 765 
+637,Pierre-Hugues Herbert,Dominic Thiem,64 763 
+638,David Goffin,Grigor Dimitrov,64 16 63 
+639,Tomas Berdych,Martin Klizan,63 63 
+640,Marin Cilic,Borna Coric,61 26 64 
+641,Dominic Thiem,Gilles Simon,64 764 
+642,David Goffin,Robin Haase,57 64 64 
+643,Tomas Berdych,Richard Gasquet,764 61 
+644,Grigor Dimitrov,Denis Istomin,767 61 
+645,Jo-Wilfried Tsonga,Gilles Muller,64 62 
+646,Pierre-Hugues Herbert,Evgeny Donskoy,62 764 
+647,Martin Klizan,Philipp Kohlschreiber,675 64 61 
+648,Marin Cilic,Benoit Paire,57 63 62 
+649,Dominic Thiem,Alexander Zverev,36 63 64 
+650,David Goffin,Andrey Kuznetsov,63 62 
+651,Tomas Berdych,Marius Copil,763 64 
+652,Grigor Dimitrov,Mischa Zverev,674 62 64 
+653,Jo-Wilfried Tsonga,Stefanos Tsitsipas,64 762 
+654,Philipp Kohlschreiber,Lucas Pouille,75 62 
+655,Borna Coric,Karen Khachanov,766 7610 
+656,Evgeny Donskoy,Marcel Granollers,64 64 
+657,Richard Gasquet,Viktor Troicki,64 62 
+658,Robin Haase,Florian Mayer,75 763 
+659,Pierre-Hugues Herbert,Feliciano Lopez,765 765 
+660,Denis Istomin,Aljaz Bedene,63 763 
+661,Martin Klizan,Fernando Verdasco,64 06 61 
+662,Gilles Muller,Tallon Griekspoor,63 62 
+663,Gilles Simon,Nicolas Mahut,36 63 64 
+664,Marius Copil,Jan-Lennard Struff,63 64 
+665,Aljaz Bedene,Denis Istomin,768 63 
+666,Pierre-Hugues Herbert,Botic Van de Zandschulp,763 64 
+667,Evgeny Donskoy,Ernests Gulbis,675 764 7610 
+668,Jan-Lennard Struff,Albert Montanes,61 60 
+669,Evgeny Donskoy,Mikhail Youzhny,63 30 (RET)
+670,Pierre-Hugues Herbert,Ruben Bemelmans,677 64 75 
+671,Ernests Gulbis,Sergiy Stakhovsky,676 75 63 
+672,Aljaz Bedene,Niels Lootsma,63 63 
+673,Botic Van de Zandschulp,Andrey Rublev,16 64 63 
+674,Marius Copil,Tobias Kamke,671 763 61 
+675,Jack Sock,Milos Raonic,(W/O)
+676,Milos Raonic,Juan Martin del Potro,63 766 
+677,Jack Sock,Donald Young,64 762 
+678,Milos Raonic,Kyle Edmund,46 63 64 
+679,Jack Sock,Steve Johnson,64 764 
+680,Juan Martin del Potro,Sam Querrey,75 75 
+681,Donald Young,Steve Darcis,(W/O)
+682,Milos Raonic,Borna Coric,63 762 
+683,Jack Sock,Guillermo Garcia-Lopez,64 61 
+684,Sam Querrey,Jared Donaldson,62 63 
+685,Steve Johnson,Yoshihito Nishioka,64 61 
+686,Juan Martin del Potro,Damir Dzumhur,765 46 63 
+687,Kyle Edmund,Yen-Hsun Lu,63 36 62 
+688,Steve Darcis,Nikoloz Basilashvili,63 75 
+689,Donald Young,Taylor Fritz,46 63 64 
+690,Milos Raonic,Tim Smyczek,61 64 
+691,Donald Young,Ivo Karlovic,765 763 
+692,Jack Sock,Radu Albot,64 762 
+693,Sam Querrey,Dudi Sela,62 21 (RET)
+694,Steve Johnson,Stefan Kozlov,61 64 
+695,Steve Darcis,Bernard Tomic,36 61 64 
+696,Juan Martin del Potro,Kevin Anderson,64 64 
+697,Kyle Edmund,Adrian Mannarino,63 60 
+698,Nikoloz Basilashvili,Tommy Haas,674 768 62 
+699,Borna Coric,Santiago Giraldo,62 63 
+700,Jared Donaldson,Mikhail Kukushkin,765 36 63 
+701,Damir Dzumhur,Konstantin Kravchuk,63 64 
+702,Taylor Fritz,Akira Santillan,64 64 
+703,Guillermo Garcia-Lopez,Dustin Brown,63 63 
+704,Yen-Hsun Lu,Bjorn Fratangelo,46 75 64 
+705,Yoshihito Nishioka,Kimmer Coppejans,63 63 
+706,Steve Darcis,Darian King,61 64 
+707,Kimmer Coppejans,Hyeon Chung,36 62 62 
+708,Tim Smyczek,Vasek Pospisil,62 62 
+709,Akira Santillan,Benjamin Becker,61 62 
+710,Steve Darcis,Marcos Giron,62 60 
+711,Hyeon Chung,Peter Nagy,62 60 
+712,Vasek Pospisil,Boris Kozlov,64 61 
+713,Akira Santillan,Tobias Kamke,63 764 
+714,Kimmer Coppejans,Rajeev Ram,46 75 765 
+715,Tim Smyczek,Peter Polansky,62 62 
+716,Benjamin Becker,Philip Bester,62 672 62 
+717,Darian King,Elias Ymer,64 61 
+718,Jo-Wilfried Tsonga,Lucas Pouille,64 64 
+719,Jo-Wilfried Tsonga,Nick Kyrgios,765 26 64 
+720,Lucas Pouille,Richard Gasquet,75 63 
+721,Richard Gasquet,Gael Monfils,675 64 62 
+722,Jo-Wilfried Tsonga,Gilles Simon,64 61 
+723,Nick Kyrgios,Norbert Gombos,63 63 
+724,Lucas Pouille,Daniil Medvedev,46 61 64 
+725,Gael Monfils,Sergiy Stakhovsky,61 64 
+726,Jo-Wilfried Tsonga,Illya Marchenko,63 63 
+727,Nick Kyrgios,Malek Jaziri,64 62 
+728,Lucas Pouille,Aljaz Bedene,75 75 
+729,Richard Gasquet,Mikhail Youzhny,75 62 
+730,Gilles Simon,Julien Benneteau,62 26 63 
+731,Norbert Gombos,Nicolas Mahut,75 36 765 
+732,Daniil Medvedev,Jan-Lennard Struff,63 36 763 
+733,Nicolas Mahut,Alexander Zverev,765 765 
+734,Richard Gasquet,Robin Haase,675 63 62 
+735,Gilles Simon,Karen Khachanov,46 75 63 
+736,Daniil Medvedev,Benoit Paire,57 75 764 
+737,Aljaz Bedene,Paul-Henri Mathieu,36 61 64 
+738,Julien Benneteau,Denis Shapovalov,75 64 
+739,Norbert Gombos,Evgeny Donskoy,61 61 
+740,Malek Jaziri,Andrey Kuznetsov,63 63 
+741,Illya Marchenko,Andrey Rublev,61 766 
+742,Sergiy Stakhovsky,Jiri Vesely,62 64 
+743,Jan-Lennard Struff,Jeremy Chardy,63 75 
+744,Mikhail Youzhny,Stefanos Tsitsipas,61 46 75 
+745,Sergiy Stakhovsky,Thomas Fabbiano,36 763 64 
+746,Andrey Rublev,Albert Montanes,63 62 
+747,Evgeny Donskoy,Lukas Rosol,64 764 
+748,Norbert Gombos,Vincent Millot,764 63 
+749,Sergiy Stakhovsky,Steven Diez,764 62 
+750,Andrey Rublev,Jan Satral,26 63 63 
+751,Evgeny Donskoy,Maxime Hamou,62 61 
+752,Norbert Gombos,Enrique Lopez-Perez,674 765 64 
+753,Thomas Fabbiano,Jurgen Melzer,36 762 63 
+754,Vincent Millot,Maxime Chazal,674 61 64 
+755,Lukas Rosol,Jonathan Eysseric,63 63 
+756,Albert Montanes,Marton Fucsovics,06 64 64 
+757,Dominic Thiem,Pablo Carreno Busta,75 64 
+758,Dominic Thiem,Albert Ramos-Vinolas,61 64 
+759,Pablo Carreno Busta,Casper Ruud,26 75 60 
+760,Dominic Thiem,Diego Schwartzman,62 63 
+761,Pablo Carreno Busta,Alexandr Dolgopolov,764 672 10 (RET)
+762,Albert Ramos-Vinolas,Nicolas Kicker,62 63 
+763,Casper Ruud,Thiago Monteiro,62 762 
+764,Dominic Thiem,Dusan Lajovic,62 75 
+765,Pablo Carreno Busta,Victor Estrella Burgos,62 46 62 
+766,Albert Ramos-Vinolas,Fabio Fognini,62 63 
+767,Alexandr Dolgopolov,Horacio Zeballos,764 46 64 
+768,Nicolas Kicker,Arthur De Greef,63 63 
+769,Thiago Monteiro,Thomaz Bellucci,768 36 63 
+770,Casper Ruud,Roberto Carballes Baena,674 64 763 
+771,Diego Schwartzman,Federico Delbonis,64 761 
+772,Thomaz Bellucci,Kei Nishikori,64 63 
+773,Dominic Thiem,Janko Tipsarevic,64 75 
+774,Arthur De Greef,Pablo Cuevas,63 36 75 
+775,Pablo Carreno Busta,Joao Souza,63 62 
+776,Albert Ramos-Vinolas,Stephane Robert,62 60 
+777,Alexandr Dolgopolov,David Ferrer,64 64 
+778,Federico Delbonis,Paolo Lorenzi,46 61 64 
+779,Roberto Carballes Baena,Joao Sousa,63 61 
+780,Victor Estrella Burgos,Guido Pella,62 75 
+781,Fabio Fognini,Tommy Robredo,62 64 
+782,Nicolas Kicker,Marco Cecchinato,75 60 
+783,Dusan Lajovic,Facundo Bagnis,64 64 
+784,Thiago Monteiro,Gastao Elias,26 764 64 
+785,Casper Ruud,Rogerio Dutra Silva,63 64 
+786,Diego Schwartzman,Renzo Olivo,62 36 64 
+787,Horacio Zeballos,Carlos Berlocq,62 63 
+788,Arthur De Greef,Victor Estrella Burgos,64 64 
+789,Marco Cecchinato,Taro Daniel,61 62 
+790,Nicolas Kicker,Guido Andreozzi,46 64 10 (RET)
+791,Roberto Carballes Baena,Guilherme Clezar,16 61 64 
+792,Victor Estrella Burgos,Ruben Ramirez Hidalgo,63 63 
+793,Taro Daniel,Federico Gaio,61 06 61 
+794,Guilherme Clezar,Jozef Kovalik,51 (RET)
+795,Nicolas Kicker,Christian Garin,63 766 
+796,Marco Cecchinato,Alessandro Giannessi,765 674 62 
+797,Roberto Carballes Baena,Felipe Meligeni Rodrigues Alves,63 46 60 
+798,Arthur De Greef,Joao Pedro Sorgi,64 63 
+799,Guido Andreozzi,Orlando Luz,57 63 64 
+800,Sam Querrey,Rafael Nadal,63 763 
+801,Rafael Nadal,Marin Cilic,61 62 
+802,Sam Querrey,Nick Kyrgios,36 61 75 
+803,Nick Kyrgios,Novak Djokovic,769 75 
+804,Rafael Nadal,Yoshihito Nishioka,762 63 
+805,Marin Cilic,Steve Johnson,(W/O)
+806,Sam Querrey,Dominic Thiem,61 75 
+807,Novak Djokovic,Juan Martin del Potro,46 64 64 
+808,Rafael Nadal,Paolo Lorenzi,61 61 
+809,Marin Cilic,Borna Coric,63 26 63 
+810,Dominic Thiem,Adrian Mannarino,75 63 
+811,Sam Querrey,David Goffin,62 63 
+812,Nick Kyrgios,Donald Young,62 64 
+813,Steve Johnson,Ernesto Escobedo,765 63 
+814,Yoshihito Nishioka,Jordan Thompson,64 36 60 
+815,Novak Djokovic,Martin Klizan,63 764 
+816,Rafael Nadal,Mischa Zverev,64 63 
+817,Marin Cilic,Alexandr Dolgopolov,63 46 60 
+818,Dominic Thiem,Gilles Simon,767 63 
+819,David Goffin,Stephane Robert,61 62 
+820,Nick Kyrgios,Dudi Sela,36 63 63 
+821,Yoshihito Nishioka,Jack Sock,36 62 61 
+822,Steve Johnson,John Isner,64 64 
+823,Borna Coric,Lucas Gomez,61 61 
+824,Juan Martin del Potro,Frances Tiafoe,64 36 761 
+825,Ernesto Escobedo,Stefan Kozlov,61 26 60 
+826,Paolo Lorenzi,Yen-Hsun Lu,46 63 64 
+827,Adrian Mannarino,Taylor Fritz,36 765 64 
+828,Sam Querrey,Kyle Edmund,62 46 63 
+829,Jordan Thompson,Feliciano Lopez,26 63 63 
+830,Donald Young,Bernard Tomic,765 (RET)
+831,Yoshihito Nishioka,Ryan Harrison,36 63 62 
+832,Taylor Fritz,Jordan Thompson,57 62 62 
+833,Frances Tiafoe,Radu Albot,64 36 63 
+834,Stefan Kozlov,Jared Donaldson,75 63 
+835,Ryan Harrison,Matthew Ebden,63 63 
+836,Jordan Thompson,Alan Fernando Rubio Fierros,61 62 
+837,Stefan Kozlov,Hyeon Chung,62 62 
+838,Radu Albot,Santiago Giraldo,57 60 62 
+839,Frances Tiafoe,Kevin Jack Carpenter,63 60 
+840,Yoshihito Nishioka,Tobias Kamke,64 62 
+841,Taylor Fritz,Konstantin Kravchuk,765 61 
+842,Jared Donaldson,Manuel Sanchez,64 63 
+843,Andy Murray,Fernando Verdasco,63 62 
+844,Andy Murray,Lucas Pouille,75 61 
+845,Fernando Verdasco,Robin Haase,765 57 61 
+846,Andy Murray,Philipp Kohlschreiber,674 7618 61 
+847,Fernando Verdasco,Gael Monfils,63 75 
+848,Lucas Pouille,Evgeny Donskoy,64 57 762 
+849,Robin Haase,Damir Dzumhur,62 46 64 
+850,Andy Murray,Guillermo Garcia-Lopez,62 60 
+851,Evgeny Donskoy,Roger Federer,36 767 765 
+852,Gael Monfils,Daniel Evans,64 36 61 
+853,Robin Haase,Tomas Berdych,36 63 64 
+854,Fernando Verdasco,Roberto Bautista Agut,64 36 75 
+855,Lucas Pouille,Marius Copil,61 64 
+856,Damir Dzumhur,Marcel Granollers,63 64 
+857,Philipp Kohlschreiber,Daniil Medvedev,64 64 
+858,Andy Murray,Malek Jaziri,64 61 
+859,Damir Dzumhur,Stan Wawrinka,764 63 
+860,Roger Federer,Benoit Paire,61 63 
+861,Gael Monfils,Mohamed Safwat,64 63 
+862,Tomas Berdych,Lukas Rosol,63 21 (RET)
+863,Roberto Bautista Agut,Karen Khachanov,61 764 
+864,Lucas Pouille,Adam Pavlasek,62 62 
+865,Philipp Kohlschreiber,Gilles Muller,64 761 
+866,Marius Copil,Jan-Lennard Struff,64 62 
+867,Evgeny Donskoy,Mikhail Youzhny,64 64 
+868,Daniel Evans,Dustin Brown,62 63 
+869,Guillermo Garcia-Lopez,Viktor Troicki,64 63 
+870,Marcel Granollers,Jiri Vesely,63 62 
+871,Robin Haase,Denis Istomin,62 64 
+872,Daniil Medvedev,Omar  Alawadhi,62 75 
+873,Fernando Verdasco,Andreas Seppi,62 75 
+874,Denis Istomin,Marton Fucsovics,61 765 
+875,Marius Copil,Andreas Seppi,75 762 
+876,Evgeny Donskoy,James McGee,61 63 
+877,Lukas Rosol,Vincent Millot,75 61 
+878,Denis Istomin,Alexei Popyrin,64 60 
+879,Andreas Seppi,Jan Satral,75 75 
+880,James McGee,Sergiy Stakhovsky,64 16 61 
+881,Vincent Millot,Andrey Rublev,62 678 62 
+882,Evgeny Donskoy,Peter Gojowczyk,64 64 
+883,Marius Copil,Prajnesh Gunneswaran,62 62 
+884,Marton Fucsovics,Thomas Fabbiano,765 64 
+885,Lukas Rosol,Ivan Dodig,57 765 64 
+886,Pablo Cuevas,Albert Ramos-Vinolas,673 64 64 
+887,Pablo Cuevas,Pablo Carreno Busta,63 762 
+888,Albert Ramos-Vinolas,Joao Sousa,675 75 62 
+889,Pablo Carreno Busta,Fabio Fognini,60 761 
+890,Albert Ramos-Vinolas,Guido Pella,64 36 64 
+891,Pablo Cuevas,Diego Schwartzman,57 64 64 
+892,Joao Sousa,Federico Delbonis,63 61 
+893,Pablo Carreno Busta,Joao Souza,64 62 
+894,Albert Ramos-Vinolas,Gastao Elias,64 765 
+895,Pablo Cuevas,Facundo Bagnis,62 62 
+896,Joao Sousa,Renzo Olivo,62 64 
+897,Fabio Fognini,Alessandro Giannessi,761 763 
+898,Diego Schwartzman,Gerald Melzer,62 62 
+899,Federico Delbonis,Casper Ruud,75 63 
+900,Guido Pella,Carlos Berlocq,75 63 
+901,Fabio Fognini,Marco Cecchinato,64 764 
+902,Diego Schwartzman,Thomaz Bellucci,62 60 
+903,Federico Delbonis,Jozef Kovalik,64 765 
+904,Carlos Berlocq,Thiago Monteiro,46 64 64 
+905,Facundo Bagnis,Dusan Lajovic,62 75 
+906,Gastao Elias,Orlando Luz,62 75 
+907,Alessandro Giannessi,Rogerio Dutra Silva,64 63 
+908,Gerald Melzer,Victor Estrella Burgos,62 763 
+909,Renzo Olivo,Inigo Cervantes,766 64 
+910,Guido Pella,Guilherme Clezar,62 63 
+911,Casper Ruud,Akira Santillan,64 64 
+912,Joao Souza,Horacio Zeballos,62 763 
+913,Jozef Kovalik,Roberto Carballes Baena,63 16 61 
+914,Marco Cecchinato,Nicolas Kicker,61 57 62 
+915,Alessandro Giannessi,Guido Andreozzi,46 765 20 (RET)
+916,Guilherme Clezar,Arthur De Greef,75 60 
+917,Jozef Kovalik,Joao Pedro Sorgi,62 61 
+918,Guilherme Clezar,Taro Daniel,75 62 
+919,Nicolas Kicker,Gustavo Teisen Pereira,60 60 
+920,Alessandro Giannessi,Federico Coria,60 (RET)
+921,Roberto Carballes Baena,Jordi Samper-Montana,62 62 
+922,Guido Andreozzi,Maximo Gonzalez,63 765 
+923,Arthur De Greef,Caio Zampieri,62 64 
+924,Marco Cecchinato,Leonardo Mayer,64 26 63 
+925,Roger Federer,Stan Wawrinka,64 75 
+926,Stan Wawrinka,Pablo Carreno Busta,63 62 
+927,Roger Federer,Jack Sock,61 764 
+928,Stan Wawrinka,Dominic Thiem,64 46 762 
+929,Jack Sock,Kei Nishikori,63 26 62 
+930,Roger Federer,Nick Kyrgios,(W/O)
+931,Pablo Carreno Busta,Pablo Cuevas,61 36 764 
+932,Nick Kyrgios,Novak Djokovic,64 763 
+933,Stan Wawrinka,Yoshihito Nishioka,36 63 764 
+934,Kei Nishikori,Donald Young,62 64 
+935,Roger Federer,Rafael Nadal,62 63 
+936,Dominic Thiem,Gael Monfils,63 62 
+937,Pablo Cuevas,David Goffin,63 36 63 
+938,Jack Sock,Malek Jaziri,46 761 75 
+939,Pablo Carreno Busta,Dusan Lajovic,64 765 
+940,Novak Djokovic,Juan Martin del Potro,75 46 61 
+941,Stan Wawrinka,Philipp Kohlschreiber,75 63 
+942,Kei Nishikori,Gilles Muller,62 62 
+943,Rafael Nadal,Fernando Verdasco,63 75 
+944,Dominic Thiem,Mischa Zverev,61 64 
+945,Roger Federer,Steve Johnson,763 764 
+946,Gael Monfils,John Isner,62 64 
+947,David Goffin,Albert Ramos-Vinolas,763 64 
+948,Jack Sock,Grigor Dimitrov,36 63 767 
+949,Yoshihito Nishioka,Tomas Berdych,16 765 64 
+950,Donald Young,Lucas Pouille,64 16 63 
+951,Nick Kyrgios,Alexander Zverev,63 64 
+952,Pablo Carreno Busta,Roberto Bautista Agut,(W/O)
+953,Pablo Cuevas,Fabio Fognini,61 64 
+954,Malek Jaziri,Taylor Fritz,64 36 63 
+955,Dusan Lajovic,Vasek Pospisil,674 63 75 
+956,Vasek Pospisil,Andy Murray,64 765 
+957,Novak Djokovic,Kyle Edmund,64 765 
+958,Stan Wawrinka,Paolo Lorenzi,63 64 
+959,Kei Nishikori,Daniel Evans,63 64 
+960,Rafael Nadal,Guido Pella,63 62 
+961,Taylor Fritz,Marin Cilic,46 75 64 
+962,Fabio Fognini,Jo-Wilfried Tsonga,764 36 64 
+963,Dominic Thiem,Jeremy Chardy,62 64 
+964,Roger Federer,Stephane Robert,62 61 
+965,Gael Monfils,Darian King,36 60 61 
+966,David Goffin,Karen Khachanov,64 36 63 
+967,Grigor Dimitrov,Mikhail Youzhny,64 60 
+968,Tomas Berdych,Bjorn Fratangelo,764 64 
+969,Lucas Pouille,Jan-Lennard Struff,63 62 
+970,Nick Kyrgios,Horacio Zeballos,63 64 
+971,Roberto Bautista Agut,Adrian Mannarino,75 62 
+972,Jack Sock,Henri Laaksonen,63 06 64 
+973,Alexander Zverev,Facundo Bagnis,7610 63 
+974,Yoshihito Nishioka,Ivo Karlovic,64 63 
+975,John Isner,Mikhail Kukushkin,760 766 
+976,Pablo Carreno Busta,Peter Gojowczyk,75 62 
+977,Albert Ramos-Vinolas,Damir Dzumhur,64 57 75 
+978,Donald Young,Sam Querrey,63 36 63 
+979,Steve Johnson,Kevin Anderson,64 36 764 
+980,Gilles Muller,Jiri Vesely,761 61 
+981,Fernando Verdasco,Pierre-Hugues Herbert,765 61 
+982,Pablo Cuevas,Martin Klizan,763 765 
+983,Philipp Kohlschreiber,Alexandr Dolgopolov,673 11 (RET)
+984,Mischa Zverev,Joao Sousa,64 63 
+985,Dusan Lajovic,Feliciano Lopez,62 46 762 
+986,Juan Martin del Potro,Federico Delbonis,765 63 
+987,Malek Jaziri,Marcel Granollers,75 63 
+988,Kevin Anderson,Federico Gaio,61 64 
+989,Facundo Bagnis,Julien Benneteau,57 64 62 
+990,Jeremy Chardy,Radu Albot,762 62 
+991,Federico Delbonis,Andrey Kuznetsov,63 64 
+992,Alexandr Dolgopolov,Viktor Troicki,61 64 
+993,Damir Dzumhur,Ryan Harrison,64 36 75 
+994,Kyle Edmund,Gastao Elias,61 63 
+995,Daniel Evans,Dustin Brown,61 61 
+996,Fabio Fognini,Konstantin Kravchuk,06 75 64 
+997,Bjorn Fratangelo,Bernard Tomic,62 62 
+998,Taylor Fritz,Benoit Paire,63 62 
+999,Peter Gojowczyk,Reilly Opelka,64 36 61 
+1000,Pierre-Hugues Herbert,Thomaz Bellucci,765 671 63 
+1001,Malek Jaziri,Nicolas Mahut,63 62 
+1002,Karen Khachanov,Tommy Robredo,61 75 
+1003,Darian King,Nikoloz Basilashvili,75 75 
+1004,Martin Klizan,Thiago Monteiro,766 63 
+1005,Mikhail Kukushkin,Jordan Thompson,16 61 30 (RET)
+1006,Henri Laaksonen,Borna Coric,36 64 62 
+1007,Dusan Lajovic,Frances Tiafoe,63 63 
+1008,Paolo Lorenzi,Robin Haase,64 63 
+1009,Adrian Mannarino,Juan Monaco,63 675 61 
+1010,Yoshihito Nishioka,Elias Ymer,64 61 
+1011,Guido Pella,Guillermo Garcia-Lopez,46 75 62 
+1012,Vasek Pospisil,Yen-Hsun Lu,676 64 63 
+1013,Stephane Robert,Dudi Sela,64 64 
+1014,Joao Sousa,Diego Schwartzman,46 63 64 
+1015,Jan-Lennard Struff,Santiago Giraldo,63 64 
+1016,Jiri Vesely,Renzo Olivo,64 26 61 
+1017,Donald Young,Stefan Kozlov,75 765 
+1018,Mikhail Youzhny,Daniil Medvedev,64 64 
+1019,Horacio Zeballos,Marius Copil,675 762 64 
+1020,Nikoloz Basilashvili,Alexander Bublik,63 763 
+1021,Elias Ymer,Yoshihito Nishioka,63 61 
+1022,Radu Albot,Alex de Minaur,63 36 64 
+1023,Darian King,Mikhail Kukushkin,61 64 
+1024,Santiago Giraldo,Norbert Gombos,75 36 62 
+1025,Dusan Lajovic,Tobias Kamke,64 63 
+1026,Julien Benneteau,Illya Marchenko,64 64 
+1027,Marius Copil,Denis Kudla,764 63 
+1028,Henri Laaksonen,Dennis Novikov,46 64 60 
+1029,Vasek Pospisil,Rajeev Ram,46 63 62 
+1030,Federico Gaio,Andrew Whittington,62 75 
+1031,Peter Gojowczyk,Marco Trungelliti,62 26 63 
+1032,Nikoloz Basilashvili,Matthew Ebden,64 62 
+1033,Dennis Novikov,Denis Istomin,766 42 (RET)
+1034,Yoshihito Nishioka,Marcelo Arevalo,62 64 
+1035,Radu Albot,Vincent Millot,764 62 
+1036,Mikhail Kukushkin,Marcos Giron,63 63 
+1037,Rajeev Ram,Jared Donaldson,64 64 
+1038,Santiago Giraldo,Michael Mmoh,63 766 
+1039,Peter Gojowczyk,Ernesto Escobedo,63 63 
+1040,Dusan Lajovic,Ivan Dodig,57 75 60 
+1041,Illya Marchenko,Teymuraz Gabashvili,64 26 64 
+1042,Federico Gaio,Sergiy Stakhovsky,763 63 
+1043,Marius Copil,Lukas Rosol,765 62 
+1044,Norbert Gombos,Ruben Bemelmans,64 16 63 
+1045,Julien Benneteau,Sam Groth,64 765 
+1046,Marco Trungelliti,Jozef Kovalik,64 764 
+1047,Henri Laaksonen,Tim Smyczek,763 63 
+1048,Elias Ymer,Peter Polansky,765 63 
+1049,Vasek Pospisil,Mitchell Krueger,63 64 
+1050,Denis Kudla,Marton Fucsovics,63 63 
+1051,Darian King,Noah Rubin,64 64 
+1052,Tobias Kamke,Benjamin Becker,75 36 64 
+1053,Andrew Whittington,Andrey Rublev,63 61 
+1054,Alexander Bublik,Ernests Gulbis,64 765 
+1055,Alex de Minaur,Go Soeda,63 26 63 
+1056,Roger Federer,Rafael Nadal,63 64 
+1057,Roger Federer,Nick Kyrgios,769 679 765 
+1058,Rafael Nadal,Fabio Fognini,61 75 
+1059,Fabio Fognini,Kei Nishikori,64 62 
+1060,Roger Federer,Tomas Berdych,62 36 766 
+1061,Rafael Nadal,Jack Sock,62 63 
+1062,Nick Kyrgios,Alexander Zverev,64 679 63 
+1063,Alexander Zverev,Stan Wawrinka,46 62 61 
+1064,Kei Nishikori,Federico Delbonis,63 46 63 
+1065,Roger Federer,Roberto Bautista Agut,765 764 
+1066,Rafael Nadal,Nicolas Mahut,64 764 
+1067,Nick Kyrgios,David Goffin,765 63 
+1068,Tomas Berdych,Adrian Mannarino,63 75 
+1069,Jack Sock,Jared Donaldson,62 61 
+1070,Fabio Fognini,Donald Young,60 64 
+1071,Stan Wawrinka,Malek Jaziri,63 64 
+1072,Kei Nishikori,Fernando Verdasco,762 675 61 
+1073,Jared Donaldson,Milos Raonic,(W/O)
+1074,Roger Federer,Juan Martin del Potro,63 64 
+1075,Rafael Nadal,Philipp Kohlschreiber,06 62 63 
+1076,David Goffin,Diego Schwartzman,46 63 75 
+1077,Tomas Berdych,Gilles Muller,63 64 
+1078,Nick Kyrgios,Ivo Karlovic,64 674 762 
+1079,Jack Sock,Jiri Vesely,63 760 
+1080,Roberto Bautista Agut,Sam Querrey,36 62 63 
+1081,Alexander Zverev,John Isner,675 767 765 
+1082,Federico Delbonis,Jan-Lennard Struff,765 61 
+1083,Fabio Fognini,Jeremy Chardy,36 64 64 
+1084,Nicolas Mahut,Guido Pella,64 63 
+1085,Adrian Mannarino,Borna Coric,64 26 763 
+1086,Donald Young,Benoit Paire,762 64 
+1087,Stan Wawrinka,Horacio Zeballos,63 64 
+1088,Kei Nishikori,Kevin Anderson,64 63 
+1089,Milos Raonic,Viktor Troicki,63 75 
+1090,Roger Federer,Frances Tiafoe,762 63 
+1091,Rafael Nadal,Dudi Sela,63 64 
+1092,Borna Coric,Dominic Thiem,61 75 
+1093,Jeremy Chardy,Marin Cilic,64 26 63 
+1094,David Goffin,Darian King,75 61 
+1095,Guido Pella,Grigor Dimitrov,63 764 
+1096,Tomas Berdych,Andrey Rublev,63 62 
+1097,Donald Young,Lucas Pouille,62 64 
+1098,Nick Kyrgios,Damir Dzumhur,64 63 
+1099,Jack Sock,Yoshihito Nishioka,24 (RET)
+1100,Roberto Bautista Agut,Mikhail Kukushkin,63 763 
+1101,Federico Delbonis,Pablo Carreno Busta,16 75 62 
+1102,Alexander Zverev,Yen-Hsun Lu,60 63 
+1103,Ivo Karlovic,Andrey Kuznetsov,764 61 
+1104,John Isner,Thomaz Bellucci,75 765 
+1105,Jiri Vesely,Albert Ramos-Vinolas,765 46 63 
+1106,Jan-Lennard Struff,Gilles Simon,61 61 
+1107,Benoit Paire,Pablo Cuevas,75 60 
+1108,Sam Querrey,Tommy Robredo,62 63 
+1109,Nicolas Mahut,Steve Johnson,64 57 64 
+1110,Gilles Muller,Andreas Seppi,763 761 
+1111,Fernando Verdasco,Ernesto Escobedo,769 75 
+1112,Philipp Kohlschreiber,Taylor Fritz,75 36 764 
+1113,Diego Schwartzman,David Ferrer,62 63 
+1114,Jared Donaldson,Mischa Zverev,64 64 
+1115,Juan Martin del Potro,Robin Haase,62 64 
+1116,Fabio Fognini,Joao Sousa,768 26 63 
+1117,Malek Jaziri,Feliciano Lopez,63 46 63 
+1118,Adrian Mannarino,Paolo Lorenzi,64 36 62 
+1119,Kevin Anderson,Dusan Lajovic,62 75 
+1120,Thomaz Bellucci,Stephane Robert,765 62 
+1121,Jeremy Chardy,Facundo Bagnis,62 62 
+1122,Borna Coric,Marcel Granollers,766 46 63 
+1123,Federico Delbonis,Juan Monaco,75 764 
+1124,Jared Donaldson,Kyle Edmund,26 764 62 
+1125,Damir Dzumhur,Hyeon Chung,36 61 761 
+1126,Ernesto Escobedo,Daniel Evans,75 06 63 
+1127,Fabio Fognini,Ryan Harrison,64 75 
+1128,Taylor Fritz,Adam Pavlasek,62 63 
+1129,Robin Haase,Mikael Ymer,75 763 
+1130,Malek Jaziri,Alexandr Dolgopolov,764 (RET)
+1131,Darian King,Lukas Lacko,762 64 
+1132,Mikhail Kukushkin,Mikhail Youzhny,64 61 
+1133,Andrey Kuznetsov,Denis Istomin,64 760 
+1134,Yen-Hsun Lu,Casper Ruud,62 61 
+1135,Nicolas Mahut,Michael Mmoh,63 62 
+1136,Adrian Mannarino,Benjamin Becker,766 63 
+1137,Yoshihito Nishioka,Jordan Thompson,16 64 63 
+1138,Benoit Paire,Martin Klizan,764 63 
+1139,Guido Pella,Tim Smyczek,36 64 763 
+1140,Tommy Robredo,Nikoloz Basilashvili,36 64 62 
+1141,Andrey Rublev,Florian Mayer,61 61 
+1142,Diego Schwartzman,Karen Khachanov,64 36 764 
+1143,Dudi Sela,Christian Harrison,61 61 
+1144,Andreas Seppi,Radu Albot,64 64 
+1145,Jan-Lennard Struff,Aljaz Bedene,75 40 (RET)
+1146,Frances Tiafoe,Konstantin Kravchuk,75 57 61 
+1147,Viktor Troicki,Thiago Monteiro,57 63 61 
+1148,Jiri Vesely,Tommy Haas,675 63 75 
+1149,Donald Young,Dustin Brown,63 16 62 
+1150,Horacio Zeballos,Gastao Elias,672 62 75 
+1151,Benjamin Becker,Mikhail Youzhny,16 63 62 
+1152,Christian Harrison,Rogerio Dutra Silva,75 62 
+1153,Frances Tiafoe,Mathias Bourgue,46 64 64 
+1154,Radu Albot,Sergiy Stakhovsky,46 62 64 
+1155,Ernesto Escobedo,Renzo Olivo,75 63 
+1156,Mikhail Kukushkin,Norbert Gombos,64 61 
+1157,Jared Donaldson,Stefan Kozlov,75 63 
+1158,Dusan Lajovic,Nicolas Kicker,64 63 
+1159,Lukas Lacko,Miomir Kecmanovic,63 62 
+1160,Aljaz Bedene,Tobias Kamke,62 63 
+1161,Darian King,Reilly Opelka,(W/O)
+1162,Tim Smyczek,Ruben Bemelmans,75 61 
+1163,Tobias Kamke,Pierre-Hugues Herbert,36 63 75 
+1164,Mikhail Youzhny,Vincent Millot,64 46 764 
+1165,Rogerio Dutra Silva,Lukas Rosol,64 36 769 
+1166,Frances Tiafoe,Teymuraz Gabashvili,762 63 
+1167,Radu Albot,Elias Ymer,62 51 (RET)
+1168,Renzo Olivo,Alexander Bublik,75 673 61 
+1169,Mikhail Kukushkin,Peter Gojowczyk,64 (RET)
+1170,Jared Donaldson,Yibing Wu,62 62 
+1171,Nicolas Kicker,Andrew Whittington,763 762 
+1172,Lukas Lacko,Vasil Kirkov,64 46 64 
+1173,Tim Smyczek,Santiago Giraldo,64 63 
+1174,Ernesto Escobedo,Denis Kudla,63 62 
+1175,Aljaz Bedene,Federico Gaio,64 63 
+1176,Dusan Lajovic,Grega Zemlja,63 (RET)
+1177,Sergiy Stakhovsky,Ernests Gulbis,673 64 60 
+1178,Reilly Opelka,Marius Copil,64 763 
+1179,Mathias Bourgue,Bjorn Fratangelo,63 21 (RET)
+1180,Norbert Gombos,Quentin Halys,64 16 762 
+1181,Stefan Kozlov,Nicola Kuhn,63 36 63 
+1182,Ruben Bemelmans,Jozef Kovalik,16 75 63 
+1183,Miomir Kecmanovic,Henri Laaksonen,62 64 
+1184,Christian Harrison,Peter Polansky,64 62 
+1185,Benjamin Becker,Joao Souza,64 678 75 
+1186,Darian King,Ivan Dodig,64 57 60 
+1187,Steve Johnson,Thomaz Bellucci,64 46 765 
+1188,Steve Johnson,Jack Sock,46 64 63 
+1189,Thomaz Bellucci,Ernesto Escobedo,57 64 62 
+1190,Jack Sock,Feliciano Lopez,766 16 64 
+1191,Ernesto Escobedo,John Isner,766 676 765 
+1192,Thomaz Bellucci,Sam Querrey,64 36 63 
+1193,Steve Johnson,Fernando Verdasco,62 64 
+1194,Jack Sock,Tommy Haas,64 36 63 
+1195,John Isner,Leonardo Mayer,675 763 63 
+1196,Sam Querrey,Horacio Zeballos,64 64 
+1197,Steve Johnson,Dustin Brown,7612 64 
+1198,Fernando Verdasco,Nicolas Kicker,764 61 
+1199,Feliciano Lopez,Hyeon Chung,46 62 61 
+1200,Thomaz Bellucci,Maximo Gonzalez,26 765 62 
+1201,Ernesto Escobedo,Thiago Monteiro,46 64 64 
+1202,Fernando Verdasco,Kevin Anderson,764 764 
+1203,Feliciano Lopez,Bjorn Fratangelo,75 64 
+1204,Thiago Monteiro,Donald Young,63 64 
+1205,Thomaz Bellucci,Frances Tiafoe,75 16 62 
+1206,Dustin Brown,Juan Monaco,767 63 
+1207,Hyeon Chung,Victor Estrella Burgos,64 57 64 
+1208,Ernesto Escobedo,Tennys Sandgren,63 63 
+1209,Maximo Gonzalez,Jared Donaldson,64 57 63 
+1210,Tommy Haas,Reilly Opelka,765 46 63 
+1211,Nicolas Kicker,Noah Rubin,53 (RET)
+1212,Leonardo Mayer,Adam Pavlasek,57 62 61 
+1213,Horacio Zeballos,Rogerio Dutra Silva,62 75 
+1214,Leonardo Mayer,Denis Kudla,36 64 64 
+1215,Maximo Gonzalez,Benjamin Becker,63 62 
+1216,Tennys Sandgren,Teymuraz Gabashvili,63 62 
+1217,Noah Rubin,Bradley Klahn,62 36 762 
+1218,Bradley Klahn,Renzo Olivo,46 75 40 (RET)
+1219,Benjamin Becker,Guido Andreozzi,60 75 
+1220,Teymuraz Gabashvili,Peter Polansky,62 765 
+1221,Denis Kudla,Brian Baker,23 (RET)
+1222,Leonardo Mayer,Tim Smyczek,36 64 763 
+1223,Noah Rubin,Ruben Ramirez Hidalgo,763 75 
+1224,Maximo Gonzalez,Dennis Novikov,64 7613 
+1225,Tennys Sandgren,Steven Diez,63 63 
+1226,Borna Coric,Philipp Kohlschreiber,57 763 75 
+1227,Philipp Kohlschreiber,Benoit Paire,62 62 
+1228,Borna Coric,Jiri Vesely,64 64 
+1229,Borna Coric,Albert Ramos-Vinolas,46 64 64 
+1230,Philipp Kohlschreiber,Jan-Lennard Struff,36 75 63 
+1231,Jiri Vesely,Paolo Lorenzi,36 63 765 
+1232,Benoit Paire,Tommy Robredo,62 64 
+1233,Tommy Robredo,Grigor Dimitrov,64 16 61 
+1234,Albert Ramos-Vinolas,Laslo Djere,674 61 64 
+1235,Philipp Kohlschreiber,Jeremy Chardy,60 26 63 
+1236,Jiri Vesely,Mischa Zverev,64 64 
+1237,Paolo Lorenzi,Gianluigi Quinzi,765 26 64 
+1238,Benoit Paire,Radu Albot,62 62 
+1239,Borna Coric,Reda El Amrani,62 36 765 
+1240,Jan-Lennard Struff,Amine Ahouda,63 64 
+1241,Paolo Lorenzi,Guillermo Garcia-Lopez,764 75 
+1242,Benoit Paire,Carlos Berlocq,670 63 62 
+1243,Borna Coric,Diego Schwartzman,63 62 
+1244,Amine Ahouda,Marcel Granollers,64 64 
+1245,Radu Albot,Nicolas Almagro,766 63 
+1246,Jeremy Chardy,Malek Jaziri,62 46 63 
+1247,Laslo Djere,Martin Klizan,763 63 
+1248,Reda El Amrani,Federico Delbonis,763 10 (RET)
+1249,Gianluigi Quinzi,Paul-Henri Mathieu,768 63 
+1250,Tommy Robredo,Sergiy Stakhovsky,64 64 
+1251,Jan-Lennard Struff,Taro Daniel,46 63 61 
+1252,Jiri Vesely,Luca Vanni,62 63 
+1253,Taro Daniel,Luca Vanni,764 762 
+1254,Sergiy Stakhovsky,Alexander Bublik,75 60 
+1255,Gianluigi Quinzi,Duckhee Lee,62 63 
+1256,Laslo Djere,Alexander Ward,64 62 
+1257,Taro Daniel,Taha Tifnouti,60 61 
+1258,Gianluigi Quinzi,Evgeny Donskoy,764 36 63 
+1259,Laslo Djere,Marius Copil,61 (RET)
+1260,Sergiy Stakhovsky,Ayoub Chakrouni,60 62 
+1261,Alexander Ward,Andrey Rublev,765 64 
+1262,Alexander Bublik,Roberto Carballes Baena,64 64 
+1263,Luca Vanni,Inigo Cervantes,678 75 75 
+1264,Duckhee Lee,Alexander Zhurbin,63 61 
+1265,Rafael Nadal,Albert Ramos-Vinolas,61 63 
+1266,Rafael Nadal,David Goffin,63 61 
+1267,Albert Ramos-Vinolas,Lucas Pouille,63 57 61 
+1268,David Goffin,Novak Djokovic,62 36 75 
+1269,Rafael Nadal,Diego Schwartzman,64 64 
+1270,Albert Ramos-Vinolas,Marin Cilic,62 675 62 
+1271,Lucas Pouille,Pablo Cuevas,60 36 75 
+1272,Albert Ramos-Vinolas,Andy Murray,26 62 75 
+1273,Novak Djokovic,Pablo Carreno Busta,62 46 64 
+1274,Pablo Cuevas,Stan Wawrinka,64 64 
+1275,Rafael Nadal,Alexander Zverev,61 61 
+1276,Marin Cilic,Tomas Berdych,62 760 
+1277,David Goffin,Dominic Thiem,764 46 63 
+1278,Lucas Pouille,Adrian Mannarino,30 (RET)
+1279,Diego Schwartzman,Jan-Lennard Struff,63 60 
+1280,Andy Murray,Gilles Muller,75 75 
+1281,Novak Djokovic,Gilles Simon,63 36 75 
+1282,Stan Wawrinka,Jiri Vesely,62 46 62 
+1283,Rafael Nadal,Kyle Edmund,60 57 63 
+1284,Marin Cilic,Jeremy Chardy,63 60 
+1285,Dominic Thiem,Robin Haase,63 62 
+1286,Adrian Mannarino,Jo-Wilfried Tsonga,673 62 63 
+1287,Jan-Lennard Struff,Grigor Dimitrov,46 63 62 
+1288,Tomas Berdych,Tommy Haas,36 61 64 
+1289,David Goffin,Nicolas Almagro,75 61 
+1290,Lucas Pouille,Paolo Lorenzi,62 64 
+1291,Diego Schwartzman,Roberto Bautista Agut,63 763 
+1292,Pablo Carreno Busta,Karen Khachanov,64 64 
+1293,Alexander Zverev,Feliciano Lopez,60 64 
+1294,Albert Ramos-Vinolas,Carlos Berlocq,62 62 
+1295,Pablo Cuevas,Joao Sousa,63 63 
+1296,Tomas Berdych,Andrey Kuznetsov,46 63 64 
+1297,David Goffin,Steve Darcis,62 61 
+1298,Lucas Pouille,Ryan Harrison,62 64 
+1299,Roberto Bautista Agut,Nikoloz Basilashvili,16 63 75 
+1300,Pablo Carreno Busta,Fabio Fognini,760 674 63 
+1301,Alexander Zverev,Andreas Seppi,61 62 
+1302,Albert Ramos-Vinolas,Renzo Olivo,62 63 
+1303,Pablo Cuevas,Viktor Troicki,63 60 
+1304,Nicolas Almagro,Martin Klizan,46 63 61 
+1305,Carlos Berlocq,Pierre-Hugues Herbert,36 62 61 
+1306,Jeremy Chardy,Borna Coric,763 36 63 
+1307,Kyle Edmund,Daniel Evans,75 61 
+1308,Tommy Haas,Benoit Paire,62 63 
+1309,Robin Haase,Damir Dzumhur,63 62 
+1310,Karen Khachanov,Nicolas Mahut,62 64 
+1311,Feliciano Lopez,Daniil Medvedev,766 75 
+1312,Paolo Lorenzi,Marcel Granollers,62 64 
+1313,Adrian Mannarino,Guillermo Garcia-Lopez,16 63 64 
+1314,Gilles Muller,Tommy Robredo,62 62 
+1315,Diego Schwartzman,Bernard Tomic,61 763 
+1316,Gilles Simon,Malek Jaziri,62 62 
+1317,Joao Sousa,Florian Mayer,63 62 
+1318,Jan-Lennard Struff,Casper Ruud,64 64 
+1319,Jiri Vesely,Mischa Zverev,763 63 
+1320,Adrian Mannarino,Yuichi Sugita,63 64 
+1321,Jan-Lennard Struff,Pierre-Hugues Herbert,63 62 
+1322,Martin Klizan,Sergiy Stakhovsky,64 61 
+1323,Carlos Berlocq,Roberto Carballes Baena,62 63 
+1324,Guillermo Garcia-Lopez,Damir Dzumhur,60 46 75 
+1325,Andrey Kuznetsov,Mikhail Youzhny,36 762 765 
+1326,Renzo Olivo,Simone Bolelli,64 675 62 
+1327,Adrian Mannarino,Lucas Catarina,61 61 
+1328,Jan-Lennard Struff,Paul-Henri Mathieu,46 62 763 
+1329,Martin Klizan,Evgeny Donskoy,46 765 62 
+1330,Carlos Berlocq,Andrey Rublev,62 63 
+1331,Damir Dzumhur,Alessandro Giannessi,63 75 
+1332,Andrey Kuznetsov,Julien Benneteau,61 63 
+1333,Simone Bolelli,Mikhail Kukushkin,63 62 
+1334,Pierre-Hugues Herbert,Marius Copil,63 36 60 
+1335,Roberto Carballes Baena,Radu Albot,63 63 
+1336,Sergiy Stakhovsky,Dusan Lajovic,760 36 63 
+1337,Mikhail Youzhny,Taro Daniel,63 16 764 
+1338,Renzo Olivo,Jozef Kovalik,16 63 62 
+1339,Yuichi Sugita,Hugo Nys,75 36 61 
+1340,Guillermo Garcia-Lopez,Florent Diep,63 62 
+1341,Rafael Nadal,Dominic Thiem,64 61 
+1342,Dominic Thiem,Andy Murray,62 36 64 
+1343,Rafael Nadal,Horacio Zeballos,63 64 
+1344,Andy Murray,Albert Ramos-Vinolas,26 64 764 
+1345,Rafael Nadal,Hyeon Chung,761 62 
+1346,Dominic Thiem,Yuichi Sugita,61 62 
+1347,Horacio Zeballos,Karen Khachanov,64 61 
+1348,Andy Murray,Feliciano Lopez,64 64 
+1349,Rafael Nadal,Kevin Anderson,63 64 
+1350,Dominic Thiem,Daniel Evans,765 62 
+1351,Karen Khachanov,David Goffin,677 63 64 
+1352,Albert Ramos-Vinolas,Roberto Bautista Agut,62 36 64 
+1353,Yuichi Sugita,Pablo Carreno Busta,63 63 
+1354,Hyeon Chung,Alexander Zverev,61 64 
+1355,Horacio Zeballos,Benoit Paire,64 36 763 
+1356,Andy Murray,Bernard Tomic,(W/O)
+1357,Rafael Nadal,Rogerio Dutra Silva,61 62 
+1358,Dominic Thiem,Kyle Edmund,61 64 
+1359,David Goffin,Nikoloz Basilashvili,75 60 
+1360,Roberto Bautista Agut,Jan-Lennard Struff,61 63 
+1361,Pablo Carreno Busta,Andreas Seppi,64 62 
+1362,Alexander Zverev,Nicolas Almagro,764 46 64 
+1363,Yuichi Sugita,Richard Gasquet,46 63 763 
+1364,Albert Ramos-Vinolas,Casper Ruud,766 64 
+1365,Karen Khachanov,Pablo Cuevas,765 765 
+1366,Hyeon Chung,Philipp Kohlschreiber,63 64 
+1367,Kevin Anderson,David Ferrer,63 64 
+1368,Daniel Evans,Mischa Zverev,64 64 
+1369,Horacio Zeballos,Joao Sousa,763 75 
+1370,Feliciano Lopez,Albert Montanes,62 62 
+1371,Benoit Paire,Marcel Granollers,63 766 
+1372,Nicolas Almagro,Steven Diez,63 64 
+1373,Kevin Anderson,Carlos Berlocq,26 764 63 
+1374,Nikoloz Basilashvili,Taro Daniel,63 61 
+1375,Hyeon Chung,Denis Istomin,64 64 
+1376,Rogerio Dutra Silva,Renzo Olivo,61 61 
+1377,Kyle Edmund,Jeremy Chardy,63 64 
+1378,Daniel Evans,Thiago Monteiro,674 62 762 
+1379,Marcel Granollers,Malek Jaziri,763 63 
+1380,Karen Khachanov,Thomaz Bellucci,63 64 
+1381,Albert Montanes,Guillermo Garcia-Lopez,64 64 
+1382,Casper Ruud,Radu Albot,62 62 
+1383,Andreas Seppi,Mikael Ymer,64 63 
+1384,Jan-Lennard Struff,Pierre-Hugues Herbert,75 63 
+1385,Yuichi Sugita,Tommy Robredo,64 63 
+1386,Bernard Tomic,Dustin Brown,75 46 62 
+1387,Horacio Zeballos,Santiago Giraldo,62 63 
+1388,Thiago Monteiro,Jordi Samper-Montana,61 674 61 
+1389,Steven Diez,Yuichi Sugita,64 767 
+1390,Hyeon Chung,Guido Pella,62 64 
+1391,Santiago Giraldo,Alejandro Davidovich Fokina,57 63 62 
+1392,Taro Daniel,Daniel Brands,62 64 
+1393,Casper Ruud,Daniel Masur,60 62 
+1394,Thiago Monteiro,Lukas Rosol,63 674 63 
+1395,Yuichi Sugita,Nicola Kuhn,765 62 
+1396,Hyeon Chung,Ernests Gulbis,762 62 
+1397,Santiago Giraldo,Enrique Lopez-Perez,26 764 63 
+1398,Taro Daniel,Jaume Munar,62 61 
+1399,Daniel Masur,Andrey Rublev,761 36 63 
+1400,Alejandro Davidovich Fokina,Roberto Carballes Baena,36 62 62 
+1401,Casper Ruud,Oriol Roca Batalla,64 61 
+1402,Daniel Brands,Inigo Cervantes,64 36 61 
+1403,Jordi Samper-Montana,Kenny De Schepper,45 (RET)
+1404,Guido Pella,Marco Trungelliti,63 63 
+1405,Steven Diez,Uladzimir Ignatik,762 64 
+1406,Lucas Pouille,Aljaz Bedene,63 61 
+1407,Lucas Pouille,Paolo Lorenzi,62 75 
+1408,Aljaz Bedene,Laslo Djere,62 64 
+1409,Lucas Pouille,Martin Klizan,64 63 
+1410,Aljaz Bedene,Ivo Karlovic,64 63 
+1411,Laslo Djere,Fernando Verdasco,26 764 62 
+1412,Paolo Lorenzi,Andrey Kuznetsov,64 64 
+1413,Lucas Pouille,Jiri Vesely,63 46 764 
+1414,Ivo Karlovic,Damir Dzumhur,61 36 64 
+1415,Andrey Kuznetsov,Fabio Fognini,63 36 764 
+1416,Fernando Verdasco,Marton Fucsovics,766 63 
+1417,Paolo Lorenzi,Sergiy Stakhovsky,64 36 63 
+1418,Laslo Djere,Viktor Troicki,75 62 
+1419,Aljaz Bedene,Robin Haase,64 64 
+1420,Martin Klizan,Bjorn Fratangelo,63 62 
+1421,Bjorn Fratangelo,Gilles Simon,64 61 
+1422,Paolo Lorenzi,Mikhail Kukushkin,64 75 
+1423,Viktor Troicki,Evgeny Donskoy,61 62 
+1424,Robin Haase,Diego Schwartzman,61 63 
+1425,Aljaz Bedene,Marius Copil,75 62 
+1426,Laslo Djere,Daniil Medvedev,60 55 (RET)
+1427,Damir Dzumhur,Steve Darcis,36 62 62 
+1428,Marton Fucsovics,Mikhail Youzhny,62 62 
+1429,Martin Klizan,Maximilian Marterer,62 63 
+1430,Andrey Kuznetsov,Ryan Harrison,766 63 
+1431,Sergiy Stakhovsky,Florian Mayer,64 30 (RET)
+1432,Jiri Vesely,Borna Coric,764 64 
+1433,Aljaz Bedene,Marius Copil,63 672 61 
+1434,Laslo Djere,Evgeny Donskoy,64 675 62 
+1435,Maximilian Marterer,Sergiy Stakhovsky,767 63 
+1436,Bjorn Fratangelo,Attila Balazs,63 57 64 
+1437,Aljaz Bedene,Federico Gaio,64 62 
+1438,Attila Balazs,Dusan Lajovic,61 16 64 
+1439,Evgeny Donskoy,Aldin Setkic,64 763 
+1440,Sergiy Stakhovsky,Zsombor Piros,62 64 
+1441,Laslo Djere,Norbert Gombos,46 64 75 
+1442,Marius Copil,Sam Groth,46 64 62 
+1443,Bjorn Fratangelo,Tobias Kamke,61 63 
+1444,Maximilian Marterer,Mirza Basic,62 62 
+1445,Pablo Carreno Busta,Gilles Muller,62 765 
+1446,Pablo Carreno Busta,David Ferrer,63 63 
+1447,Gilles Muller,Kevin Anderson,75 64 
+1448,Pablo Carreno Busta,Nicolas Almagro,62 64 
+1449,Kevin Anderson,Richard Gasquet,62 36 764 
+1450,Gilles Muller,Taro Daniel,57 62 63 
+1451,David Ferrer,Ryan Harrison,64 60 
+1452,Pablo Carreno Busta,Tommy Robredo,765 75 
+1453,Richard Gasquet,Carlos Berlocq,61 64 
+1454,Gilles Muller,Pedro Sousa,63 62 
+1455,David Ferrer,Frederico Ferreira Silva,63 64 
+1456,Ryan Harrison,Juan Martin del Potro,(W/O)
+1457,Nicolas Almagro,Gastao Elias,61 62 
+1458,Kevin Anderson,Joao Domingues,57 63 75 
+1459,Taro Daniel,Bjorn Fratangelo,64 64 
+1460,Juan Martin del Potro,Yuichi Sugita,61 63 
+1461,Bjorn Fratangelo,Joao Sousa,63 64 
+1462,Joao Domingues,Kyle Edmund,64 36 762 
+1463,Nicolas Almagro,Benoit Paire,63 62 
+1464,Kevin Anderson,Salvatore Caruso,62 63 
+1465,Carlos Berlocq,Elias Ymer,75 64 
+1466,Taro Daniel,Renzo Olivo,762 46 75 
+1467,Gastao Elias,Malek Jaziri,64 36 63 
+1468,Frederico Ferreira Silva,Denis Istomin,62 62 
+1469,Ryan Harrison,Guillermo Garcia-Lopez,63 26 62 
+1470,Tommy Robredo,Evgeny Donskoy,63 62 
+1471,Pedro Sousa,Paul-Henri Mathieu,36 64 (RET)
+1472,Elias Ymer,Ernesto Escobedo,61 64 
+1473,Bjorn Fratangelo,Andrey Rublev,75 63 
+1474,Salvatore Caruso,Kenny De Schepper,63 761 
+1475,Joao Domingues,Goncalo Oliveira,64 62 
+1476,Ernesto Escobedo,Nicolas Jarry,673 64 64 
+1477,Andrey Rublev,Sam Groth,62 764 
+1478,Goncalo Oliveira,Inigo Cervantes,61 63 
+1479,Kenny De Schepper,Tristan Lamasine,765 62 
+1480,Bjorn Fratangelo,Enrique Lopez-Perez,36 760 64 
+1481,Salvatore Caruso,Federico Gaio,61 62 
+1482,Joao Domingues,Ernests Gulbis,61 (RET)
+1483,Elias Ymer,Joao Monteiro,75 673 64 
+1484,Marin Cilic,Milos Raonic,763 63 
+1485,Milos Raonic,Viktor Troicki,62 63 
+1486,Marin Cilic,Diego Schwartzman,61 767 
+1487,Milos Raonic,Bernard Tomic,764 766 
+1488,Marin Cilic,Steve Darcis,61 61 
+1489,Diego Schwartzman,Dusan Lajovic,75 62 
+1490,Viktor Troicki,Laslo Djere,62 23 (RET)
+1491,Milos Raonic,Aljaz Bedene,675 63 763 
+1492,Marin Cilic,Damir Dzumhur,63 62 
+1493,Diego Schwartzman,Jordan Thompson,61 63 
+1494,Laslo Djere,Paolo Lorenzi,64 63 
+1495,Viktor Troicki,Karen Khachanov,64 765 
+1496,Bernard Tomic,Rogerio Dutra Silva,75 63 
+1497,Steve Darcis,Jiri Vesely,62 61 
+1498,Dusan Lajovic,Mikhail Youzhny,36 60 63 
+1499,Viktor Troicki,Marcos Baghdatis,75 64 
+1500,Bernard Tomic,Mohamed Safwat,57 75 63 
+1501,Dusan Lajovic,Borna Coric,63 671 75 
+1502,Steve Darcis,Dudi Sela,75 64 
+1503,Aljaz Bedene,Marton Fucsovics,763 46 64 
+1504,Laslo Djere,Daniel Brands,63 64 
+1505,Rogerio Dutra Silva,Riccardo Bellotti,36 761 60 
+1506,Damir Dzumhur,Stefanos Tsitsipas,64 75 
+1507,Karen Khachanov,Nikoloz Basilashvili,63 672 61 
+1508,Jordan Thompson,Adrian Menendez-Maceiras,674 60 60 
+1509,Jiri Vesely,Marcel Granollers,75 26 64 
+1510,Mikhail Youzhny,Cem Ilkel,36 63 63 
+1511,Adrian Menendez-Maceiras,Mohamed Safwat,61 62 
+1512,Riccardo Bellotti,Laurynas Grigelis,62 61 
+1513,Stefanos Tsitsipas,Alexey Vatutin,62 766 
+1514,Daniel Brands,Miomir Kecmanovic,64 64 
+1515,Laurynas Grigelis,Tobias Kamke,57 75 61 
+1516,Miomir Kecmanovic,Mirza Basic,62 61 
+1517,Adrian Menendez-Maceiras,Marc Sieber,75 64 
+1518,Alexey Vatutin,Steven Diez,762 767 
+1519,Mohamed Safwat,Altug Celikbilek,64 62 
+1520,Riccardo Bellotti,Andres Molteni,63 61 
+1521,Stefanos Tsitsipas,Alex de Minaur,64 62 
+1522,Daniel Brands,Pere Riba,6710 765 64 
+1523,Alexander Zverev,Guido Pella,64 63 
+1524,Alexander Zverev,Roberto Bautista Agut,75 75 
+1525,Guido Pella,Hyeon Chung,46 75 64 
+1526,Roberto Bautista Agut,Yannick Hanfmann,63 63 
+1527,Alexander Zverev,Jan-Lennard Struff,36 763 765 
+1528,Hyeon Chung,Martin Klizan,64 36 62 
+1529,Guido Pella,Horacio Zeballos,63 675 763 
+1530,Hyeon Chung,Gael Monfils,62 64 
+1531,Roberto Bautista Agut,Marius Copil,46 763 75 
+1532,Alexander Zverev,Jeremy Chardy,64 64 
+1533,Guido Pella,Fabio Fognini,63 62 
+1534,Horacio Zeballos,Philipp Kohlschreiber,765 64 
+1535,Martin Klizan,Mischa Zverev,62 61 
+1536,Jan-Lennard Struff,Tommy Haas,64 75 
+1537,Yannick Hanfmann,Thomaz Bellucci,765 46 75 
+1538,Philipp Kohlschreiber,Casper Ruud,64 63 
+1539,Mischa Zverev,Dustin Brown,64 674 63 
+1540,Jan-Lennard Struff,Daniel Masur,63 64 
+1541,Thomaz Bellucci,Mikhail Kukushkin,63 62 
+1542,Jeremy Chardy,Jozef Kovalik,62 64 
+1543,Hyeon Chung,Maximilian Marterer,7610 46 63 
+1544,Marius Copil,Thiago Monteiro,46 75 64 
+1545,Tommy Haas,Sergiy Stakhovsky,16 63 64 
+1546,Yannick Hanfmann,Gerald Melzer,64 57 61 
+1547,Martin Klizan,Nicolas Kicker,46 64 63 
+1548,Guido Pella,Cedrik-Marcel Stebe,60 62 
+1549,Horacio Zeballos,Andreas Seppi,57 62 75 
+1550,Jozef Kovalik,Jeremy Jahn,75 63 
+1551,Yannick Hanfmann,Uladzimir Ignatik,64 763 
+1552,Guido Pella,Yannick Mertens,63 64 
+1553,Cedrik-Marcel Stebe,Jerzy Janowicz,7610 62 
+1554,Cedrik-Marcel Stebe,Julien Benneteau,62 63 
+1555,Yannick Hanfmann,Arthur De Greef,764 57 64 
+1556,Yannick Mertens,Alexander Bublik,61 63 
+1557,Jozef Kovalik,Yannick Maden,63 64 
+1558,Uladzimir Ignatik,Charly Zick,61 63 
+1559,Guido Pella,Jonathan Eysseric,75 62 
+1560,Jerzy Janowicz,Matthias Bachinger,64 46 63 
+1561,Jeremy Jahn,Sergiy Stakhovsky,(UNP)
+1562,Rafael Nadal,Dominic Thiem,768 64 
+1563,Rafael Nadal,Novak Djokovic,62 64 
+1564,Dominic Thiem,Pablo Cuevas,64 64 
+1565,Novak Djokovic,Kei Nishikori,(W/O)
+1566,Rafael Nadal,David Goffin,763 62 
+1567,Dominic Thiem,Borna Coric,61 64 
+1568,Pablo Cuevas,Alexander Zverev,36 60 64 
+1569,Borna Coric,Andy Murray,63 63 
+1570,Novak Djokovic,Feliciano Lopez,64 75 
+1571,Rafael Nadal,Nick Kyrgios,63 61 
+1572,David Goffin,Milos Raonic,64 62 
+1573,Kei Nishikori,David Ferrer,64 63 
+1574,Dominic Thiem,Grigor Dimitrov,46 64 769 
+1575,Alexander Zverev,Tomas Berdych,64 64 
+1576,Pablo Cuevas,Benoit Paire,75 06 61 
+1577,Andy Murray,Marius Copil,64 63 
+1578,Novak Djokovic,Nicolas Almagro,61 46 75 
+1579,Benoit Paire,Stan Wawrinka,75 46 62 
+1580,Rafael Nadal,Fabio Fognini,763 36 64 
+1581,Milos Raonic,Gilles Muller,64 64 
+1582,Kei Nishikori,Diego Schwartzman,16 60 64 
+1583,Alexander Zverev,Marin Cilic,673 63 64 
+1584,Dominic Thiem,Jared Donaldson,63 64 
+1585,David Goffin,Florian Mayer,763 60 
+1586,David Ferrer,Jo-Wilfried Tsonga,(W/O)
+1587,Tomas Berdych,Robin Haase,765 63 
+1588,Grigor Dimitrov,Ivo Karlovic,63 75 
+1589,Nick Kyrgios,Ryan Harrison,63 63 
+1590,Borna Coric,Pierre-Hugues Herbert,75 64 
+1591,Pablo Cuevas,Nicolas Mahut,57 64 64 
+1592,Feliciano Lopez,Gilles Simon,63 36 763 
+1593,David Goffin,Karen Khachanov,62 768 
+1594,Jo-Wilfried Tsonga,Andrey Kuznetsov,765 675 75 
+1595,Tomas Berdych,Denis Istomin,64 64 
+1596,Grigor Dimitrov,Philipp Kohlschreiber,767 64 
+1597,Pierre-Hugues Herbert,Lucas Pouille,765 674 63 
+1598,Nicolas Mahut,Jack Sock,64 06 764 
+1599,Gilles Simon,Gael Monfils,06 60 760 
+1600,Nick Kyrgios,Marcos Baghdatis,761 64 
+1601,Nicolas Almagro,Tommy Robredo,63 36 61 
+1602,Marius Copil,Guillermo Garcia-Lopez,766 46 769 
+1603,Borna Coric,Mischa Zverev,63 765 
+1604,Pablo Cuevas,Thomaz Bellucci,762 46 766 
+1605,Jared Donaldson,Adrian Mannarino,75 63 
+1606,David Ferrer,Mikhail Kukushkin,26 761 64 
+1607,Fabio Fognini,Joao Sousa,64 64 
+1608,Robin Haase,Daniel Evans,75 62 
+1609,Ryan Harrison,Bernard Tomic,75 46 62 
+1610,Ivo Karlovic,Roberto Bautista Agut,764 679 767 
+1611,Feliciano Lopez,Ernesto Escobedo,64 64 
+1612,Florian Mayer,Marcel Granollers,75 75 
+1613,Gilles Muller,Tommy Haas,64 767 
+1614,Benoit Paire,Pablo Carreno Busta,63 64 
+1615,Diego Schwartzman,Albert Ramos-Vinolas,61 63 
+1616,Alexander Zverev,Fernando Verdasco,75 63 
+1617,Adrian Mannarino,Santiago Giraldo,64 762 
+1618,Mikhail Kukushkin,Borna Coric,762 63 
+1619,Thomaz Bellucci,Mikhail Youzhny,62 63 
+1620,Pierre-Hugues Herbert,Andreas Seppi,763 765 
+1621,Denis Istomin,Jared Donaldson,763 64 
+1622,Andrey Kuznetsov,Lukas Lacko,62 760 
+1623,Ernesto Escobedo,Nicola Kuhn,63 62 
+1624,Adrian Mannarino,Jaume Munar,36 763 63 
+1625,Borna Coric,Enrique Lopez-Perez,26 762 62 
+1626,Thomaz Bellucci,Evgeny Donskoy,765 62 
+1627,Nicola Kuhn,Nikoloz Basilashvili,75 60 
+1628,Andreas Seppi,Carlos Taberner,63 62 
+1629,Denis Istomin,Inigo Cervantes,764 63 
+1630,Andrey Kuznetsov,Casper Ruud,64 64 
+1631,Mikhail Kukushkin,Daniel Munoz de la Nava,765 36 64 
+1632,Jared Donaldson,Victor Estrella Burgos,61 75 
+1633,Santiago Giraldo,Thiago Monteiro,64 57 764 
+1634,Lukas Lacko,Alexandr Dolgopolov,64 36 75 
+1635,Ernesto Escobedo,Ivan Dodig,60 63 
+1636,Pierre-Hugues Herbert,Jerzy Janowicz,766 62 
+1637,Mikhail Youzhny,Roberto Carballes Baena,36 63 64 
+1638,Alexander Zverev,Novak Djokovic,64 63 
+1639,Novak Djokovic,Dominic Thiem,61 60 
+1640,Alexander Zverev,John Isner,64 675 61 
+1641,Novak Djokovic,Juan Martin del Potro,61 64 
+1642,Dominic Thiem,Rafael Nadal,64 63 
+1643,Alexander Zverev,Milos Raonic,764 61 
+1644,John Isner,Marin Cilic,763 26 762 
+1645,Novak Djokovic,Roberto Bautista Agut,64 64 
+1646,John Isner,Stan Wawrinka,761 64 
+1647,Rafael Nadal,Jack Sock,63 64 
+1648,Milos Raonic,Tomas Berdych,63 62 
+1649,Marin Cilic,David Goffin,63 64 
+1650,Juan Martin del Potro,Kei Nishikori,764 63 
+1651,Dominic Thiem,Sam Querrey,36 63 767 
+1652,Alexander Zverev,Fabio Fognini,63 63 
+1653,Fabio Fognini,Andy Murray,62 64 
+1654,Novak Djokovic,Aljaz Bedene,762 62 
+1655,Stan Wawrinka,Benoit Paire,63 16 63 
+1656,Rafael Nadal,Nicolas Almagro,30 (RET)
+1657,Milos Raonic,Tommy Haas,64 63 
+1658,Marin Cilic,Ryan Harrison,63 62 
+1659,Kei Nishikori,David Ferrer,75 62 
+1660,Dominic Thiem,Pablo Cuevas,764 64 
+1661,David Goffin,Fernando Verdasco,36 63 62 
+1662,Tomas Berdych,Carlos Berlocq,63 64 
+1663,Jack Sock,Jiri Vesely,64 36 761 
+1664,Roberto Bautista Agut,Pablo Carreno Busta,676 61 64 
+1665,Alexander Zverev,Viktor Troicki,63 64 
+1666,Juan Martin del Potro,Kyle Edmund,75 64 
+1667,John Isner,Florian Mayer,764 764 
+1668,Sam Querrey,Jan-Lennard Struff,64 63 
+1669,David Goffin,Thomaz Bellucci,675 63 64 
+1670,Juan Martin del Potro,Grigor Dimitrov,36 62 63 
+1671,Sam Querrey,Lucas Pouille,766 768 
+1672,Tomas Berdych,Mischa Zverev,767 64 
+1673,Jack Sock,Diego Schwartzman,64 16 75 
+1674,John Isner,Albert Ramos-Vinolas,674 764 61 
+1675,Pablo Carreno Busta,Gilles Simon,63 63 
+1676,Alexander Zverev,Kevin Anderson,64 46 64 
+1677,Nicolas Almagro,Andreas Seppi,766 63 
+1678,Roberto Bautista Agut,Alexandr Dolgopolov,64 62 
+1679,Aljaz Bedene,Gianluca Mager,673 64 30 (RET)
+1680,Carlos Berlocq,Robin Haase,63 75 
+1681,Pablo Cuevas,Adrian Mannarino,64 762 
+1682,Kyle Edmund,Joao Sousa,63 64 
+1683,David Ferrer,Feliciano Lopez,46 63 61 
+1684,Fabio Fognini,Matteo Berrettini,61 63 
+1685,Tommy Haas,Ernesto Escobedo,60 46 761 
+1686,Ryan Harrison,Jared Donaldson,26 760 63 
+1687,Florian Mayer,Thiago Monteiro,64 62 
+1688,Benoit Paire,Nicolas Mahut,63 64 
+1689,Jan-Lennard Struff,Bernard Tomic,678 61 64 
+1690,Viktor Troicki,Stefano Napolitano,761 62 
+1691,Fernando Verdasco,Donald Young,63 63 
+1692,Jiri Vesely,Daniel Evans,63 61 
+1693,Jan-Lennard Struff,Denis Istomin,62 55 (RET)
+1694,Adrian Mannarino,Jared Donaldson,64 61 
+1695,Thiago Monteiro,Thomaz Bellucci,63 763 
+1696,Aljaz Bedene,Renzo Olivo,63 64 
+1697,Kevin Anderson,Ernesto Escobedo,62 63 
+1698,Carlos Berlocq,Andrea Arnaboldi,61 75 
+1699,Nicolas Almagro,Alexandr Dolgopolov,75 64 
+1700,Jan-Lennard Struff,Taro Daniel,61 62 
+1701,Adrian Mannarino,Salvatore Caruso,46 64 75 
+1702,Thomaz Bellucci,Damir Dzumhur,62 63 
+1703,Aljaz Bedene,Lukas Lacko,62 63 
+1704,Kevin Anderson,Luca Vanni,46 61 62 
+1705,Carlos Berlocq,Santiago Giraldo,62 61 
+1706,Nicolas Almagro,Lorenzo Sonego,63 36 763 
+1707,Jared Donaldson,Marius Copil,16 63 64 
+1708,Renzo Olivo,Mikhail Kukushkin,61 41 (RET)
+1709,Ernesto Escobedo,Alessandro Giannessi,63 64 
+1710,Denis Istomin,Andrea Pellegrino,64 75 
+1711,Andrea Arnaboldi,Victor Estrella Burgos,60 57 762 
+1712,Alexandr Dolgopolov,Darian King,63 36 767 
+1713,Thiago Monteiro,Pierre-Hugues Herbert,62 760 
+1714,Stan Wawrinka,Mischa Zverev,46 63 63 
+1715,Stan Wawrinka,Andrey Kuznetsov,63 764 
+1716,Mischa Zverev,Kei Nishikori,64 36 63 
+1717,Stan Wawrinka,Sam Querrey,46 75 62 
+1718,Kei Nishikori,Kevin Anderson,26 64 766 
+1719,Mischa Zverev,Steve Johnson,64 75 
+1720,Andrey Kuznetsov,Cedrik-Marcel Stebe,62 16 75 
+1721,Stan Wawrinka,Rogerio Dutra Silva,52 (RET)
+1722,Kei Nishikori,Mikhail Kukushkin,64 63 
+1723,Andrey Kuznetsov,Albert Ramos-Vinolas,75 61 
+1724,Mischa Zverev,John Isner,64 675 63 
+1725,Steve Johnson,Horacio Zeballos,61 63 
+1726,Sam Querrey,Franko Skugor,62 63 
+1727,Kevin Anderson,Jared Donaldson,63 677 62 
+1728,Cedrik-Marcel Stebe,Janko Tipsarevic,64 01 (RET)
+1729,Steve Johnson,Stephane Robert,63 63 
+1730,Sam Querrey,Daniel Altmaier,63 64 
+1731,Kevin Anderson,Paolo Lorenzi,75 761 
+1732,Janko Tipsarevic,Ryan Harrison,64 765 
+1733,Jared Donaldson,Victor Estrella Burgos,62 64 
+1734,Rogerio Dutra Silva,Joao Sousa,64 765 
+1735,Mikhail Kukushkin,Roberto Marcora,62 62 
+1736,Andrey Kuznetsov,Thomaz Bellucci,36 64 61 
+1737,Franko Skugor,Tommy Robredo,36 63 62 
+1738,Cedrik-Marcel Stebe,Jan-Lennard Struff,63 46 762 
+1739,Horacio Zeballos,Dusan Lajovic,64 06 75 
+1740,Mischa Zverev,Robin Haase,57 766 63 
+1741,Mischa Zverev,Tim Puetz,63 676 75 
+1742,Roberto Marcora,Marco Chiudinelli,64 61 
+1743,Daniel Altmaier,Petr Michnev,62 64 
+1744,Franko Skugor,Cedrik-Marcel Stebe,75 57 763 
+1745,Mischa Zverev,Louis Wessels,61 64 
+1746,Marco Chiudinelli,Alejandro Falla,75 763 
+1747,Petr Michnev,Raphael Baltensperger,62 64 
+1748,Cedrik-Marcel Stebe,Jose Hernandez-Fernandez,26 64 63 
+1749,Franko Skugor,Matteo Berrettini,16 63 62 
+1750,Roberto Marcora,Pere Riba,30 (RET)
+1751,Daniel Altmaier,Alexander Ward,64 63 
+1752,Tim Puetz,Andre Ghem,21 (RET)
+1753,Jo-Wilfried Tsonga,Tomas Berdych,762 75 
+1754,Tomas Berdych,Milos Raonic,765 762 
+1755,Jo-Wilfried Tsonga,Nikoloz Basilashvili,62 36 61 
+1756,Milos Raonic,Gastao Elias,64 63 
+1757,Jo-Wilfried Tsonga,Karen Khachanov,60 64 
+1758,Tomas Berdych,Gilles Simon,64 60 
+1759,Nikoloz Basilashvili,Nicolas Kicker,63 61 
+1760,Milos Raonic,Denis Istomin,64 63 
+1761,Jo-Wilfried Tsonga,Carlos Berlocq,672 62 63 
+1762,Tomas Berdych,Hyeon Chung,63 75 
+1763,Nicolas Kicker,Nick Kyrgios,26 64 62 
+1764,Gilles Simon,Kyle Edmund,36 75 64 
+1765,Gastao Elias,Juan Martin del Potro,760 64 
+1766,Nikoloz Basilashvili,Andreas Seppi,64 64 
+1767,Karen Khachanov,Jordan Thompson,62 763 
+1768,Gilles Simon,Daniil Medvedev,75 675 62 
+1769,Juan Martin del Potro,Quentin Halys,75 64 
+1770,Nikoloz Basilashvili,Borna Coric,64 57 64 
+1771,Jordan Thompson,Benoit Paire,673 765 64 
+1772,Carlos Berlocq,Tennys Sandgren,62 64 
+1773,Hyeon Chung,Donald Young,62 63 
+1774,Kyle Edmund,Thiago Monteiro,26 64 61 
+1775,Gastao Elias,Radu Albot,26 64 62 
+1776,Denis Istomin,Thanasi Kokkinakis,63 64 
+1777,Karen Khachanov,Renzo Olivo,62 64 
+1778,Nicolas Kicker,Dustin Brown,64 64 
+1779,Andreas Seppi,Damir Dzumhur,765 64 
+1780,Kyle Edmund,Tennys Sandgren,63 64 
+1781,Hyeon Chung,Quentin Halys,64 75 
+1782,Nicolas Kicker,Peter Polansky,75 61 
+1783,Gastao Elias,Renzo Olivo,16 63 61 
+1784,Kyle Edmund,Nils Langer,63 75 
+1785,Hyeon Chung,Michael Linzer,64 62 
+1786,Nicolas Kicker,Alexandar Lazov,63 64 
+1787,Renzo Olivo,Tomislav Brkic,57 62 64 
+1788,Gastao Elias,Elliot Benchetrit,674 63 62 
+1789,Tennys Sandgren,Alexandre Muller,60 64 
+1790,Quentin Halys,Alex de Minaur,675 62 768 
+1791,Peter Polansky,Andres Molteni,64 36 63 
+1792,Rafael Nadal,Stan Wawrinka,62 63 61 
+1793,Stan Wawrinka,Andy Murray,676 63 57 763 61 
+1794,Rafael Nadal,Dominic Thiem,63 64 60 
+1795,Andy Murray,Kei Nishikori,26 61 760 61 
+1796,Dominic Thiem,Novak Djokovic,765 63 60 
+1797,Stan Wawrinka,Marin Cilic,63 63 61 
+1798,Rafael Nadal,Pablo Carreno Busta,62 20 (RET)
+1799,Andy Murray,Karen Khachanov,63 64 64 
+1800,Novak Djokovic,Albert Ramos-Vinolas,765 61 63 
+1801,Stan Wawrinka,Gael Monfils,75 767 62 
+1802,Rafael Nadal,Roberto Bautista Agut,61 62 62 
+1803,Pablo Carreno Busta,Milos Raonic,46 762 676 64 86 
+1804,Dominic Thiem,Horacio Zeballos,61 63 61 
+1805,Marin Cilic,Kevin Anderson,63 30 (RET)
+1806,Kei Nishikori,Fernando Verdasco,06 64 64 60 
+1807,Andy Murray,Juan Martin del Potro,768 75 60 
+1808,Novak Djokovic,Diego Schwartzman,57 63 36 61 61 
+1809,Stan Wawrinka,Fabio Fognini,762 60 62 
+1810,Rafael Nadal,Nikoloz Basilashvili,60 61 60 
+1811,Milos Raonic,Guillermo Garcia-Lopez,61 10 (RET)
+1812,Dominic Thiem,Steve Johnson,61 764 63 
+1813,Marin Cilic,Feliciano Lopez,61 63 63 
+1814,Kei Nishikori,Hyeon Chung,75 64 674 06 64 
+1815,Horacio Zeballos,David Goffin,45 (RET)
+1816,Pablo Carreno Busta,Grigor Dimitrov,75 63 64 
+1817,Gael Monfils,Richard Gasquet,765 57 43 (RET)
+1818,Albert Ramos-Vinolas,Lucas Pouille,62 36 57 62 61 
+1819,Roberto Bautista Agut,Jiri Vesely,63 64 63 
+1820,Karen Khachanov,John Isner,761 63 675 763 
+1821,Fernando Verdasco,Pablo Cuevas,62 61 63 
+1822,Kevin Anderson,Kyle Edmund,676 764 57 61 64 
+1823,Andy Murray,Martin Klizan,673 62 62 763 
+1824,Novak Djokovic,Joao Sousa,61 64 63 
+1825,Stan Wawrinka,Alexandr Dolgopolov,64 765 75 
+1826,Rafael Nadal,Robin Haase,61 64 63 
+1827,Milos Raonic,Rogerio Dutra Silva,46 62 63 64 
+1828,Dominic Thiem,Simone Bolelli,75 61 63 
+1829,Marin Cilic,Konstantin Kravchuk,63 62 62 
+1830,Kei Nishikori,Jeremy Chardy,63 60 765 
+1831,David Goffin,Sergiy Stakhovsky,62 64 36 63 
+1832,Grigor Dimitrov,Tommy Robredo,63 64 75 
+1833,Karen Khachanov,Tomas Berdych,75 64 64 
+1834,Gael Monfils,Thiago Monteiro,61 64 61 
+1835,Lucas Pouille,Thomaz Bellucci,765 61 62 
+1836,Roberto Bautista Agut,Mikhail Kukushkin,63 36 63 763 
+1837,Kevin Anderson,Nick Kyrgios,57 64 61 62 
+1838,Albert Ramos-Vinolas,Benjamin Bonzi,62 61 61 
+1839,Pablo Carreno Busta,Taro Daniel,75 64 46 60 
+1840,John Isner,Paolo Lorenzi,63 763 762 
+1841,Pablo Cuevas,Nicolas Kicker,64 64 64 
+1842,Horacio Zeballos,Ivo Karlovic,765 765 63 
+1843,Richard Gasquet,Victor Estrella Burgos,61 60 64 
+1844,Steve Johnson,Borna Coric,62 768 36 766 
+1845,Fabio Fognini,Andreas Seppi,64 75 63 
+1846,Juan Martin del Potro,Nicolas Almagro,63 36 11 (RET)
+1847,Feliciano Lopez,David Ferrer,75 36 75 46 64 
+1848,Nikoloz Basilashvili,Viktor Troicki,763 762 766 
+1849,Hyeon Chung,Denis Istomin,61 75 61 
+1850,Kyle Edmund,Renzo Olivo,75 63 61 
+1851,Guillermo Garcia-Lopez,Marco Trungelliti,75 64 75 
+1852,Diego Schwartzman,Stefano Napolitano,63 75 62 
+1853,Fernando Verdasco,Pierre-Hugues Herbert,63 36 46 63 63 
+1854,Jiri Vesely,Aljaz Bedene,63 63 46 63 
+1855,Andy Murray,Andrey Kuznetsov,64 46 62 60 
+1856,Novak Djokovic,Marcel Granollers,63 64 62 
+1857,Stan Wawrinka,Jozef Kovalik,62 766 63 
+1858,Rafael Nadal,Benoit Paire,61 64 61 
+1859,Milos Raonic,Steve Darcis,63 64 62 
+1860,Dominic Thiem,Bernard Tomic,64 60 62 
+1861,Marin Cilic,Ernests Gulbis,63 63 63 
+1862,Kei Nishikori,Thanasi Kokkinakis,46 61 64 64 
+1863,Fernando Verdasco,Alexander Zverev,64 36 64 62 
+1864,David Goffin,Paul-Henri Mathieu,62 62 62 
+1865,Grigor Dimitrov,Stephane Robert,62 63 64 
+1866,Renzo Olivo,Jo-Wilfried Tsonga,75 64 676 64 
+1867,Tomas Berdych,Jan-Lennard Struff,61 61 46 64 
+1868,Jiri Vesely,Jack Sock,75 75 63 
+1869,Gael Monfils,Dustin Brown,64 75 60 
+1870,Lucas Pouille,Julien Benneteau,766 36 46 63 64 
+1871,Roberto Bautista Agut,John Millman,62 62 06 61 
+1872,Nick Kyrgios,Philipp Kohlschreiber,63 764 63 
+1873,Albert Ramos-Vinolas,Marius Copil,677 61 64 62 
+1874,Pablo Carreno Busta,Florian Mayer,64 62 62 
+1875,John Isner,Jordan Thompson,63 46 765 63 
+1876,Pablo Cuevas,Maxime Hamou,63 62 64 
+1877,Ivo Karlovic,Stefanos Tsitsipas,765 75 64 
+1878,Richard Gasquet,Arthur De Greef,62 36 61 63 
+1879,Steve Johnson,Yuichi Sugita,63 63 674 673 63 
+1880,Guillermo Garcia-Lopez,Gilles Muller,764 672 62 62 
+1881,Hyeon Chung,Sam Querrey,64 36 63 63 
+1882,Fabio Fognini,Frances Tiafoe,64 63 36 16 60 
+1883,Juan Martin del Potro,Guido Pella,62 61 64 
+1884,David Ferrer,Donald Young,57 63 46 63 1311 
+1885,Nikoloz Basilashvili,Gilles Simon,16 62 64 61 
+1886,Stefano Napolitano,Mischa Zverev,46 75 62 62 
+1887,Nicolas Almagro,Marcos Baghdatis,673 64 63 761 
+1888,Kevin Anderson,Malek Jaziri,764 63 764 
+1889,Aljaz Bedene,Ryan Harrison,64 60 36 61 
+1890,Thomaz Bellucci,Dusan Lajovic,46 75 64 64 
+1891,Simone Bolelli,Nicolas Mahut,64 62 62 
+1892,Benjamin Bonzi,Daniil Medvedev,57 64 61 31 (RET)
+1893,Jeremy Chardy,Radu Albot,62 64 763 
+1894,Borna Coric,Mathias Bourgue,765 63 62 
+1895,Taro Daniel,Jerzy Janowicz,64 64 64 
+1896,Alexandr Dolgopolov,Carlos Berlocq,75 63 64 
+1897,Rogerio Dutra Silva,Mikhail Youzhny,46 765 26 764 62 
+1898,Kyle Edmund,Gastao Elias,63 62 75 
+1899,Victor Estrella Burgos,Teymuraz Gabashvili,679 26 763 63 62 
+1900,Robin Haase,Alex de Minaur,62 63 61 
+1901,Pierre-Hugues Herbert,Jared Donaldson,64 765 64 
+1902,Denis Istomin,Ernesto Escobedo,763 63 64 
+1903,Karen Khachanov,Nicolas Jarry,64 36 764 61 
+1904,Nicolas Kicker,Damir Dzumhur,63 26 63 64 
+1905,Martin Klizan,Laurent Lokoli,764 63 46 06 64 
+1906,Konstantin Kravchuk,Federico Delbonis,63 64 766 
+1907,Mikhail Kukushkin,Tennys Sandgren,62 61 64 
+1908,Feliciano Lopez,Bjorn Fratangelo,64 764 63 
+1909,Paolo Lorenzi,Ricardas Berankis,60 62 64 
+1910,Thiago Monteiro,Alexandre Muller,764 26 46 763 60 
+1911,Tommy Robredo,Daniel Evans,57 64 63 61 
+1912,Diego Schwartzman,Andrey Rublev,06 64 62 673 97 
+1913,Andreas Seppi,Santiago Giraldo,46 61 62 62 
+1914,Joao Sousa,Janko Tipsarevic,46 763 62 62 
+1915,Sergiy Stakhovsky,Yen-Hsun Lu,63 64 764 
+1916,Viktor Troicki,Evgeny Donskoy,764 64 60 
+1917,Marco Trungelliti,Quentin Halys,36 674 762 64 64 
+1918,Horacio Zeballos,Adrian Mannarino,75 63 64 
+1919,Marius Copil,Peter Gojowczyk,64 675 767 
+1920,Taro Daniel,Andrey Rublev,75 671 764 
+1921,Jozef Kovalik,Norbert Gombos,16 64 63 
+1922,Simone Bolelli,Marco Cecchinato,64 64 
+1923,Santiago Giraldo,Guido Andreozzi,63 62 
+1924,Guido Pella,Maxime Janvier,673 62 62 
+1925,Bjorn Fratangelo,Gerald Melzer,57 765 761 
+1926,Paul-Henri Mathieu,Denis Kudla,63 64 
+1927,Sergiy Stakhovsky,Jan Satral,36 62 765 
+1928,Arthur De Greef,Daniel Masur,63 64 
+1929,Teymuraz Gabashvili,Pedro Sousa,46 766 62 
+1930,Maxime Hamou,Roberto Quiroz,75 60 
+1931,Nicolas Jarry,Reilly Opelka,764 36 63 
+1932,Stefano Napolitano,Alexander Bublik,64 675 62 
+1933,Marco Trungelliti,Matteo Donati,75 765 
+1934,Stefanos Tsitsipas,Oscar Otte,63 62 
+1935,Marius Copil,Ilya Ivashka,62 62 
+1936,Taro Daniel,Matija Pecotic,63 62 
+1937,Norbert Gombos,Yasutaka Uchiyama,763 63 
+1938,Marco Cecchinato,Salvatore Caruso,62 61 
+1939,Santiago Giraldo,Uladzimir Ignatik,62 64 
+1940,Matteo Donati,Alessandro Giannessi,63 36 7610 
+1941,Guido Pella,Marc Polmans,63 676 64 
+1942,Gerald Melzer,Vincent Millot,61 62 
+1943,Paul-Henri Mathieu,Alejandro Gonzalez,75 61 
+1944,Maxime Hamou,Blaz Kavcic,767 75 
+1945,Andrey Rublev,Mirza Basic,64 57 62 
+1946,Maxime Janvier,Casper Ruud,764 64 
+1947,Jozef Kovalik,Luca Vanni,64 64 
+1948,Sergiy Stakhovsky,Stefan Kozlov,675 64 64 
+1949,Guido Andreozzi,Tim Smyczek,61 16 63 
+1950,Simone Bolelli,Maximilian Marterer,63 16 64 
+1951,Alexander Bublik,Peter Polansky,64 26 763 
+1952,Oscar Otte,Laslo Djere,75 26 762 
+1953,Arthur De Greef,Maximo Gonzalez,36 60 765 
+1954,Peter Gojowczyk,Joris De Loore,63 767 
+1955,Bjorn Fratangelo,Bradley Klahn,64 766 
+1956,Teymuraz Gabashvili,Mackenzie McDonald,46 62 75 
+1957,Nicolas Jarry,Dmitry Popko,64 63 
+1958,Denis Kudla,Ricardo Ojeda Lara,64 63 
+1959,Daniel Masur,Filip Krajinovic,64 62 
+1960,Stefano Napolitano,Marton Fucsovics,61 673 764 
+1961,Reilly Opelka,Leonardo Mayer,57 767 63 
+1962,Roberto Quiroz,Dennis Novikov,763 63 
+1963,Jan Satral,Elias Ymer,64 36 64 
+1964,Pedro Sousa,Steven Diez,63 75 
+1965,Marco Trungelliti,Tobias Kamke,63 64 
+1966,Stefanos Tsitsipas,Gleb Sakharov,63 63 
+1967,Marius Copil,Denis Shapovalov,60 46 62 
+1968,Daniel Masur,Adam Pavlasek,26 63 64 
+1969,Nicolas Jarry,Facundo Bagnis,52 (RET)
+1970,Taro Daniel,Hiroki Moriya,763 60 
+1971,Norbert Gombos,Jason Jung,64 64 
+1972,Stefanos Tsitsipas,Thomas Fabbiano,36 63 61 
+1973,Dennis Novikov,Henri Laaksonen,62 63 
+1974,Marco Cecchinato,Riccardo Bellotti,64 64 
+1975,Santiago Giraldo,Grega Zemlja,61 64 
+1976,Alessandro Giannessi,Calvin Hemery ,75 63 
+1977,Steven Diez,Lukas Lacko,64 62 
+1978,Elias Ymer,Andrej Martin,36 63 64 
+1979,Guido Pella,Ramkumar Ramanathan,62 61 
+1980,Marton Fucsovics,Darian King,64 62 
+1981,Gerald Melzer,Constant Lestienne,62 62 
+1982,Paul-Henri Mathieu,Tatsuma Ito,670 62 62 
+1983,Blaz Kavcic,Tristan Lamasine,675 75 64 
+1984,Andrey Rublev,Agustin Velotti,61 63 
+1985,Casper Ruud,Yannik Reuter,63 62 
+1986,Luca Vanni,Marco Chiudinelli,62 62 
+1987,Sergiy Stakhovsky,Kenny De Schepper,64 36 762 
+1988,Guido Andreozzi,Daniel Brands,61 64 
+1989,Marco Trungelliti,Ruben Bemelmans,675 62 63 
+1990,Maximilian Marterer,Brydan Klein,62 62 
+1991,Peter Polansky,Yuki Bhambri,765 765 
+1992,Ricardo Ojeda Lara,Duckhee Lee,62 63 
+1993,Teymuraz Gabashvili,Roberto Carballes Baena,26 62 75 
+1994,Laslo Djere,Benjamin Becker,62 26 63 
+1995,Arthur De Greef,Enrique Lopez-Perez,762 60 
+1996,Leonardo Mayer,Joao Souza,62 61 
+1997,Peter Gojowczyk,Stefano Travaglia,64 675 64 
+1998,Bjorn Fratangelo,Matthew Ebden,62 62 
+1999,Mirza Basic,Blaz Rola,762 63 
+2000,Simone Bolelli,Christian Garin,764 46 766 
+2001,Alexander Bublik,Mohamed Safwat,676 63 61 
+2002,Salvatore Caruso,Inigo Cervantes,75 64 
+2003,Joris De Loore,Ti Chen,75 764 
+2004,Matteo Donati,Jonathan Eysseric,64 63 
+2005,Maximo Gonzalez,Marcelo Arevalo,75 61 
+2006,Alejandro Gonzalez,Kristijan Mesaros,764 46 764 
+2007,Maxime Hamou,Adrian Menendez-Maceiras,75 62 
+2008,Uladzimir Ignatik,Di Wu,61 62 
+2009,Ilya Ivashka,Kimmer Coppejans,62 62 
+2010,Maxime Janvier,Geoffrey Blancaneaux,64 63 
+2011,Tobias Kamke,Rajeev Ram,26 75 63 
+2012,Bradley Klahn,John-Patrick Smith,62 63 
+2013,Jozef Kovalik,Igor Sijsling,64 (RET)
+2014,Stefan Kozlov,Corentin Moutet,26 75 64 
+2015,Filip Krajinovic,Sam Groth,36 763 62 
+2016,Denis Kudla,Vaclav Safranek,64 61 
+2017,Mackenzie McDonald,Akira Santillan,61 64 
+2018,Vincent Millot,Miljan Zekic,63 64 
+2019,Stefano Napolitano,Lorenzo Giustino,64 64 
+2020,Reilly Opelka,Daniel Munoz de la Nava,46 764 64 
+2021,Oscar Otte,Mitchell Krueger,62 61 
+2022,Matija Pecotic,Gregoire Barrere,57 75 63 
+2023,Marc Polmans,Michael Mmoh,46 763 41 (RET)
+2024,Dmitry Popko,Ruben Ramirez Hidalgo,62 64 
+2025,Roberto Quiroz,Aldin Setkic,64 46 64 
+2026,Gleb Sakharov,Federico Gaio,64 675 763 
+2027,Jan Satral,Lukas Rosol,62 36 762 
+2028,Tim Smyczek,James McGee,62 60 
+2029,Pedro Sousa,Andrew Whittington,64 61 
+2030,Yasutaka Uchiyama,Daniel Gimeno-Traver,764 64 
+2031,Gilles Muller,Ivo Karlovic,765 764 
+2032,Ivo Karlovic,Marin Cilic,764 57 762 
+2033,Gilles Muller,Alexander Zverev,765 62 
+2034,Marin Cilic,Vasek Pospisil,63 75 
+2035,Alexander Zverev,Julien Benneteau,60 64 
+2036,Ivo Karlovic,Daniil Medvedev,64 64 
+2037,Gilles Muller,Aljaz Bedene,63 36 64 
+2038,Marin Cilic,Janko Tipsarevic,676 62 64 
+2039,Alexander Zverev,Adrian Mannarino,62 63 
+2040,Ivo Karlovic,Stefan Kozlov,64 61 
+2041,Gilles Muller,Andreas Seppi,765 64 
+2042,Julien Benneteau,Nicolas Mahut,36 62 62 
+2043,Aljaz Bedene,Ernesto Escobedo,63 64 
+2044,Daniil Medvedev,Thanasi Kokkinakis,63 763 
+2045,Vasek Pospisil,Alexandr Dolgopolov,762 42 (RET)
+2046,Alexandr Dolgopolov,Steve Darcis,62 763 
+2047,Daniil Medvedev,Robin Haase,765 36 63 
+2048,Nicolas Mahut,Dennis Novikov,63 64 
+2049,Aljaz Bedene,Denis Istomin,36 62 61 
+2050,Julien Benneteau,Evgeny Donskoy,36 64 765 
+2051,Ernesto Escobedo,Jason Jung,64 62 
+2052,Thanasi Kokkinakis,Mikhail Youzhny,64 75 
+2053,Stefan Kozlov,Dustin Brown,63 36 63 
+2054,Adrian Mannarino,Jordan Thompson,64 61 
+2055,Vasek Pospisil,Tallon Griekspoor,75 61 
+2056,Andreas Seppi,Tatsuma Ito,63 36 63 
+2057,Janko Tipsarevic,Yuichi Sugita,765 36 60 
+2058,Daniil Medvedev,Tim Smyczek,57 64 64 
+2059,Vasek Pospisil,Stefanos Tsitsipas,61 767 
+2060,Tatsuma Ito,Julien Benneteau,64 64 
+2061,Dennis Novikov,Jason Jung,766 62 
+2062,Daniil Medvedev,Rajeev Ram,64 62 
+2063,Vasek Pospisil,Matwe Middelkoop,679 61 63 
+2064,Julien Benneteau,Aldin Setkic,64 64 
+2065,Jason Jung,Mitchell Krueger,61 64 
+2066,Tim Smyczek,Egor Gerasimov,63 46 64 
+2067,Stefanos Tsitsipas,Benjamin Becker,675 63 75 
+2068,Tatsuma Ito,Soonwoo Kwon,764 57 62 
+2069,Dennis Novikov,Ilya Ivashka,75 763 
+2070,Lucas Pouille,Feliciano Lopez,46 765 64 
+2071,Lucas Pouille,Benoit Paire,765 75 
+2072,Feliciano Lopez,Mischa Zverev,672 764 75 
+2073,Feliciano Lopez,Tomas Berdych,674 63 64 
+2074,Lucas Pouille,Philipp Kohlschreiber,64 26 63 
+2075,Mischa Zverev,Tommy Haas,64 64 
+2076,Benoit Paire,Jerzy Janowicz,61 764 
+2077,Tommy Haas,Roger Federer,26 768 64 
+2078,Jerzy Janowicz,Grigor Dimitrov,764 63 
+2079,Tomas Berdych,Bernard Tomic,764 62 
+2080,Lucas Pouille,Jan-Lennard Struff,46 765 768 
+2081,Philipp Kohlschreiber,Steve Johnson,763 57 766 
+2082,Mischa Zverev,Yannick Hanfmann,761 62 
+2083,Feliciano Lopez,Jeremy Chardy,63 36 62 
+2084,Benoit Paire,Peter Gojowczyk,62 64 
+2085,Steve Johnson,Maximilian Marterer,36 762 64 
+2086,Mischa Zverev,Malek Jaziri,63 61 
+2087,Feliciano Lopez,Gilles Simon,63 63 
+2088,Benoit Paire,Viktor Troicki,64 64 
+2089,Jeremy Chardy,Florian Mayer,763 46 761 
+2090,Peter Gojowczyk,Nikoloz Basilashvili,26 63 61 
+2091,Tommy Haas,Pierre-Hugues Herbert,63 46 75 
+2092,Yannick Hanfmann,Marton Fucsovics,63 75 
+2093,Jerzy Janowicz,Andrey Kuznetsov,64 36 63 
+2094,Philipp Kohlschreiber,Marcos Baghdatis,61 (RET)
+2095,Jan-Lennard Struff,Lukas Lacko,64 763 
+2096,Bernard Tomic,Stephane Robert,61 57 62 
+2097,Lukas Lacko,Alexander Bublik,63 75 
+2098,Peter Gojowczyk,Ruben Bemelmans,64 764 
+2099,Marton Fucsovics,Marco Chiudinelli,75 75 
+2100,Yannick Hanfmann,Yannick Maden,64 61 
+2101,Lukas Lacko,Daniel Brands,63 64 
+2102,Ruben Bemelmans,Yasutaka Uchiyama,16 63 764 
+2103,Marco Chiudinelli,Taylor Fritz,75 46 63 
+2104,Peter Gojowczyk,Daniel Masur,57 63 62 
+2105,Alexander Bublik,Mirza Basic,75 63 
+2106,Marton Fucsovics,Daniel Altmaier,63 64 
+2107,Yannick Maden,Vincent Millot,75 57 61 
+2108,Yannick Hanfmann,Lukas Rosol,63 26 64 
+2109,Roger Federer,Alexander Zverev,61 63 
+2110,Roger Federer,Karen Khachanov,64 765 
+2111,Alexander Zverev,Richard Gasquet,46 64 63 
+2112,Roger Federer,Florian Mayer,63 64 
+2113,Alexander Zverev,Roberto Bautista Agut,676 761 61 
+2114,Richard Gasquet,Robin Haase,61 36 61 
+2115,Karen Khachanov,Andrey Rublev,768 46 63 
+2116,Roger Federer,Mischa Zverev,764 64 
+2117,Robin Haase,Dominic Thiem,63 767 
+2118,Karen Khachanov,Kei Nishikori,32 (RET)
+2119,Alexander Zverev,Philipp Kohlschreiber,63 64 
+2120,Florian Mayer,Lucas Pouille,676 64 63 
+2121,Roberto Bautista Agut,Dustin Brown,64 16 766 
+2122,Richard Gasquet,Bernard Tomic,63 63 
+2123,Andrey Rublev,Mikhail Youzhny,60 36 63 
+2124,Roger Federer,Yuichi Sugita,63 61 
+2125,Dominic Thiem,Maximilian Marterer,75 63 
+2126,Kei Nishikori,Fernando Verdasco,677 63 64 
+2127,Alexander Zverev,Paolo Lorenzi,63 62 
+2128,Richard Gasquet,Gael Monfils,36 64 63 
+2129,Lucas Pouille,Jan-Lennard Struff,16 63 64 
+2130,Roberto Bautista Agut,Carlos Berlocq,60 46 62 
+2131,Andrey Rublev,Albert Ramos-Vinolas,671 75 64 
+2132,Dustin Brown,Vasek Pospisil,61 673 764 
+2133,Robin Haase,David Ferrer,36 75 63 
+2134,Karen Khachanov,Gilles Simon,62 672 63 
+2135,Philipp Kohlschreiber,Joao Sousa,36 64 64 
+2136,Florian Mayer,Benoit Paire,60 64 
+2137,Bernard Tomic,Tommy Haas,64 64 
+2138,Mikhail Youzhny,Ivo Karlovic,63 766 
+2139,Mischa Zverev,Lukas Lacko,64 64 
+2140,Mikhail Youzhny,Yuichi Sugita,765 6711 7612 
+2141,Lukas Lacko,Andreas Seppi,64 75 
+2142,Vasek Pospisil,Ernesto Escobedo,42 (RET)
+2143,Maximilian Marterer,Alexander Bublik,60 63 
+2144,Yuichi Sugita,Yannick Hanfmann,75 61 
+2145,Maximilian Marterer,Denis Istomin,765 763 
+2146,Andreas Seppi,Daniel Masur,63 63 
+2147,Ernesto Escobedo,Luca Vanni,63 762 
+2148,Alexander Bublik,Andrey Kuznetsov,26 64 64 
+2149,Vasek Pospisil,Daniel Altmaier,62 61 
+2150,Mikhail Youzhny,Benjamin Becker,63 64 
+2151,Lukas Lacko,Ruben Bemelmans,64 63 
+2152,Feliciano Lopez,Marin Cilic,46 762 768 
+2153,Marin Cilic,Gilles Muller,63 57 64 
+2154,Feliciano Lopez,Grigor Dimitrov,75 36 62 
+2155,Marin Cilic,Donald Young,64 75 
+2156,Grigor Dimitrov,Daniil Medvedev,63 36 63 
+2157,Feliciano Lopez,Tomas Berdych,765 671 75 
+2158,Gilles Muller,Sam Querrey,64 765 
+2159,Marin Cilic,Stefan Kozlov,60 64 
+2160,Gilles Muller,Jo-Wilfried Tsonga,64 64 
+2161,Grigor Dimitrov,Julien Benneteau,46 63 64 
+2162,Tomas Berdych,Denis Shapovalov,764 674 75 
+2163,Feliciano Lopez,Jeremy Chardy,61 764 
+2164,Daniil Medvedev,Thanasi Kokkinakis,62 62 
+2165,Sam Querrey,Jordan Thompson,763 36 63 
+2166,Donald Young,Viktor Troicki,63 64 
+2167,Jordan Thompson,Andy Murray,764 62 
+2168,Feliciano Lopez,Stan Wawrinka,764 75 
+2169,Thanasi Kokkinakis,Milos Raonic,765 768 
+2170,Marin Cilic,John Isner,75 63 
+2171,Jo-Wilfried Tsonga,Adrian Mannarino,62 62 
+2172,Grigor Dimitrov,Ryan Harrison,63 61 
+2173,Tomas Berdych,Steve Darcis,75 63 
+2174,Donald Young,Nick Kyrgios,763 (RET)
+2175,Julien Benneteau,James Ward,62 62 
+2176,Jeremy Chardy,Liam Broady,64 64 
+2177,Stefan Kozlov,Steve Johnson,36 61 61 
+2178,Daniil Medvedev,Nicolas Mahut,673 64 64 
+2179,Gilles Muller,Nikoloz Basilashvili,64 6717 64 
+2180,Sam Querrey,Cameron Norrie,61 64 
+2181,Denis Shapovalov,Kyle Edmund,764 46 64 
+2182,Viktor Troicki,Janko Tipsarevic,57 765 766 
+2183,Stefan Kozlov,Pierre-Hugues Herbert,64 62 
+2184,Jeremy Chardy,Jordan Thompson,46 64 63 
+2185,Julien Benneteau,Tobias Kamke,75 64 
+2186,Denis Shapovalov,Liam Broady,64 64 
+2187,Liam Broady,Frances Tiafoe,61 672 62 
+2188,Tobias Kamke,Jared Donaldson,61 764 
+2189,Pierre-Hugues Herbert,Stefano Napolitano,61 64 
+2190,Jeremy Chardy,Edward Corrie,64 57 63 
+2191,Jordan Thompson,Denis Kudla,57 767 62 
+2192,Julien Benneteau,Akira Santillan,63 61 
+2193,Denis Shapovalov,Reilly Opelka,63 36 766 
+2194,Stefan Kozlov,Kenny De Schepper,674 63 64 
+2195,Yuichi Sugita,Adrian Mannarino,61 764 
+2196,Adrian Mannarino,Andreas Seppi,64 64 
+2197,Yuichi Sugita,Marcos Baghdatis,63 677 41 (RET)
+2198,Adrian Mannarino,Fernando Verdasco,26 75 62 
+2199,Marcos Baghdatis,Ramkumar Ramanathan,670 63 766 
+2200,Andreas Seppi,Radu Albot,64 763 
+2201,Yuichi Sugita,Daniel Altmaier,63 60 
+2202,Ramkumar Ramanathan,Dominic Thiem,63 62 
+2203,Radu Albot,Paolo Lorenzi,63 64 
+2204,Fernando Verdasco,Steve Darcis,63 64 
+2205,Yuichi Sugita,David Ferrer,63 36 762 
+2206,Daniel Altmaier,Marsel Ilhan,63 36 765 
+2207,Marcos Baghdatis,Carlos Berlocq,64 36 75 
+2208,Adrian Mannarino,Mohamed Safwat,64 64 
+2209,Andreas Seppi,Janko Tipsarevic,36 64 64 
+2210,Carlos Berlocq,Viktor Troicki,36 62 64 
+2211,Adrian Mannarino,Borna Coric,75 64 
+2212,Marsel Ilhan,Martin Klizan,66 (RET)
+2213,Radu Albot,Joao Sousa,762 62 
+2214,Daniel Altmaier,Victor Estrella Burgos,75 678 765 
+2215,Marcos Baghdatis,Nikoloz Basilashvili,62 61 
+2216,Steve Darcis,Denis Istomin,64 675 64 
+2217,Ramkumar Ramanathan,Rogerio Dutra Silva,63 64 
+2218,Mohamed Safwat,Cem Ilkel,46 63 767 
+2219,Andreas Seppi,Kamil Majchrzak,62 761 
+2220,Yuichi Sugita,Matthew Ebden,61 63 
+2221,Janko Tipsarevic,Lloyd Harris,75 63 
+2222,Ramkumar Ramanathan,Yannick Mertens,63 64 
+2223,Matthew Ebden,Daniel Altmaier,64 57 64 
+2224,Kamil Majchrzak,Lloyd Harris,765 61 
+2225,Mohamed Safwat,Alexey Vatutin,64 64 
+2226,Ramkumar Ramanathan,Andrey Yakovlev,60 60 
+2227,Daniel Altmaier,Anil Yuksel,63 64 
+2228,Lloyd Harris,Alexander Kudryavtsev,765 765 
+2229,Alexey Vatutin,Roman Jebavy,64 63 
+2230,Kamil Majchrzak,Jaume Munar,64 62 
+2231,Mohamed Safwat,Danilo Petrovic,764 36 63 
+2232,Yannick Mertens,Altug Celikbilek,62 64 
+2233,Matthew Ebden,Sarp Agabigun,61 63 
+2234,Novak Djokovic,Gael Monfils,63 64 
+2235,Novak Djokovic,Daniil Medvedev,64 64 
+2236,Gael Monfils,Richard Gasquet,62 677 764 
+2237,Novak Djokovic,Donald Young,62 769 
+2238,Gael Monfils,Bernard Tomic,764 60 
+2239,Richard Gasquet,John Isner,63 62 
+2240,Daniil Medvedev,Steve Johnson,63 26 63 
+2241,Novak Djokovic,Vasek Pospisil,64 63 
+2242,Gael Monfils,Cameron Norrie,63 62 
+2243,John Isner,Dusan Lajovic,36 762 764 
+2244,Steve Johnson,Thomas Fabbiano,63 57 64 
+2245,Bernard Tomic,Mischa Zverev,63 62 
+2246,Richard Gasquet,Kevin Anderson,64 64 
+2247,Daniil Medvedev,Robin Haase,46 61 62 
+2248,Donald Young,Jared Donaldson,64 75 
+2249,Daniil Medvedev,Sam Querrey,63 75 
+2250,Mischa Zverev,Ryan Harrison,64 769 
+2251,Richard Gasquet,Frances Tiafoe,57 764 63 
+2252,Jared Donaldson,Diego Schwartzman,765 36 75 
+2253,Kevin Anderson,Thomaz Bellucci,63 61 
+2254,Thomas Fabbiano,Franko Skugor,765 64 
+2255,Robin Haase,Nicolas Mahut,64 764 
+2256,Dusan Lajovic,Jeremy Chardy,64 675 63 
+2257,Cameron Norrie,Horacio Zeballos,64 764 
+2258,Vasek Pospisil,Jiri Vesely,63 64 
+2259,Bernard Tomic,Norbert Gombos,763 63 
+2260,Donald Young,Kyle Edmund,64 36 63 
+2261,Vasek Pospisil,Ivan Dodig,(W/O)
+2262,Franko Skugor,Andrey Kuznetsov,26 64 64 
+2263,Norbert Gombos,Luke Bambridge,62 62 
+2264,Thomas Fabbiano,Ti Chen,61 64 
+2265,Vasek Pospisil,James Ward,61 64 
+2266,Andrey Kuznetsov,Takanyi Garanganga,60 63 
+2267,Norbert Gombos,Luke Saville,64 762 
+2268,Thomas Fabbiano,Andres Molteni,61 61 
+2269,Franko Skugor,Jerzy Janowicz,763 765 
+2270,Ivan Dodig,Steven Diez,36 63 75 
+2271,Luke Bambridge,Marek Jaloviec,64 64 
+2272,Ti Chen,Michal Konecny,26 764 75 
+2273,Roger Federer,Marin Cilic,63 61 64 
+2274,Roger Federer,Tomas Berdych,764 764 64 
+2275,Marin Cilic,Sam Querrey,676 64 763 75 
+2276,Sam Querrey,Andy Murray,36 64 674 61 61 
+2277,Tomas Berdych,Novak Djokovic,762 20 (RET)
+2278,Roger Federer,Milos Raonic,64 62 764 
+2279,Marin Cilic,Gilles Muller,36 766 75 57 61 
+2280,Andy Murray,Benoit Paire,761 64 64 
+2281,Novak Djokovic,Adrian Mannarino,62 765 64 
+2282,Roger Federer,Grigor Dimitrov,64 62 64 
+2283,Gilles Muller,Rafael Nadal,63 64 36 46 1513 
+2284,Milos Raonic,Alexander Zverev,46 75 46 75 61 
+2285,Marin Cilic,Roberto Bautista Agut,62 62 62 
+2286,Tomas Berdych,Dominic Thiem,63 671 63 36 63 
+2287,Sam Querrey,Kevin Anderson,57 765 63 6711 63 
+2288,Andy Murray,Fabio Fognini,62 46 61 75 
+2289,Novak Djokovic,Ernests Gulbis,64 61 762 
+2290,Roger Federer,Mischa Zverev,763 64 64 
+2291,Rafael Nadal,Karen Khachanov,61 64 763 
+2292,Milos Raonic,Albert Ramos-Vinolas,763 64 75 
+2293,Marin Cilic,Steve Johnson,64 763 64 
+2294,Dominic Thiem,Jared Donaldson,75 64 62 
+2295,Roberto Bautista Agut,Kei Nishikori,64 763 36 63 
+2296,Alexander Zverev,Sebastian Ofner,64 64 62 
+2297,Tomas Berdych,David Ferrer,63 64 63 
+2298,Sam Querrey,Jo-Wilfried Tsonga,62 36 765 16 75 
+2299,Grigor Dimitrov,Dudi Sela,61 61 (RET)
+2300,Adrian Mannarino,Gael Monfils,763 46 57 63 62 
+2301,Gilles Muller,Aljaz Bedene,764 75 64 
+2302,Kevin Anderson,Ruben Bemelmans,763 64 763 
+2303,Benoit Paire,Jerzy Janowicz,62 763 63 
+2304,Andy Murray,Dustin Brown,63 62 62 
+2305,Novak Djokovic,Adam Pavlasek,62 62 61 
+2306,Roger Federer,Dusan Lajovic,760 63 62 
+2307,Rafael Nadal,Donald Young,64 62 75 
+2308,Milos Raonic,Mikhail Youzhny,36 767 64 75 
+2309,Marin Cilic,Florian Mayer,762 64 75 
+2310,Dominic Thiem,Gilles Simon,57 64 62 64 
+2311,Kei Nishikori,Sergiy Stakhovsky,64 677 61 766 
+2312,Alexander Zverev,Frances Tiafoe,63 64 63 
+2313,Tomas Berdych,Ryan Harrison,64 63 678 63 
+2314,Jo-Wilfried Tsonga,Simone Bolelli,61 75 62 
+2315,Grigor Dimitrov,Marcos Baghdatis,63 62 61 
+2316,Jerzy Janowicz,Lucas Pouille,764 765 36 61 
+2317,Gael Monfils,Kyle Edmund,761 64 64 
+2318,Gilles Muller,Lukas Rosol,75 677 46 63 97 
+2319,Sebastian Ofner,Jack Sock,63 64 36 26 62 
+2320,Roberto Bautista Agut,Peter Gojowczyk,62 61 36 63 
+2321,Dudi Sela,John Isner,675 765 57 765 63 
+2322,Sam Querrey,Nikoloz Basilashvili,64 46 63 63 
+2323,Albert Ramos-Vinolas,Andrey Rublev,75 676 46 63 64 
+2324,Steve Johnson,Radu Albot,63 63 46 63 
+2325,Mischa Zverev,Mikhail Kukushkin,61 62 26 36 64 
+2326,Fabio Fognini,Jiri Vesely,763 64 62 
+2327,Ernests Gulbis,Juan Martin del Potro,64 64 763 
+2328,Karen Khachanov,Thiago Monteiro,36 765 763 75 
+2329,Jared Donaldson,Paolo Lorenzi,64 760 670 62 
+2330,Kevin Anderson,Andreas Seppi,63 764 63 
+2331,Aljaz Bedene,Damir Dzumhur,63 36 63 63 
+2332,Ruben Bemelmans,Daniil Medvedev,64 62 36 26 63 
+2333,David Ferrer,Steve Darcis,30 (RET)
+2334,Adrian Mannarino,Yuichi Sugita,61 57 46 762 62 
+2335,Benoit Paire,Pierre-Hugues Herbert,764 61 64 
+2336,Andy Murray,Alexander Bublik,61 64 62 
+2337,Novak Djokovic,Martin Klizan,63 20 (RET)
+2338,Roger Federer,Alexandr Dolgopolov,63 30 (RET)
+2339,Rafael Nadal,John Millman,61 63 62 
+2340,Daniil Medvedev,Stan Wawrinka,64 36 64 61 
+2341,Milos Raonic,Jan-Lennard Struff,765 62 764 
+2342,Marin Cilic,Philipp Kohlschreiber,64 62 63 
+2343,Dominic Thiem,Vasek Pospisil,64 64 63 
+2344,Kei Nishikori,Marco Cecchinato,62 62 60 
+2345,Alexander Zverev,Evgeny Donskoy,64 763 63 
+2346,Tomas Berdych,Jeremy Chardy,63 36 764 64 
+2347,Jo-Wilfried Tsonga,Cameron Norrie,63 62 62 
+2348,Grigor Dimitrov,Diego Schwartzman,764 62 62 
+2349,Lucas Pouille,Malek Jaziri,675 64 64 762 
+2350,Gael Monfils,Daniel Brands,63 75 64 
+2351,Gilles Muller,Marton Fucsovics,75 64 62 
+2352,Jack Sock,Christian Garin,63 46 764 63 
+2353,Roberto Bautista Agut,Andreas Haider-Maurer,63 61 62 
+2354,Adrian Mannarino,Feliciano Lopez,57 61 61 43 (RET)
+2355,Pierre-Hugues Herbert,Nick Kyrgios,63 64 (RET)
+2356,Aljaz Bedene,Ivo Karlovic,675 766 677 767 86 
+2357,David Ferrer,Richard Gasquet,63 64 57 62 
+2358,John Isner,Taylor Fritz,64 763 63 
+2359,Sam Querrey,Thomas Fabbiano,765 75 62 
+2360,Albert Ramos-Vinolas,Jordan Thompson,64 64 764 
+2361,Steve Johnson,Nicolas Kicker,64 75 63 
+2362,Mischa Zverev,Bernard Tomic,64 63 64 
+2363,Fabio Fognini,Dmitry Tursunov,61 63 63 
+2364,Juan Martin del Potro,Thanasi Kokkinakis,63 36 762 64 
+2365,Karen Khachanov,Andrey Kuznetsov,764 26 63 16 62 
+2366,Kevin Anderson,Fernando Verdasco,26 765 768 63 
+2367,Paolo Lorenzi,Horacio Zeballos,763 46 768 75 
+2368,Radu Albot,Facundo Bagnis,46 64 769 763 
+2369,Marcos Baghdatis,James Ward,64 64 63 
+2370,Nikoloz Basilashvili,Carlos Berlocq,64 763 61 
+2371,Ruben Bemelmans,Tommy Haas,62 36 63 75 
+2372,Simone Bolelli,Yen-Hsun Lu,63 16 63 64 
+2373,Dustin Brown,Joao Sousa,36 765 64 64 
+2374,Steve Darcis,Ricardas Berankis,46 63 26 64 63 
+2375,Jared Donaldson,Janko Tipsarevic,50 (RET)
+2376,Damir Dzumhur,Renzo Olivo,62 60 61 
+2377,Kyle Edmund,Alexander Ward,46 63 62 61 
+2378,Peter Gojowczyk,Marius Copil,765 26 63 61 
+2379,Ernests Gulbis,Victor Estrella Burgos,61 61 62 
+2380,Ryan Harrison,Borna Coric,764 64 766 
+2381,Jerzy Janowicz,Denis Shapovalov,64 36 63 762 
+2382,Mikhail Kukushkin,Taro Daniel,46 64 764 62 
+2383,Dusan Lajovic,Stefanos Tsitsipas,64 64 64 
+2384,Florian Mayer,Viktor Troicki,61 (RET)
+2385,Thiago Monteiro,Andrew Whittington,46 63 764 765 
+2386,Sebastian Ofner,Thomaz Bellucci,62 63 62 
+2387,Benoit Paire,Rogerio Dutra Silva,64 36 7610 64 
+2388,Adam Pavlasek,Ernesto Escobedo,677 61 63 61 
+2389,Lukas Rosol,Henri Laaksonen,46 75 63 64 
+2390,Andrey Rublev,Stefano Travaglia,673 63 75 16 75 
+2391,Dudi Sela,Marcel Granollers,46 63 16 62 61 
+2392,Andreas Seppi,Norbert Gombos,62 36 62 61 
+2393,Gilles Simon,Nicolas Jarry,764 63 63 
+2394,Sergiy Stakhovsky,Julien Benneteau,63 768 26 62 
+2395,Yuichi Sugita,Brydan Klein,765 63 60 
+2396,Frances Tiafoe,Robin Haase,63 36 765 75 
+2397,Jiri Vesely,Illya Marchenko,61 46 46 75 61 
+2398,Donald Young,Denis Istomin,57 64 64 42 (RET)
+2399,Mikhail Youzhny,Nicolas Mahut,62 75 64 
+2400,Peter Gojowczyk,Lukas Lacko,75 62 63 
+2401,Andrey Rublev,Paul-Henri Mathieu,64 16 7611 64 
+2402,Lukas Rosol,Darian King,64 36 63 64 
+2403,Illya Marchenko,Marcus Willis,64 61 764 
+2404,Sergiy Stakhovsky,Tatsuma Ito,63 671 676 64 86 
+2405,Ruben Bemelmans,Gerald Melzer,64 75 63 
+2406,Stefano Travaglia,Peter Polansky,64 46 36 64 64 
+2407,Daniel Brands,Alexander Bublik,63 36 46 62 1210 
+2408,Taylor Fritz,Vincent Millot,63 75 64 
+2409,Simone Bolelli,Pedro Sousa,62 63 62 
+2410,Christian Garin,John-Patrick Smith,46 767 64 46 1210 
+2411,Nicolas Jarry,Dennis Novikov,46 63 64 64 
+2412,Sebastian Ofner,Jay Clarke,26 679 64 64 61 
+2413,Stefanos Tsitsipas,Joris De Loore,63 36 63 36 75 
+2414,Alexander Ward,Teymuraz Gabashvili,673 64 766 61 
+2415,Andrew Whittington,Denis Kudla,46 26 767 763 60 
+2416,Vincent Millot,Tennys Sandgren,62 765 
+2417,Lukas Lacko,Andrea Arnaboldi,764 64 
+2418,Andrey Rublev,James McGee,63 46 62 
+2419,Alexander Ward,Go Soeda,63 61 
+2420,Darian King,Bradley Klahn,36 61 64 
+2421,Illya Marchenko,Benjamin Becker,36 763 64 
+2422,Sergiy Stakhovsky,Roberto Quiroz,63 75 
+2423,Ruben Bemelmans,Mathias Bourgue,64 36 63 
+2424,Peter Polansky,Aleksandr Nedovyesov,75 63 
+2425,Nicolas Jarry,Konstantin Kravchuk,75 46 119 
+2426,Alexander Bublik,Blake Mott,75 64 
+2427,Paul-Henri Mathieu,Maximo Gonzalez,61 64 
+2428,Taylor Fritz,Alejandro Gonzalez,61 63 
+2429,Christian Garin,Bjorn Fratangelo,674 75 64 
+2430,Peter Gojowczyk,Nikola Milojevic,63 765 
+2431,Stefano Travaglia,Quentin Halys,75 60 
+2432,Gerald Melzer,Ti Chen,75 62 
+2433,Simone Bolelli,Adrian Menendez-Maceiras,64 64 
+2434,Dennis Novikov,Stefan Kozlov,75 62 
+2435,Daniel Brands,Calvin Hemery ,64 64 
+2436,Jay Clarke,Elias Ymer,64 765 
+2437,Joris De Loore,Jozef Kovalik,36 75 63 
+2438,Teymuraz Gabashvili,Grega Zemlja,75 63 
+2439,Tatsuma Ito,Alex de Minaur,62 64 
+2440,Denis Kudla,Riccardo Bellotti,61 61 
+2441,Sebastian Ofner,Miljan Zekic,64 63 
+2442,Lukas Rosol,Rajeev Ram,62 16 62 
+2443,John-Patrick Smith,Mackenzie McDonald,64 675 63 
+2444,Pedro Sousa,Steven Diez,75 26 62 
+2445,Stefanos Tsitsipas,Yannick Hanfmann,765 765 
+2446,Andrew Whittington,Tim Smyczek,674 64 64 
+2447,Marcus Willis,Liam Broady,762 672 62 
+2448,Pedro Sousa,Alessandro Giannessi,46 63 64 
+2449,Stefanos Tsitsipas,Santiago Giraldo,26 64 63 
+2450,Tennys Sandgren,Michael Mmoh,63 75 
+2451,Lukas Lacko,Hiroki Moriya,63 63 
+2452,Andrey Rublev,Joao Domingues,63 63 
+2453,Go Soeda,Inigo Cervantes,36 75 97 
+2454,Riccardo Bellotti,Blaz Kavcic,61 30 (RET)
+2455,Darian King,Lorenzo Giustino,64 60 
+2456,Illya Marchenko,Filip Krajinovic,764 75 
+2457,Calvin Hemery ,Luca Vanni,26 764 1311 
+2458,Sergiy Stakhovsky,Kenny De Schepper,63 64 
+2459,Ruben Bemelmans,Tristan Lamasine,36 61 63 
+2460,John-Patrick Smith,Laslo Djere,62 675 62 
+2461,Miljan Zekic,Maximilian Marterer,63 764 
+2462,Peter Polansky,Marco Trungelliti,62 763 
+2463,Konstantin Kravchuk,Matteo Donati,764 62 
+2464,Rajeev Ram,Reilly Opelka,766 765 
+2465,Alex de Minaur,Jurgen Melzer,26 63 63 
+2466,Alexander Bublik,Daniel Gimeno-Traver,60 63 
+2467,Paul-Henri Mathieu,Yannik Reuter,765 62 
+2468,Taylor Fritz,Marco Chiudinelli,63 57 61 
+2469,Bjorn Fratangelo,Daniel Masur,62 (RET)
+2470,Peter Gojowczyk,Mirza Basic,60 63 
+2471,Andrew Whittington,Stephane Robert,36 75 64 
+2472,Quentin Halys,Ryan James Storrie,75 64 
+2473,Teymuraz Gabashvili,Jan Satral,75 764 
+2474,Gerald Melzer,Federico Coria,63 60 
+2475,Adrian Menendez-Maceiras,Tobias Kamke,36 63 64 
+2476,Jozef Kovalik,Roberto Carballes Baena,763 64 
+2477,Elias Ymer,Duckhee Lee,63 62 
+2478,Marcus Willis,Andrej Martin,75 75 
+2479,Stefan Kozlov,Marc Polmans,64 75 
+2480,Andrea Arnaboldi,Aldin Setkic,46 63 64 
+2481,Benjamin Becker,Yasutaka Uchiyama,36 63 64 
+2482,Simone Bolelli,Sam Groth,763 26 119 
+2483,Mathias Bourgue,Mitchell Krueger,63 64 
+2484,Daniel Brands,Oscar Otte,64 64 
+2485,Liam Broady,Frank Dancevic,62 63 
+2486,Ti Chen,Ricardo Ojeda Lara,765 36 62 
+2487,Jay Clarke,Marcelo Arevalo,63 64 
+2488,Joris De Loore,Attila Balazs,75 767 
+2489,Steven Diez,Gleb Sakharov,64 64 
+2490,Christian Garin,Gianluigi Quinzi,64 63 
+2491,Alejandro Gonzalez,Vaclav Safranek,672 62 61 
+2492,Maximo Gonzalez,Petr Michnev,63 61 
+2493,Yannick Hanfmann,Federico Gaio,64 63 
+2494,Tatsuma Ito,Matija Pecotic,62 62 
+2495,Nicolas Jarry,Lloyd Glasspool,63 61 
+2496,Bradley Klahn,Soonwoo Kwon,63 64 
+2497,Denis Kudla,Akira Santillan,57 75 1311 
+2498,Mackenzie McDonald,Daniel Cox,75 61 
+2499,James McGee,Ruben Ramirez Hidalgo,676 63 64 
+2500,Vincent Millot,Stefano Napolitano,75 36 63 
+2501,Nikola Milojevic,Enrique Lopez-Perez,63 64 
+2502,Blake Mott,Jeremy Jahn,64 64 
+2503,Aleksandr Nedovyesov,Neil Pauffley,50 (RET)
+2504,Dennis Novikov,Di Wu,64 763 
+2505,Sebastian Ofner,Kimmer Coppejans,764 36 108 
+2506,Roberto Quiroz,Edward Corrie,46 63 61 
+2507,Lukas Rosol,Jason Jung,765 766 
+2508,Tim Smyczek,Yannick Maden,763 62 
+2509,Stefano Travaglia,Salvatore Caruso,63 75 
+2510,Alexander Ward,Egor Gerasimov,16 75 63 
+2511,Grega Zemlja,Ilya Ivashka,768 36 64 
+2512,David Ferrer,Alexandr Dolgopolov,64 64 
+2513,David Ferrer,Fernando Verdasco,61 673 64 
+2514,Alexandr Dolgopolov,Andrey Kuznetsov,63 62 
+2515,Fernando Verdasco,Albert Ramos-Vinolas,63 62 
+2516,Alexandr Dolgopolov,Karen Khachanov,765 36 762 
+2517,Andrey Kuznetsov,Diego Schwartzman,63 63 
+2518,David Ferrer,Henri Laaksonen,75 36 763 
+2519,Andrey Kuznetsov,Pablo Carreno Busta,46 765 30 (RET)
+2520,Albert Ramos-Vinolas,Thiago Monteiro,36 64 63 
+2521,Henri Laaksonen,Pablo Cuevas,64 63 
+2522,Karen Khachanov,Ernests Gulbis,46 765 63 
+2523,Fernando Verdasco,Facundo Bagnis,63 62 
+2524,Diego Schwartzman,Renzo Olivo,64 61 
+2525,David Ferrer,Dustin Brown,62 63 
+2526,Alexandr Dolgopolov,Horacio Zeballos,64 64 
+2527,Fernando Verdasco,Elias Ymer,46 63 64 
+2528,Diego Schwartzman,Maximilian Marterer,61 63 
+2529,David Ferrer,Federico Delbonis,63 64 
+2530,Horacio Zeballos,Nikoloz Basilashvili,63 63 
+2531,Facundo Bagnis,Tommy Haas,675 63 62 
+2532,Dustin Brown,Thomaz Bellucci,64 63 
+2533,Alexandr Dolgopolov,Leonardo Mayer,63 62 
+2534,Ernests Gulbis,Arthur De Greef,46 63 62 
+2535,Andrey Kuznetsov,Jan-Lennard Struff,63 64 
+2536,Henri Laaksonen,Mikael Ymer,765 75 
+2537,Thiago Monteiro,Dusan Lajovic,63 (RET)
+2538,Renzo Olivo,Paul-Henri Mathieu,62 64 
+2539,Federico Delbonis,Stephane Robert,62 63 
+2540,Arthur De Greef,Tommy Robredo,64 62 
+2541,Maximilian Marterer,Calvin Hemery ,62 62 
+2542,Leonardo Mayer,Paul-Henri Mathieu,26 63 62 
+2543,Federico Delbonis,Markus Eriksson,64 64 
+2544,Arthur De Greef,Fred Simonsson,46 64 64 
+2545,Maximilian Marterer,Andre Goransson,62 61 
+2546,Paul-Henri Mathieu,Isak Arvidsson,62 62 
+2547,Stephane Robert,Constant Lestienne,63 51 (RET)
+2548,Tommy Robredo,Mathias Bourgue,51 (RET)
+2549,Leonardo Mayer,Tristan Lamasine,768 673 62 
+2550,Calvin Hemery ,Kimmer Coppejans,63 64 
+2551,John Isner,Matthew Ebden,63 764 
+2552,John Isner,Bjorn Fratangelo,62 64 
+2553,Matthew Ebden,Peter Gojowczyk,63 63 
+2554,John Isner,Dennis Novikov,64 64 
+2555,Peter Gojowczyk,Ivo Karlovic,765 671 764 
+2556,Bjorn Fratangelo,Pierre-Hugues Herbert,62 57 64 
+2557,Matthew Ebden,Tobias Kamke,46 766 64 
+2558,John Isner,Sam Groth,62 64 
+2559,Ivo Karlovic,Denis Kudla,64 64 
+2560,Tobias Kamke,Adrian Mannarino,765 75 
+2561,Pierre-Hugues Herbert,Adrian Menendez-Maceiras,75 26 63 
+2562,Matthew Ebden,Lukas Lacko,61 762 
+2563,Bjorn Fratangelo,Akira Santillan,763 36 61 
+2564,Peter Gojowczyk,Konstantin Kravchuk,26 64 64 
+2565,Dennis Novikov,Frank Dancevic,63 62 
+2566,Konstantin Kravchuk,Victor Estrella Burgos,64 64 
+2567,Lukas Lacko,Reilly Opelka,767 64 
+2568,Frank Dancevic,Tennys Sandgren,675 63 62 
+2569,Bjorn Fratangelo,Illya Marchenko,762 16 64 
+2570,Matthew Ebden,Rajeev Ram,61 64 
+2571,Peter Gojowczyk,Thai-Son Kwiatkowski,63 63 
+2572,Sam Groth,Austin Krajicek,673 762 63 
+2573,Tobias Kamke,Taylor Fritz,63 63 
+2574,Denis Kudla,Mitchell Krueger,64 57 60 
+2575,Adrian Menendez-Maceiras,Stefan Kozlov,62 765 
+2576,Dennis Novikov,Marco Chiudinelli,61 63 
+2577,Akira Santillan,Michael Mmoh,61 62 
+2578,Matthew Ebden,Ramkumar Ramanathan,46 61 75 
+2579,Sam Groth,William Blumberg,62 64 
+2580,Frank Dancevic,Andrew Whittington,36 63 769 
+2581,Austin Krajicek,John-Patrick Smith,64 64 
+2582,Ramkumar Ramanathan,Christopher Eubanks,64 36 61 
+2583,Sam Groth,Alessandro Bega,62 63 
+2584,Austin Krajicek,Tim Smyczek,764 63 
+2585,Andrew Whittington,Evan King,75 60 
+2586,William Blumberg,James McGee,765 64 
+2587,John-Patrick Smith,Alex Bolt,64 63 
+2588,Matthew Ebden,Brydan Klein,36 60 64 
+2589,Frank Dancevic,Marcelo Arevalo,36 61 64 
+2590,Andrey Rublev,Paolo Lorenzi,64 62 
+2591,Paolo Lorenzi,Alessandro Giannessi,62 46 63 
+2592,Andrey Rublev,Ivan Dodig,764 61 
+2593,Ivan Dodig,David Goffin,75 63 
+2594,Andrey Rublev,Fabio Fognini,675 62 762 
+2595,Paolo Lorenzi,Jiri Vesely,16 75 63 
+2596,Alessandro Giannessi,Rogerio Dutra Silva,673 62 75 
+2597,David Goffin,Attila Balazs,64 677 62 
+2598,Rogerio Dutra Silva,Gael Monfils,765 46 63 
+2599,Fabio Fognini,Nicolas Kicker,64 16 62 
+2600,Paolo Lorenzi,Aljaz Bedene,75 63 
+2601,Jiri Vesely,Radu Albot,763 62 
+2602,Ivan Dodig,Marco Cecchinato,36 766 62 
+2603,Alessandro Giannessi,Kenny De Schepper,62 36 63 
+2604,Andrey Rublev,Andrej Martin,765 75 
+2605,Marco Cecchinato,Gilles Simon,61 36 61 
+2606,Kenny De Schepper,Benoit Paire,62 46 63 
+2607,Jiri Vesely,Norbert Gombos,64 60 
+2608,Radu Albot,Miljan Zekic,64 60 
+2609,Attila Balazs,Damir Dzumhur,63 06 75 
+2610,Aljaz Bedene,Joao Sousa,63 46 64 
+2611,Ivan Dodig,Marius Copil,64 764 
+2612,Rogerio Dutra Silva,Marco Trungelliti,61 62 
+2613,Alessandro Giannessi,Marc Polmans,673 63 64 
+2614,Nicolas Kicker,Mikhail Youzhny,63 75 
+2615,Andrej Martin,Denis Istomin,63 62 
+2616,Andrey Rublev,Carlos Berlocq,62 64 
+2617,Attila Balazs,Andrey Rublev,63 75 
+2618,Kenny De Schepper,Franko Skugor,16 762 767 
+2619,Marco Trungelliti,Matteo Donati,62 64 
+2620,Miljan Zekic,Stefano Napolitano,63 75 
+2621,Andrey Rublev,Jordi Samper-Montana,62 64 
+2622,Kenny De Schepper,Matteo Viola,62 75 
+2623,Marco Trungelliti,Rocco Savin,61 61 
+2624,Stefano Napolitano,Tomislav Brkic,63 75 
+2625,Attila Balazs,Matija Pecotic,36 764 62 
+2626,Miljan Zekic,Nino Serdarusic,36 63 64 
+2627,Franko Skugor,Nils Langer,676 62 63 
+2628,Matteo Donati,Walter Trusendi,46 64 63 
+2629,John Isner,Ryan Harrison,766 767 
+2630,John Isner,Gilles Muller,64 62 
+2631,Ryan Harrison,Kyle Edmund,675 63 64 
+2632,Kyle Edmund,Jack Sock,64 61 
+2633,John Isner,Lukas Lacko,75 64 
+2634,Gilles Muller,Tommy Paul,63 61 
+2635,Ryan Harrison,Christopher Eubanks,61 62 
+2636,Jack Sock,Dudi Sela,64 63 
+2637,John Isner,Vasek Pospisil,63 64 
+2638,Gilles Muller,Quentin Halys,64 671 63 
+2639,Ryan Harrison,John Millman,672 764 75 
+2640,Kyle Edmund,Peter Gojowczyk,26 64 75 
+2641,Lukas Lacko,Donald Young,63 61 
+2642,Christopher Eubanks,Jared Donaldson,64 46 62 
+2643,Tommy Paul,Malek Jaziri,675 64 63 
+2644,Kyle Edmund,Marcos Baghdatis,63 75 
+2645,Donald Young,Tim Smyczek,64 62 
+2646,Tommy Paul,Hyeon Chung,46 62 63 
+2647,Jared Donaldson,Ernesto Escobedo,63 61 
+2648,Christopher Eubanks,Taylor Fritz,765 64 
+2649,Peter Gojowczyk,Guido Pella,46 63 765 
+2650,Quentin Halys,Stefan Kozlov,75 767 
+2651,Malek Jaziri,Reilly Opelka,57 7614 61 
+2652,Lukas Lacko,Thomas Fabbiano,61 62 
+2653,John Millman,Frances Tiafoe,57 64 765 
+2654,Vasek Pospisil,Bjorn Fratangelo,75 46 763 
+2655,Dudi Sela,Konstantin Kravchuk,75 62 
+2656,Tim Smyczek,Illya Marchenko,(W/O)
+2657,Stefan Kozlov,Brydan Klein,679 62 764 
+2658,Quentin Halys,Dennis Novikov,676 75 64 
+2659,Tommy Paul,Mitchell Krueger,26 62 63 
+2660,Illya Marchenko,Alessandro Bega,64 64 
+2661,Stefan Kozlov,Catalin-Ionut Gard,63 61 
+2662,Quentin Halys,Hugo Nys,63 75 
+2663,Mitchell Krueger,Pol Wattanakul,61 62 
+2664,Tim Smyczek,Jeevan Nedunchezhiyan,763 63 
+2665,Dennis Novikov,Ante Pavic,64 63 
+2666,Brydan Klein,Trent Bryde,63 60 
+2667,Tommy Paul,Andrew Carter,46 60 61 
+2668,Fabio Fognini,Yannick Hanfmann,64 75 
+2669,Fabio Fognini,Roberto Bautista Agut,57 62 63 
+2670,Yannick Hanfmann,Robin Haase,36 766 764 
+2671,Robin Haase,David Goffin,75 61 
+2672,Roberto Bautista Agut,Denis Istomin,63 64 
+2673,Fabio Fognini,Ernests Gulbis,63 46 63 
+2674,Yannick Hanfmann,Joao Sousa,6710 62 62 
+2675,David Goffin,Radu Albot,26 767 767 
+2676,Roberto Bautista Agut,Gleb Sakharov,64 63 
+2677,Yannick Hanfmann,Feliciano Lopez,765 36 61 
+2678,Fabio Fognini,Norbert Gombos,16 64 63 
+2679,Ernests Gulbis,Paolo Lorenzi,7610 36 64 
+2680,Robin Haase,Thiago Monteiro,75 75 
+2681,Joao Sousa,Henri Laaksonen,61 62 
+2682,Denis Istomin,Dustin Brown,63 61 
+2683,Paolo Lorenzi,Marco Chiudinelli,762 63 
+2684,Robin Haase,Renzo Olivo,61 64 
+2685,Dustin Brown,Dusan Lajovic,63 763 
+2686,Joao Sousa,Santiago Giraldo,63 63 
+2687,Radu Albot,Mikhail Youzhny,46 766 75 
+2688,Norbert Gombos,Taro Daniel,768 62 
+2689,Ernests Gulbis,Daniel Brands,64 64 
+2690,Yannick Hanfmann,Facundo Bagnis,63 673 64 
+2691,Denis Istomin,Lorenzo Giustino,63 62 
+2692,Henri Laaksonen,Thomaz Bellucci,762 674 75 
+2693,Thiago Monteiro,Alexandr Dolgopolov,765 36 63 
+2694,Gleb Sakharov,Antoine Bellier,63 768 
+2695,Lorenzo Giustino,Joao Souza,764 765 
+2696,Yannick Hanfmann,Jonathan Eysseric,62 61 
+2697,Daniel Brands,Stefano Napolitano,763 57 763 
+2698,Gleb Sakharov,Adrian Bodmer,63 75 
+2699,Adrian Bodmer,Arthur De Greef,765 62 
+2700,Joao Souza,Gianluigi Quinzi,64 36 765 
+2701,Daniel Brands,Adrian Menendez-Maceiras,62 63 
+2702,Yannick Hanfmann,Marcelo Arevalo,61 61 
+2703,Jonathan Eysseric,Attila Balazs,62 63 
+2704,Stefano Napolitano,Marc-Andrea Huesler,63 62 
+2705,Lorenzo Giustino,Yann Marti,64 673 62 
+2706,Gleb Sakharov,Yannick Mertens,64 75 
+2707,Leonardo Mayer,Florian Mayer,64 46 63 
+2708,Florian Mayer,Philipp Kohlschreiber,46 32 (RET)
+2709,Leonardo Mayer,Federico Delbonis,63 75 
+2710,Federico Delbonis,Karen Khachanov,75 36 64 
+2711,Florian Mayer,Diego Schwartzman,62 26 63 
+2712,Philipp Kohlschreiber,Nicolas Kicker,766 46 64 
+2713,Leonardo Mayer,Jiri Vesely,764 63 
+2714,Karen Khachanov,Aljaz Bedene,764 57 64 
+2715,Philipp Kohlschreiber,Gilles Simon,63 36 62 
+2716,Nicolas Kicker,Benoit Paire,64 767 
+2717,Diego Schwartzman,Cedrik-Marcel Stebe,16 64 62 
+2718,Federico Delbonis,David Ferrer,75 63 
+2719,Florian Mayer,Andrey Kuznetsov,63 46 64 
+2720,Leonardo Mayer,Jan-Lennard Struff,62 75 
+2721,Jiri Vesely,Horacio Zeballos,64 64 
+2722,Leonardo Mayer,Albert Ramos-Vinolas,673 63 764 
+2723,Andrey Kuznetsov,Pablo Cuevas,36 75 64 
+2724,Karen Khachanov,Rudolf Molleker,64 63 
+2725,Gilles Simon,Maximilian Marterer,62 46 64 
+2726,Benoit Paire,Dmitry Tursunov,63 62 
+2727,Diego Schwartzman,Andreas Haider-Maurer,62 63 
+2728,Jiri Vesely,Fernando Verdasco,767 670 63 
+2729,David Ferrer,Nikoloz Basilashvili,62 36 63 
+2730,Aljaz Bedene,Jose Hernandez-Fernandez,61 62 
+2731,Federico Delbonis,Carlos Berlocq,676 75 63 
+2732,Nicolas Kicker,Tommy Haas,75 62 
+2733,Philipp Kohlschreiber,Andrey Rublev,63 61 
+2734,Florian Mayer,Marco Cecchinato,75 62 
+2735,Cedrik-Marcel Stebe,Damir Dzumhur,63 64 
+2736,Jan-Lennard Struff,Evgeny Donskoy,63 64 
+2737,Horacio Zeballos,Daniel Altmaier,762 64 
+2738,Damir Dzumhur,Sergiy Stakhovsky,765 75 
+2739,Federico Delbonis,Kenny De Schepper,61 60 
+2740,Rudolf Molleker,Leonardo Mayer,762 36 63 
+2741,Cedrik-Marcel Stebe,Oscar Otte,672 762 61 
+2742,Damir Dzumhur,Michael Linzer,63 75 
+2743,Federico Delbonis,Jose Hernandez-Fernandez,61 62 
+2744,Cedrik-Marcel Stebe,Marton Fucsovics,75 673 64 
+2745,Rudolf Molleker,Casper Ruud,26 64 64 
+2746,Sergiy Stakhovsky,Jason Jeremy Hildebrandt,62 64 
+2747,Leonardo Mayer,Louis Wessels,63 62 
+2748,Oscar Otte,Gastao Elias,12 (RET)
+2749,Kenny De Schepper,Maximo Gonzalez,75 75 
+2750,Philipp Kohlschreiber,Joao Sousa,63 64 
+2751,Philipp Kohlschreiber,Fabio Fognini,75 63 
+2752,Joao Sousa,Sebastian Ofner,764 764 
+2753,Fabio Fognini,Thomaz Bellucci,63 61 
+2754,Philipp Kohlschreiber,Dusan Lajovic,46 64 765 
+2755,Sebastian Ofner,Renzo Olivo,63 16 63 
+2756,Joao Sousa,Gerald Melzer,26 61 63 
+2757,Sebastian Ofner,Pablo Cuevas,63 26 763 
+2758,Fabio Fognini,Miljan Zekic,64 64 
+2759,Joao Sousa,Paolo Lorenzi,675 64 61 
+2760,Dusan Lajovic,Gilles Simon,64 64 
+2761,Thomaz Bellucci,Jan-Lennard Struff,64 763 
+2762,Philipp Kohlschreiber,Jiri Vesely,63 63 
+2763,Renzo Olivo,Horacio Zeballos,764 62 
+2764,Gerald Melzer,Santiago Giraldo,63 761 
+2765,Santiago Giraldo,Robin Haase,766 46 64 
+2766,Jan-Lennard Struff,Tommy Haas,63 764 
+2767,Jiri Vesely,Yannick Hanfmann,64 64 
+2768,Horacio Zeballos,Rogerio Dutra Silva,26 7611 764 
+2769,Thomaz Bellucci,Alexandr Dolgopolov,62 57 64 
+2770,Philipp Kohlschreiber,Facundo Bagnis,75 36 63 
+2771,Dusan Lajovic,Maximilian Marterer,75 764 
+2772,Gerald Melzer,Carlos Berlocq,64 57 63 
+2773,Sebastian Ofner,Nikoloz Basilashvili,75 30 (RET)
+2774,Renzo Olivo,Thiago Monteiro,75 62 
+2775,Joao Sousa,Mikhail Youzhny,674 75 63 
+2776,Miljan Zekic,Andrey Kuznetsov,764 766 
+2777,Santiago Giraldo,Jozef Kovalik,75 64 
+2778,Facundo Bagnis,Thiago Monteiro,36 64 63 
+2779,Maximilian Marterer,Michael Linzer,62 64 
+2780,Miljan Zekic,Stefanos Tsitsipas,764 763 
+2781,Miljan Zekic,Alessandro Giannessi,36 75 64 
+2782,Santiago Giraldo,Lenny Hampel,61 62 
+2783,Michael Linzer,Jerzy Janowicz,61 64 
+2784,Facundo Bagnis,Hubert Hurkacz,63 26 61 
+2785,Thiago Monteiro,Paul-Henri Mathieu,62 61 
+2786,Maximilian Marterer,Jurij Rodionov,765 61 
+2787,Jozef Kovalik,Gastao Elias,61 57 64 
+2788,Stefanos Tsitsipas,Mohamed Safwat,63 764 
+2789,Sam Querrey,Thanasi Kokkinakis,63 36 62 
+2790,Thanasi Kokkinakis,Tomas Berdych,36 765 64 
+2791,Sam Querrey,Damir Dzumhur,36 64 64 
+2792,Tomas Berdych,Adrian Mannarino,46 63 64 
+2793,Sam Querrey,Vincent Millot,61 63 
+2794,Damir Dzumhur,Feliciano Lopez,672 64 762 
+2795,Thanasi Kokkinakis,Taylor Fritz,765 62 
+2796,Tomas Berdych,Akira Santillan,63 61 
+2797,Sam Querrey,Evan King,64 46 762 
+2798,Taylor Fritz,Albert Ramos-Vinolas,765 64 
+2799,Feliciano Lopez,Matthew Ebden,64 64 
+2800,Vincent Millot,Fernando Verdasco,16 62 64 
+2801,Adrian Mannarino,Bjorn Fratangelo,61 61 
+2802,Damir Dzumhur,Quentin Halys,53 (RET)
+2803,Thanasi Kokkinakis,Peter Polansky,46 63 764 
+2804,Quentin Halys,Ivo Karlovic,765 768 
+2805,Fernando Verdasco,Ernesto Escobedo,676 75 62 
+2806,Adrian Mannarino,Jason Jung,63 63 
+2807,Thanasi Kokkinakis,Frances Tiafoe,763 7610 
+2808,Damir Dzumhur,Taro Daniel,674 63 63 
+2809,Matthew Ebden,Dennis Novikov,16 63 63 
+2810,Bjorn Fratangelo,Tatsuma Ito,64 64 
+2811,Taylor Fritz,Mikhail Kukushkin,675 62 62 
+2812,Evan King,Manuel Sanchez,64 64 
+2813,Vincent Millot,Brydan Klein,62 36 61 
+2814,Peter Polansky,Yasutaka Uchiyama,75 765 
+2815,Akira Santillan,Konstantin Kravchuk,60 61 
+2816,Quentin Halys,Evan Song,63 762 
+2817,Matthew Ebden,Brydan Klein,60 75 
+2818,Akira Santillan,Sadio Doumbia,63 61 
+2819,Evan King,Ante Pavic,766 61 
+2820,Quentin Halys,Alan Raul Sau Franco,60 60 
+2821,Matthew Ebden,Hans Hach Verdugo,62 61 
+2822,Akira Santillan,Bradley Mousley,64 62 
+2823,Ante Pavic,Alexander Sarkissian,60 (RET)
+2824,Brydan Klein,Hugo Nys,36 62 63 
+2825,Evan Song,Roberto Quiroz,62 62 
+2826,Sadio Doumbia,Andres Molteni,64 63 
+2827,Evan King,Philip Bester,64 64 
+2828,Alexander Zverev,Kevin Anderson,64 64 
+2829,Alexander Zverev,Kei Nishikori,63 64 
+2830,Kevin Anderson,Jack Sock,63 64 
+2831,Kei Nishikori,Tommy Paul,36 768 64 
+2832,Jack Sock,Milos Raonic,75 64 
+2833,Alexander Zverev,Daniil Medvedev,62 64 
+2834,Kevin Anderson,Yuki Bhambri,64 46 63 
+2835,Kevin Anderson,Dominic Thiem,63 676 767 
+2836,Kei Nishikori,Juan Martin del Potro,64 75 
+2837,Milos Raonic,Marcos Baghdatis,767 63 
+2838,Daniil Medvedev,Grigor Dimitrov,64 62 
+2839,Alexander Zverev,Tennys Sandgren,75 75 
+2840,Jack Sock,Jared Donaldson,766 62 
+2841,Tommy Paul,Gilles Muller,673 64 63 
+2842,Yuki Bhambri,Guido Pella,675 63 61 
+2843,Dominic Thiem,Henri Laaksonen,63 63 
+2844,Kei Nishikori,Donald Young,63 46 765 
+2845,Milos Raonic,Nicolas Mahut,762 768 
+2846,Grigor Dimitrov,Kyle Edmund,75 46 63 
+2847,Alexander Zverev,Jordan Thompson,46 63 765 
+2848,Yuki Bhambri,Gael Monfils,63 46 75 
+2849,Tommy Paul,Lucas Pouille,766 63 
+2850,Jack Sock,Marius Copil,762 766 
+2851,Tennys Sandgren,Nick Kyrgios,63 30 (RET)
+2852,Gilles Muller,Dmitry Tursunov,61 62 
+2853,Guido Pella,Mischa Zverev,675 762 63 
+2854,Juan Martin del Potro,Lukas Lacko,75 62 
+2855,Daniil Medvedev,Steve Johnson,36 64 761 
+2856,Kevin Anderson,Malek Jaziri,64 61 
+2857,Marcos Baghdatis,Ryan Harrison,64 61 
+2858,Jared Donaldson,Marc Polmans,62 63 
+2859,Marcos Baghdatis,Edan Leshem,761 60 
+2860,Yuki Bhambri,Stefan Kozlov,75 20 (RET)
+2861,Marius Copil,Sekou Bangoura,64 761 
+2862,Jared Donaldson,Dudi Sela,676 64 63 
+2863,Kyle Edmund,Hyeon Chung,63 61 
+2864,Malek Jaziri,Alessandro Bega,75 75 
+2865,Henri Laaksonen,Vasek Pospisil,677 64 63 
+2866,Lukas Lacko,Alexios Halebian,63 64 
+2867,Nicolas Mahut,Thomas Fabbiano,61 763 
+2868,Daniil Medvedev,Reilly Opelka,678 63 766 
+2869,Tommy Paul,Casper Ruud,36 75 30 (RET)
+2870,Guido Pella,Ramkumar Ramanathan,64 61 
+2871,Tennys Sandgren,Go Soeda,762 63 
+2872,Jordan Thompson,Ruben Bemelmans,63 62 
+2873,Dmitry Tursunov,Mitchell Krueger,64 674 64 
+2874,Donald Young,Tim Smyczek,46 63 64 
+2875,Ramkumar Ramanathan,Marinko Matosevic,75 63 
+2876,Yuki Bhambri,Liam Broady,62 64 
+2877,Alexios Halebian,Marc Polmans,765 75 
+2878,Sekou Bangoura,Austin Krajicek,671 75 64 
+2879,Edan Leshem,Alejandro Gonzalez,64 62 
+2880,Alessandro Bega,Joao Pedro Sorgi,64 64 
+2881,Marc Polmans,Nicholas Reyes,61 63 
+2882,Austin Krajicek,Connor Farren,62 62 
+2883,Edan Leshem,Alex Rybakov,62 766 
+2884,Joao Pedro Sorgi,Damon Gooch,46 61 62 
+2885,Sekou Bangoura,Ryan Goetz,62 672 60 
+2886,Alessandro Bega,Danny Thomas,763 63 
+2887,Liam Broady,Frank Moser,62 64 
+2888,Alejandro Gonzalez,Ulises Blanch,63 64 
+2889,Marinko Matosevic,Patrick Kypson,61 61 
+2890,Alexios Halebian,Wil Spencer,61 57 64 
+2891,Alexander Zverev,Roger Federer,63 64 
+2892,Roger Federer,Robin Haase,63 765 
+2893,Alexander Zverev,Denis Shapovalov,64 75 
+2894,Roger Federer,Roberto Bautista Agut,64 64 
+2895,Alexander Zverev,Kevin Anderson,75 64 
+2896,Robin Haase,Diego Schwartzman,46 63 63 
+2897,Denis Shapovalov,Adrian Mannarino,26 63 64 
+2898,Denis Shapovalov,Rafael Nadal,36 64 764 
+2899,Roger Federer,David Ferrer,46 64 62 
+2900,Alexander Zverev,Nick Kyrgios,64 63 
+2901,Robin Haase,Grigor Dimitrov,763 46 61 
+2902,Roberto Bautista Agut,Gael Monfils,46 765 762 
+2903,Kevin Anderson,Sam Querrey,64 61 
+2904,Adrian Mannarino,Hyeon Chung,63 63 
+2905,Diego Schwartzman,Jared Donaldson,06 75 75 
+2906,Rafael Nadal,Borna Coric,61 62 
+2907,Roger Federer,Peter Polansky,62 61 
+2908,Diego Schwartzman,Dominic Thiem,64 677 75 
+2909,Alexander Zverev,Richard Gasquet,63 46 763 
+2910,Gael Monfils,Kei Nishikori,674 75 766 
+2911,Adrian Mannarino,Milos Raonic,64 64 
+2912,Grigor Dimitrov,Mischa Zverev,63 36 63 
+2913,Sam Querrey,Jo-Wilfried Tsonga,61 36 64 
+2914,Hyeon Chung,David Goffin,75 63 
+2915,Kevin Anderson,Pablo Carreno Busta,63 766 
+2916,Roberto Bautista Agut,Ryan Harrison,75 62 
+2917,David Ferrer,Jack Sock,767 36 61 
+2918,Nick Kyrgios,Paolo Lorenzi,62 63 
+2919,Jared Donaldson,Benoit Paire,62 75 
+2920,Robin Haase,Ernesto Escobedo,64 61 
+2921,Denis Shapovalov,Juan Martin del Potro,63 764 
+2922,David Goffin,Yuichi Sugita,46 61 64 
+2923,Pablo Carreno Busta,Karen Khachanov,36 63 62 
+2924,Roberto Bautista Agut,Tim Smyczek,764 61 
+2925,Jared Donaldson,Lucas Pouille,765 768 
+2926,Juan Martin del Potro,John Isner,75 75 
+2927,Jack Sock,Pierre-Hugues Herbert,764 63 
+2928,Nick Kyrgios,Viktor Troicki,61 62 
+2929,Kevin Anderson,Dudi Sela,63 761 
+2930,Hyeon Chung,Feliciano Lopez,61 46 763 
+2931,Borna Coric,Mikhail Youzhny,62 64 
+2932,Ernesto Escobedo,Nikoloz Basilashvili,764 64 
+2933,David Ferrer,Kyle Edmund,675 64 63 
+2934,Richard Gasquet,Brayden Schnur,765 57 61 
+2935,Robin Haase,Albert Ramos-Vinolas,63 63 
+2936,Ryan Harrison,Thomas Fabbiano,63 75 
+2937,Paolo Lorenzi,Frances Tiafoe,763 06 62 
+2938,Adrian Mannarino,Daniil Medvedev,63 61 
+2939,Gael Monfils,Steve Johnson,26 761 61 
+2940,Benoit Paire,Donald Young,63 57 64 
+2941,Peter Polansky,Vasek Pospisil,75 62 
+2942,Sam Querrey,Vincent Millot,46 764 75 
+2943,Diego Schwartzman,Reilly Opelka,63 672 64 
+2944,Denis Shapovalov,Rogerio Dutra Silva,46 768 64 
+2945,Mischa Zverev,Norbert Gombos,64 675 63 
+2946,Pierre-Hugues Herbert,Mikhail Youzhny,62 26 63 
+2947,Dudi Sela,Matthew Ebden,63 767 
+2948,Reilly Opelka,Ernesto Escobedo,62 63 
+2949,Norbert Gombos,James McGee,64 64 
+2950,Thomas Fabbiano,Nicolas Mahut,62 75 
+2951,Vincent Millot,Brydan Klein,763 764 
+2952,Tim Smyczek,Frank Dancevic,671 62 62 
+2953,Pierre-Hugues Herbert,Luke Saville,63 63 
+2954,Dudi Sela,Samuel Monette,75 63 
+2955,Ernesto Escobedo,Christian Harrison,26 63 761 
+2956,Norbert Gombos,Raheel Manji,63 671 61 
+2957,Frank Dancevic,Marius Copil,763 63 
+2958,Thomas Fabbiano,Hubert Hurkacz,75 36 64 
+2959,Mikhail Youzhny,Lloyd Harris,764 674 765 
+2960,Nicolas Mahut,Andrew Whittington,75 763 
+2961,Reilly Opelka,Kelsey Stevenson,64 63 
+2962,Matthew Ebden,Benjamin Sigouin,63 61 
+2963,Vincent Millot,Filip Peliwo,765 61 
+2964,Tim Smyczek,Pavel Krainik,60 64 
+2965,James McGee,Philip Bester,762 63 
+2966,Brydan Klein,Antoine Leduc,60 63 
+2967,Grigor Dimitrov,Nick Kyrgios,63 75 
+2968,Grigor Dimitrov,John Isner,764 7610 
+2969,Nick Kyrgios,David Ferrer,763 764 
+2970,Nick Kyrgios,Rafael Nadal,62 75 
+2971,David Ferrer,Dominic Thiem,63 63 
+2972,Grigor Dimitrov,Yuichi Sugita,62 61 
+2973,John Isner,Jared Donaldson,764 75 
+2974,Rafael Nadal,Albert Ramos-Vinolas,761 62 
+2975,Dominic Thiem,Adrian Mannarino,764 763 
+2976,Grigor Dimitrov,Juan Martin del Potro,63 75 
+2977,David Ferrer,Pablo Carreno Busta,64 64 
+2978,John Isner,Frances Tiafoe,764 75 
+2979,Jared Donaldson,Nikoloz Basilashvili,64 764 
+2980,Nick Kyrgios,Ivo Karlovic,46 766 63 
+2981,Yuichi Sugita,Karen Khachanov,670 63 63 
+2982,Rafael Nadal,Richard Gasquet,63 64 
+2983,Dominic Thiem,Fabio Fognini,63 62 
+2984,Frances Tiafoe,Alexander Zverev,46 63 64 
+2985,Grigor Dimitrov,Feliciano Lopez,765 64 
+2986,Ivo Karlovic,Jo-Wilfried Tsonga,64 769 
+2987,Pablo Carreno Busta,Mischa Zverev,63 762 
+2988,John Isner,Tommy Paul,63 63 
+2989,Adrian Mannarino,Sam Querrey,62 764 
+2990,Albert Ramos-Vinolas,Gilles Muller,57 64 64 
+2991,Nikoloz Basilashvili,Christian Harrison,63 63 
+2992,Juan Martin del Potro,Mitchell Krueger,64 64 
+2993,Jared Donaldson,Ramkumar Ramanathan,64 26 64 
+2994,David Ferrer,Janko Tipsarevic,64 675 61 
+2995,Karen Khachanov,Thomas Fabbiano,62 62 
+2996,Nick Kyrgios,Alexandr Dolgopolov,63 766 
+2997,Yuichi Sugita,Joao Sousa,36 765 61 
+2998,Nick Kyrgios,David Goffin,62 63 
+2999,Juan Martin del Potro,Tomas Berdych,36 761 60 
+3000,Pablo Carreno Busta,Paolo Lorenzi,63 63 
+3001,Jared Donaldson,Roberto Bautista Agut,765 63 
+3002,Yuichi Sugita,Jack Sock,75 64 
+3003,John Isner,Viktor Troicki,763 64 
+3004,Sam Querrey,Stefan Kozlov,63 60 
+3005,Gilles Muller,Ryan Harrison,64 57 763 
+3006,Nikoloz Basilashvili,Borna Coric,63 765 
+3007,Alexandr Dolgopolov,Kevin Anderson,64 766 
+3008,David Ferrer,Steve Johnson,61 57 63 
+3009,Fabio Fognini,Daniil Medvedev,765 64 
+3010,Richard Gasquet,John-Patrick Smith,64 64 
+3011,Ivo Karlovic,Jiri Vesely,63 36 75 
+3012,Karen Khachanov,Diego Schwartzman,61 16 63 
+3013,Mitchell Krueger,Benoit Paire,62 61 
+3014,Feliciano Lopez,Hyeon Chung,765 61 
+3015,Adrian Mannarino,Robin Haase,26 768 62 
+3016,Tommy Paul,Donald Young,64 764 
+3017,Ramkumar Ramanathan,Christopher Eubanks,675 61 64 
+3018,Albert Ramos-Vinolas,Mikhail Youzhny,62 36 63 
+3019,Joao Sousa,Kyle Edmund,63 26 63 
+3020,Frances Tiafoe,Maximilian Marterer,63 762 
+3021,Mischa Zverev,Fernando Verdasco,64 64 
+3022,Joao Sousa,Ante Pavic,64 62 
+3023,Christopher Eubanks,Janko Tipsarevic,63 64 
+3024,Alexandr Dolgopolov,Mackenzie McDonald,63 64 
+3025,Mitchell Krueger,Thomas Fabbiano,60 64 
+3026,Mikhail Youzhny,Ernests Gulbis,46 61 64 
+3027,Maximilian Marterer,Ramkumar Ramanathan,766 762 
+3028,John-Patrick Smith,Christian Harrison,26 63 63 
+3029,Joao Sousa,Tim Smyczek,62 63 
+3030,Ernests Gulbis,Andrey Rublev,62 64 
+3031,Janko Tipsarevic,John Mcnally,57 61 765 
+3032,Ramkumar Ramanathan,Dusan Lajovic,761 64 
+3033,Alexandr Dolgopolov,Reilly Opelka,64 46 762 
+3034,John-Patrick Smith,Vasek Pospisil,64 64 
+3035,Mitchell Krueger,Malek Jaziri,26 64 62 
+3036,Mackenzie McDonald,Denis Istomin,64 62 
+3037,Ante Pavic,Ernesto Escobedo,75 62 
+3038,Christian Harrison,Julien Benneteau,62 26 63 
+3039,Thomas Fabbiano,Nikola Mektic,75 64 
+3040,Mikhail Youzhny,Radu Albot,46 64 60 
+3041,Christopher Eubanks,Bjorn Fratangelo,765 36 767 
+3042,Maximilian Marterer,Prajnesh Gunneswaran,62 762 
+3043,Roberto Bautista Agut,Damir Dzumhur,64 64 
+3044,Roberto Bautista Agut,Jan-Lennard Struff,62 64 
+3045,Damir Dzumhur,Kyle Edmund,16 75 63 
+3046,Roberto Bautista Agut,Taylor Fritz,62 763 
+3047,Kyle Edmund,Steve Johnson,57 63 63 
+3048,Damir Dzumhur,Hyeon Chung,64 62 
+3049,Jan-Lennard Struff,Borna Coric,64 762 
+3050,Roberto Bautista Agut,Marcos Baghdatis,63 64 
+3051,Borna Coric,John Isner,75 62 
+3052,Steve Johnson,Carlos Berlocq,761 64 
+3053,Taylor Fritz,Paolo Lorenzi,763 765 
+3054,Hyeon Chung,Julien Benneteau,64 11 (RET)
+3055,Damir Dzumhur,Horacio Zeballos,75 63 
+3056,Kyle Edmund,Marton Fucsovics,62 61 
+3057,Jan-Lennard Struff,Andreas Seppi,63 673 763 
+3058,Roberto Bautista Agut,Dusan Lajovic,64 63 
+3059,Julien Benneteau,Pablo Carreno Busta,765 675 63 
+3060,John Isner,Andrey Kuznetsov,26 765 63 
+3061,Jan-Lennard Struff,Pablo Cuevas,762 75 
+3062,Steve Johnson,Yen-Hsun Lu,64 63 
+3063,Paolo Lorenzi,Thiago Monteiro,26 64 64 
+3064,Horacio Zeballos,Fernando Verdasco,36 75 64 
+3065,Damir Dzumhur,Gilles Simon,64 16 64 
+3066,Taylor Fritz,Yuichi Sugita,63 62 
+3067,Carlos Berlocq,Viktor Troicki,36 61 62 
+3068,Andreas Seppi,Aljaz Bedene,64 75 
+3069,Hyeon Chung,Andrey Rublev,57 61 61 
+3070,Borna Coric,Donald Young,46 64 62 
+3071,Kyle Edmund,Daniil Medvedev,26 62 766 
+3072,Marcos Baghdatis,Jiri Vesely,62 763 
+3073,Marton Fucsovics,Joao Sousa,63 36 61 
+3074,Marcos Baghdatis,Ricardas Berankis,75 75 
+3075,Julien Benneteau,Pierre-Hugues Herbert,63 62 
+3076,Carlos Berlocq,Alex Bolt,62 64 
+3077,Damir Dzumhur,Denis Istomin,64 64 
+3078,Kyle Edmund,Thomas Fabbiano,62 63 
+3079,Taylor Fritz,Malek Jaziri,46 64 63 
+3080,Marton Fucsovics,Ernests Gulbis,761 62 
+3081,Andrey Kuznetsov,Nicolas Kicker,75 62 
+3082,Dusan Lajovic,Petros Chrysochos,62 63 
+3083,Yen-Hsun Lu,Jonathan Eysseric,62 61 
+3084,Thiago Monteiro,Alexandr Dolgopolov,63 63 
+3085,Andrey Rublev,Steve Darcis,64 64 
+3086,Andreas Seppi,Janko Tipsarevic,62 62 
+3087,Jan-Lennard Struff,Norbert Gombos,763 764 
+3088,Donald Young,Rogerio Dutra Silva,64 62 
+3089,Horacio Zeballos,Dominik Koepfer,62 61 
+3090,Kyle Edmund,Jonathan Eysseric,63 61 
+3091,Rogerio Dutra Silva,Dominik Koepfer,64 64 
+3092,Marton Fucsovics,Kevin King,62 64 
+3093,Alex Bolt,Borna Gojo,60 36 61 
+3094,Kyle Edmund,Max Purcell,762 64 
+3095,Rogerio Dutra Silva,Gonzalo Escobar,46 764 75 
+3096,Borna Gojo,Ruben Bemelmans,763 36 766 
+3097,Marton Fucsovics,Nicolaas Scholtz,61 62 
+3098,Kevin King,Alex de Minaur,61 62 
+3099,Dominik Koepfer,Franko Skugor,26 764 63 
+3100,Jonathan Eysseric,Facundo Mena,63 64 
+3101,Alex Bolt,Skander Mansouri,7612 62 
+3102,Rafael Nadal,Kevin Anderson,63 63 64 
+3103,Rafael Nadal,Juan Martin del Potro,46 60 63 62 
+3104,Kevin Anderson,Pablo Carreno Busta,46 75 63 64 
+3105,Rafael Nadal,Andrey Rublev,61 62 62 
+3106,Juan Martin del Potro,Roger Federer,75 36 768 64 
+3107,Pablo Carreno Busta,Diego Schwartzman,64 64 62 
+3108,Kevin Anderson,Sam Querrey,765 679 63 767 
+3109,Rafael Nadal,Alexandr Dolgopolov,62 64 61 
+3110,Roger Federer,Philipp Kohlschreiber,64 62 75 
+3111,Juan Martin del Potro,Dominic Thiem,16 26 61 761 64 
+3112,Andrey Rublev,David Goffin,75 765 63 
+3113,Pablo Carreno Busta,Denis Shapovalov,762 764 763 
+3114,Diego Schwartzman,Lucas Pouille,763 75 26 62 
+3115,Sam Querrey,Mischa Zverev,62 62 61 
+3116,Kevin Anderson,Paolo Lorenzi,64 63 674 64 
+3117,Rafael Nadal,Leonardo Mayer,673 63 61 64 
+3118,Roger Federer,Feliciano Lopez,63 63 75 
+3119,Diego Schwartzman,Marin Cilic,46 75 75 64 
+3120,Dominic Thiem,Adrian Mannarino,75 63 64 
+3121,David Goffin,Gael Monfils,75 51 (RET)
+3122,Mischa Zverev,John Isner,64 63 765 
+3123,Juan Martin del Potro,Roberto Bautista Agut,63 63 64 
+3124,Pablo Carreno Busta,Nicolas Mahut,63 64 63 
+3125,Lucas Pouille,Mikhail Kukushkin,26 63 64 64 
+3126,Sam Querrey,Radu Albot,46 62 64 64 
+3127,Kevin Anderson,Borna Coric,64 63 62 
+3128,Philipp Kohlschreiber,John Millman,75 62 64 
+3129,Alexandr Dolgopolov,Viktor Troicki,61 60 64 
+3130,Paolo Lorenzi,Thomas Fabbiano,62 64 64 
+3131,Andrey Rublev,Damir Dzumhur,64 64 57 64 
+3132,Denis Shapovalov,Kyle Edmund,36 63 63 10 
+3133,Rafael Nadal,Taro Daniel,46 63 62 62 
+3134,Roger Federer,Mikhail Youzhny,61 673 46 64 62 
+3135,Borna Coric,Alexander Zverev,36 75 761 764 
+3136,Marin Cilic,Florian Mayer,63 63 63 
+3137,Dominic Thiem,Taylor Fritz,64 64 46 75 
+3138,Andrey Rublev,Grigor Dimitrov,75 763 63 
+3139,Denis Shapovalov,Jo-Wilfried Tsonga,64 64 763 
+3140,David Goffin,Guido Pella,36 765 672 764 63 
+3141,John Isner,Hyeon Chung,63 64 75 
+3142,Roberto Bautista Agut,Dustin Brown,61 63 763 
+3143,Pablo Carreno Busta,Cameron Norrie,62 64 63 
+3144,Alexandr Dolgopolov,Tomas Berdych,36 61 765 62 
+3145,Lucas Pouille,Jared Donaldson,75 64 46 36 64 
+3146,Sam Querrey,Dudi Sela,64 61 64 
+3147,Gael Monfils,Donald Young,63 673 64 26 75 
+3148,Paolo Lorenzi,Gilles Muller,674 63 764 63 
+3149,Nicolas Mahut,Albert Ramos-Vinolas,46 64 46 63 60 
+3150,Mischa Zverev,Benoit Paire,63 62 36 673 75 
+3151,Juan Martin del Potro,Adrian Menendez-Maceiras,62 63 763 
+3152,Kevin Anderson,Ernests Gulbis,63 75 64 
+3153,Diego Schwartzman,Janko Tipsarevic,62 64 75 
+3154,Adrian Mannarino,Bjorn Fratangelo,63 674 61 62 
+3155,Feliciano Lopez,Fernando Verdasco,63 62 36 61 
+3156,Philipp Kohlschreiber,Santiago Giraldo,62 61 30 (RET)
+3157,Radu Albot,Yen-Hsun Lu,62 767 57 06 762 
+3158,Damir Dzumhur,Cedrik-Marcel Stebe,46 64 60 61 
+3159,Kyle Edmund,Steve Johnson,75 62 764 
+3160,Thomas Fabbiano,Jordan Thompson,26 62 36 64 62 
+3161,Mikhail Kukushkin,Evgeny Donskoy,64 64 75 
+3162,Leonardo Mayer,Yuichi Sugita,673 64 63 64 
+3163,John Millman,Malek Jaziri,61 761 61 
+3164,Viktor Troicki,Stefano Travaglia,766 75 60 
+3165,Rafael Nadal,Dusan Lajovic,766 62 62 
+3166,Roger Federer,Frances Tiafoe,46 62 61 16 64 
+3167,Alexander Zverev,Darian King,769 75 64 
+3168,Marin Cilic,Tennys Sandgren,64 63 36 63 
+3169,Dominic Thiem,Alex de Minaur,64 61 61 
+3170,Grigor Dimitrov,Vaclav Safranek,61 64 62 
+3171,Jo-Wilfried Tsonga,Marius Copil,63 63 64 
+3172,David Goffin,Julien Benneteau,64 26 64 62 
+3173,John Isner,Pierre-Hugues Herbert,61 63 46 63 
+3174,Roberto Bautista Agut,Andreas Seppi,62 46 62 761 
+3175,Pablo Carreno Busta,Evan King,63 62 765 
+3176,Jordan Thompson,Jack Sock,62 7612 16 57 64 
+3177,John Millman,Nick Kyrgios,63 16 64 61 
+3178,Tomas Berdych,Ryan Harrison,64 62 764 
+3179,Lucas Pouille,Ruben Bemelmans,63 64 64 
+3180,Sam Querrey,Gilles Simon,64 63 64 
+3181,Gael Monfils,Jeremy Chardy,766 63 64 
+3182,Gilles Muller,Bernard Tomic,36 63 64 64 
+3183,Albert Ramos-Vinolas,Denis Istomin,46 764 75 673 75 
+3184,Mikhail Kukushkin,David Ferrer,46 63 62 61 
+3185,Stefano Travaglia,Fabio Fognini,64 768 36 60 
+3186,Mischa Zverev,Thai-Son Kwiatkowski,765 46 46 75 63 
+3187,Juan Martin del Potro,Henri Laaksonen,64 763 765 
+3188,Yen-Hsun Lu,Karen Khachanov,46 62 63 63 
+3189,Leonardo Mayer,Richard Gasquet,36 62 64 62 
+3190,Damir Dzumhur,Pablo Cuevas,75 763 61 
+3191,Kevin Anderson,JC Aragone,63 63 61 
+3192,Diego Schwartzman,Carlos Berlocq,62 61 63 
+3193,Adrian Mannarino,Ricardas Berankis,62 64 62 
+3194,Feliciano Lopez,Andrey Kuznetsov,64 764 675 62 
+3195,Kyle Edmund,Robin Haase,63 75 63 
+3196,Philipp Kohlschreiber,Tim Smyczek,61 64 64 
+3197,Radu Albot,Ernesto Escobedo,75 46 62 64 
+3198,Dustin Brown,Thomaz Bellucci,64 63 62 
+3199,Hyeon Chung,Horacio Zeballos,36 768 64 63 
+3200,Borna Coric,Jiri Vesely,765 762 62 
+3201,Taro Daniel,Tommy Paul,61 46 46 62 62 
+3202,Alexandr Dolgopolov,Jan-Lennard Struff,36 63 62 16 63 
+3203,Jared Donaldson,Nikoloz Basilashvili,60 46 63 766 
+3204,Evgeny Donskoy,Andreas Haider-Maurer,763 51 (RET)
+3205,Thomas Fabbiano,John-Patrick Smith,765 64 36 764 
+3206,Bjorn Fratangelo,Ivo Karlovic,762 64 36 764 
+3207,Taylor Fritz,Marcos Baghdatis,64 64 63 
+3208,Santiago Giraldo,Vincent Millot,61 60 46 46 64 
+3209,Ernests Gulbis,Alessandro Giannessi,64 673 62 75 
+3210,Malek Jaziri,Thiago Monteiro,765 46 63 57 64 
+3211,Steve Johnson,Nicolas Almagro,64 762 765 
+3212,Paolo Lorenzi,Joao Sousa,46 63 764 62 
+3213,Nicolas Mahut,Marton Fucsovics,63 26 64 26 763 
+3214,Florian Mayer,Rogerio Dutra Silva,75 06 63 64 
+3215,Adrian Menendez-Maceiras,Patrick Kypson,64 769 61 
+3216,Cameron Norrie,Dmitry Tursunov,767 61 (RET)
+3217,Benoit Paire,Lukas Lacko,63 62 765 
+3218,Guido Pella,Steve Darcis,61 62 60 
+3219,Andrey Rublev,Aljaz Bedene,61 64 64 
+3220,Dudi Sela,Christopher Eubanks,62 64 62 
+3221,Denis Shapovalov,Daniil Medvedev,75 61 62 
+3222,Cedrik-Marcel Stebe,Nicolas Kicker,57 63 61 61 
+3223,Yuichi Sugita,Geoffrey Blancaneaux,62 62 60 
+3224,Janko Tipsarevic,Thanasi Kokkinakis,675 36 61 762 63 
+3225,Viktor Troicki,Norbert Gombos,36 63 36 64 63 
+3226,Fernando Verdasco,Vasek Pospisil,62 (RET)
+3227,Donald Young,Maximilian Marterer,63 16 61 64 
+3228,Mikhail Youzhny,Blaz Kavcic,63 57 64 63 
+3229,Peter Gojowczyk,Benoit Paire,75 62 
+3230,Peter Gojowczyk,Mischa Zverev,63 10 (RET)
+3231,Benoit Paire,Nikoloz Basilashvili,61 765 
+3232,Benoit Paire,David Goffin,763 57 767 
+3233,Mischa Zverev,Kenny De Schepper,75 764 
+3234,Nikoloz Basilashvili,Denis Istomin,75 63 
+3235,Peter Gojowczyk,Marius Copil,62 64 
+3236,David Goffin,Nicolas Almagro,36 63 63 
+3237,Marius Copil,Lucas Pouille,764 766 
+3238,Nikoloz Basilashvili,Gilles Muller,64 64 
+3239,Mischa Zverev,Henri Laaksonen,64 64 
+3240,Benoit Paire,Marcel Granollers,61 62 
+3241,Peter Gojowczyk,Gilles Simon,64 764 
+3242,Kenny De Schepper,Nicolas Mahut,64 75 
+3243,Denis Istomin,Yannick Maden,63 676 760 
+3244,Mischa Zverev,Pierre-Hugues Herbert,673 63 62 
+3245,Denis Istomin,Richard Gasquet,16 64 64 
+3246,Benoit Paire,Stefanos Tsitsipas,62 64 
+3247,Gilles Simon,Andreas Seppi,63 60 
+3248,Nicolas Almagro,Julien Benneteau,763 75 
+3249,Nikoloz Basilashvili,Vincent Millot,26 765 64 
+3250,Marius Copil,Alessandro Giannessi,63 62 
+3251,Peter Gojowczyk,Norbert Gombos,36 764 63 
+3252,Marcel Granollers,Simone Bolelli,769 36 768 
+3253,Henri Laaksonen,Paul-Henri Mathieu,75 62 
+3254,Yannick Maden,Nicolas Kicker,64 36 63 
+3255,Nicolas Mahut,Dustin Brown,61 764 
+3256,Peter Gojowczyk,Yannick Mertens,63 64 
+3257,Stefanos Tsitsipas,Yannick Maden,64 677 63 
+3258,Vincent Millot,Kenny De Schepper,75 766 
+3259,Simone Bolelli,Ugo Humbert,36 764 765 
+3260,Peter Gojowczyk,Gleb Sakharov,64 62 
+3261,Stefanos Tsitsipas,Roberto Ortega-Olmedo,62 75 
+3262,Vincent Millot,Bernabe Zapata Miralles,75 64 
+3263,Yannick Maden,Hugo Schott,62 75 
+3264,Yannick Mertens,Calvin Hemery ,75 61 
+3265,Simone Bolelli,Tobias Kamke,764 63 
+3266,Kenny De Schepper,Axel Michon,61 62 
+3267,Ugo Humbert,Guillermo Duran,26 61 765 
+3268,Damir Dzumhur,Fabio Fognini,36 64 62 
+3269,Fabio Fognini,Roberto Bautista Agut,26 767 765 
+3270,Damir Dzumhur,Jan-Lennard Struff,63 75 
+3271,Roberto Bautista Agut,Viktor Troicki,61 62 
+3272,Jan-Lennard Struff,Jo-Wilfried Tsonga,36 63 62 
+3273,Fabio Fognini,Ricardas Berankis,63 60 
+3274,Damir Dzumhur,Liam Broady,63 26 64 
+3275,Roberto Bautista Agut,Rogerio Dutra Silva,64 46 60 
+3276,Jo-Wilfried Tsonga,Joao Sousa,761 36 62 
+3277,Fabio Fognini,Mikhail Youzhny,64 46 64 
+3278,Liam Broady,Adrian Mannarino,26 64 60 
+3279,Ricardas Berankis,Philipp Kohlschreiber,(W/O)
+3280,Viktor Troicki,Guido Pella,763 46 64 
+3281,Jan-Lennard Struff,Thomas Fabbiano,61 64 
+3282,Damir Dzumhur,Marcos Baghdatis,64 764 
+3283,Philipp Kohlschreiber,Evgeny Tyurnev,61 63 
+3284,Damir Dzumhur,Paolo Lorenzi,75 75 
+3285,Viktor Troicki,Andrey Kuznetsov,766 762 
+3286,Jan-Lennard Struff,Borna Coric,36 62 64 
+3287,Marcos Baghdatis,Horacio Zeballos,75 64 
+3288,Ricardas Berankis,Daniel Masur,36 63 62 
+3289,Liam Broady,Ernests Gulbis,63 60 
+3290,Rogerio Dutra Silva,Radu Albot,26 62 62 
+3291,Thomas Fabbiano,Daniil Medvedev,764 75 
+3292,Guido Pella,Dusan Lajovic,764 63 
+3293,Joao Sousa,Evgeny Donskoy,762 63 
+3294,Mikhail Youzhny,John-Patrick Smith,766 64 
+3295,Liam Broady,Radu Albot,61 26 764 
+3296,John-Patrick Smith,Mikhail Elgin,764 62 
+3297,Daniel Masur,Alexey Vatutin,62 62 
+3298,Ernests Gulbis,Ivan Nedelko,62 61 
+3299,Radu Albot,Alexander Kudryavtsev,75 75 
+3300,John-Patrick Smith,Ivan Gakhov,62 60 
+3301,Alexey Vatutin,Evgeny Karlovskiy,75 60 
+3302,Ernests Gulbis,Alexander Vasilenko,46 63 62 
+3303,Daniel Masur,Teymuraz Gabashvili,36 61 75 
+3304,Liam Broady,Filip Horansky,63 61 
+3305,Mikhail Elgin,Petr Michnev,762 64 
+3306,Ivan Nedelko,Pedja Krstin,63 64 
+3307,Denis Istomin,Marcos Baghdatis,32 (RET)
+3308,Denis Istomin,Yuichi Sugita,62 674 60 
+3309,Marcos Baghdatis,Guido Pella,57 64 62 
+3310,Yuichi Sugita,Dusan Lajovic,62 64 
+3311,Marcos Baghdatis,Yen-Hsun Lu,63 62 
+3312,Denis Istomin,Jared Donaldson,26 75 765 
+3313,Guido Pella,Taylor Fritz,63 763 
+3314,Guido Pella,Dominic Thiem,766 64 
+3315,Dusan Lajovic,Albert Ramos-Vinolas,62 63 
+3316,Denis Istomin,Karen Khachanov,63 62 
+3317,Yen-Hsun Lu,Andrey Rublev,62 61 
+3318,Yuichi Sugita,Thiago Monteiro,64 61 
+3319,Jared Donaldson,Kyle Edmund,60 16 64 
+3320,Marcos Baghdatis,Peter Gojowczyk,57 63 62 
+3321,Taylor Fritz,Nikoloz Basilashvili,63 36 61 
+3322,Yuichi Sugita,Mate Pavic,61 (RET)
+3323,Kyle Edmund,Bernard Tomic,64 62 
+3324,Nikoloz Basilashvili,Viktor Troicki,63 26 62 
+3325,Peter Gojowczyk,Leonardo Mayer,62 62 
+3326,Marcos Baghdatis,Vasek Pospisil,674 765 64 
+3327,Jared Donaldson,Stefanos Tsitsipas,672 75 75 
+3328,Taylor Fritz,Di Wu,75 61 
+3329,Denis Istomin,Jan-Lennard Struff,63 763 
+3330,Dusan Lajovic,Adrian Menendez-Maceiras,63 763 
+3331,Yen-Hsun Lu,Mikael Ymer,62 63 
+3332,Thiago Monteiro,Yibing Wu,16 766 62 
+3333,Guido Pella,Borna Coric,64 762 
+3334,Taylor Fritz,Marco Chiudinelli,64 62 
+3335,Stefanos Tsitsipas,Marcos Giron,61 62 
+3336,Adrian Menendez-Maceiras,Chuhan Wang,60 64 
+3337,Mate Pavic,Zihao Xia,64 768 
+3338,Taylor Fritz,Aisam-Ul-Haq Qureshi,63 64 
+3339,Stefanos Tsitsipas,Fajing Sun,64 62 
+3340,Adrian Menendez-Maceiras,Rigele Te,64 61 
+3341,Mate Pavic,Yasutaka Uchiyama,63 57 764 
+3342,Marcos Giron,Takuto Niki,62 75 
+3343,Marco Chiudinelli,Oliver Marach,75 10 (RET)
+3344,Chuhan Wang,Rubin Statham,62 62 
+3345,Zihao Xia,Michael Venus,766 764 
+3346,David Goffin,Alexandr Dolgopolov,64 675 63 
+3347,David Goffin,Henri Laaksonen,767 57 63 
+3348,Alexandr Dolgopolov,Damir Dzumhur,63 64 
+3349,Damir Dzumhur,Alexander Zverev,64 75 
+3350,David Goffin,Donald Young,62 63 
+3351,Alexandr Dolgopolov,Dudi Sela,63 46 10 (RET)
+3352,Henri Laaksonen,Zhizhen Zhang,64 36 62 
+3353,Alexander Zverev,Steve Darcis,46 765 765 
+3354,David Goffin,Evgeny Donskoy,765 63 
+3355,Dudi Sela,Mischa Zverev,63 57 62 
+3356,Zhizhen Zhang,Paolo Lorenzi,46 63 764 
+3357,Alexandr Dolgopolov,Sergiy Stakhovsky,765 64 
+3358,Damir Dzumhur,Lukas Lacko,64 63 
+3359,Donald Young,Jeremy Chardy,765 64 
+3360,Henri Laaksonen,Marius Copil,46 64 63 
+3361,Alexandr Dolgopolov,Lloyd Harris,63 64 
+3362,Damir Dzumhur,John Millman,64 75 
+3363,Henri Laaksonen,Joao Sousa,63 60 
+3364,Donald Young,Nicola Kuhn,75 764 
+3365,Jeremy Chardy,Alessandro Giannessi,766 64 
+3366,Marius Copil,Malek Jaziri,64 36 63 
+3367,Steve Darcis,Ze Zhang,75 763 
+3368,Evgeny Donskoy,Akira Santillan,36 62 765 
+3369,Lukas Lacko,Marcel Granollers,63 64 
+3370,Dudi Sela,Matthew Ebden,60 768 
+3371,Sergiy Stakhovsky,Nicolas Kicker,63 63 
+3372,Zhizhen Zhang,Rogerio Dutra Silva,64 61 
+3373,Lloyd Harris,Nicolas Jarry,46 64 64 
+3374,Lukas Lacko,Marc Polmans,63 64 
+3375,Matthew Ebden,Max Purcell,61 676 61 
+3376,Zhizhen Zhang,Hiroki Moriya,765 63 
+3377,Max Purcell,Radu Albot,64 40 (RET)
+3378,Nicolas Jarry,Andre Sa,62 75 
+3379,Lukas Lacko,Yusuke Takahashi,63 64 
+3380,Hiroki Moriya,Yannick Hanfmann,62 63 
+3381,Matthew Ebden,Franko Skugor,63 64 
+3382,Lloyd Harris,Reilly Opelka,64 46 64 
+3383,Marc Polmans,Lukas Rosol,63 64 
+3384,Zhizhen Zhang,Yan Bai,64 63 
+3385,Rafael Nadal,Nick Kyrgios,62 61 
+3386,Rafael Nadal,Grigor Dimitrov,63 46 61 
+3387,Nick Kyrgios,Alexander Zverev,63 75 
+3388,Rafael Nadal,John Isner,64 760 
+3389,Alexander Zverev,Andrey Rublev,62 63 
+3390,Grigor Dimitrov,Roberto Bautista Agut,765 46 62 
+3391,Nick Kyrgios,Steve Darcis,60 30 (RET)
+3392,Rafael Nadal,Karen Khachanov,63 63 
+3393,Alexander Zverev,Fabio Fognini,64 62 
+3394,Grigor Dimitrov,Juan Martin del Potro,766 75 
+3395,Roberto Bautista Agut,Aljaz Bedene,60 40 (RET)
+3396,John Isner,Leonardo Mayer,60 63 
+3397,Andrey Rublev,Tomas Berdych,16 64 61 
+3398,Nick Kyrgios,Mischa Zverev,36 62 62 
+3399,Steve Darcis,Dusan Lajovic,63 64 
+3400,Rafael Nadal,Lucas Pouille,46 766 75 
+3401,Alexander Zverev,Kyle Edmund,63 763 
+3402,Grigor Dimitrov,Damir Dzumhur,61 36 63 
+3403,Steve Darcis,Pablo Carreno Busta,60 64 
+3404,Roberto Bautista Agut,Ze Zhang,61 63 
+3405,John Isner,Malek Jaziri,62 63 
+3406,Tomas Berdych,Jared Donaldson,63 06 62 
+3407,Nick Kyrgios,Nikoloz Basilashvili,61 62 
+3408,Aljaz Bedene,Marcel Granollers,64 62 
+3409,Juan Martin del Potro,Pablo Cuevas,764 64 
+3410,Fabio Fognini,Robin Haase,764 62 
+3411,Karen Khachanov,Di Wu,64 62 
+3412,Dusan Lajovic,Fernando Verdasco,61 36 63 
+3413,Leonardo Mayer,Paolo Lorenzi,766 57 64 
+3414,Andrey Rublev,Jack Sock,36 61 62 
+3415,Mischa Zverev,Jan-Lennard Struff,57 64 64 
+3416,Marcel Granollers,Borna Coric,63 64 
+3417,Dusan Lajovic,Rogerio Dutra Silva,63 57 63 
+3418,Steve Darcis,Peter Polansky,57 766 64 
+3419,Malek Jaziri,Sergiy Stakhovsky,64 767 
+3420,Borna Coric,Marcos Giron,63 64 
+3421,Rogerio Dutra Silva,Rigele Te,60 64 
+3422,Steve Darcis,Fajing Sun,64 62 
+3423,Malek Jaziri,Zhizhen Zhang,64 61 
+3424,Dusan Lajovic,Alessandro Giannessi,63 36 63 
+3425,Marcel Granollers,Jeremy Chardy,63 62 
+3426,Sergiy Stakhovsky,Thiago Monteiro,674 75 63 
+3427,Peter Polansky,Ivan Dodig,46 75 (RET)
+3428,David Goffin,Adrian Mannarino,63 75 
+3429,Adrian Mannarino,Marin Cilic,675 64 60 
+3430,David Goffin,Diego Schwartzman,763 766 
+3431,Marin Cilic,Ryan Harrison,62 60 
+3432,David Goffin,Richard Gasquet,75 62 
+3433,Diego Schwartzman,Steve Johnson,60 75 
+3434,Adrian Mannarino,Yuichi Sugita,62 64 
+3435,Marin Cilic,Yasutaka Uchiyama,63 64 
+3436,Yuichi Sugita,Milos Raonic,10 (RET)
+3437,David Goffin,Matthew Ebden,26 75 761 
+3438,Ryan Harrison,Kevin Anderson,63 16 762 
+3439,Diego Schwartzman,Bernard Tomic,63 61 
+3440,Richard Gasquet,Yen-Hsun Lu,60 765 
+3441,Steve Johnson,Alexandr Dolgopolov,62 64 
+3442,Adrian Mannarino,Jiri Vesely,63 62 
+3443,Marin Cilic,Stefanos Tsitsipas,63 62 
+3444,Steve Johnson,Dominic Thiem,46 765 64 
+3445,Milos Raonic,Viktor Troicki,63 64 
+3446,David Goffin,Feliciano Lopez,75 61 
+3447,Kevin Anderson,Gilles Simon,62 766 
+3448,Richard Gasquet,Sam Querrey,64 762 
+3449,Jiri Vesely,Albert Ramos-Vinolas,62 26 63 
+3450,Diego Schwartzman,Donald Young,62 75 
+3451,Alexandr Dolgopolov,Daniil Medvedev,61 62 
+3452,Matthew Ebden,Ivo Karlovic,64 63 
+3453,Ryan Harrison,Yusuke Takahashi,64 46 64 
+3454,Yen-Hsun Lu,Taro Daniel,61 63 
+3455,Adrian Mannarino,Go Soeda,75 763 
+3456,Yuichi Sugita,Benoit Paire,64 (RET)
+3457,Bernard Tomic,Joao Sousa,63 36 63 
+3458,Yasutaka Uchiyama,Franko Skugor,63 36 61 
+3459,Stefanos Tsitsipas,Frances Tiafoe,64 62 
+3460,Yusuke Takahashi,Vasek Pospisil,761 62 
+3461,Franko Skugor,Radu Albot,16 75 63 
+3462,Matthew Ebden,Yannick Hanfmann,63 61 
+3463,Frances Tiafoe,Kaito Uesugi,62 64 
+3464,Vasek Pospisil,Yosuke Watanuki,765 765 
+3465,Matthew Ebden,Nicolas Kicker,64 764 
+3466,Radu Albot,Reilly Opelka,75 674 763 
+3467,Franko Skugor,Nicolas Jarry,64 64 
+3468,Stefanos Tsitsipas,Tatsuma Ito,46 765 62 
+3469,Yusuke Takahashi,Adrian Menendez-Maceiras,61 62 
+3470,Yannick Hanfmann,Sho Shimabukuro,63 64 
+3471,Roger Federer,Rafael Nadal,64 63 
+3472,Rafael Nadal,Marin Cilic,75 763 
+3473,Roger Federer,Juan Martin del Potro,36 63 63 
+3474,Rafael Nadal,Grigor Dimitrov,64 674 63 
+3475,Roger Federer,Richard Gasquet,75 64 
+3476,Marin Cilic,Albert Ramos-Vinolas,63 64 
+3477,Juan Martin del Potro,Viktor Troicki,46 61 64 
+3478,Rafael Nadal,Fabio Fognini,63 61 
+3479,Roger Federer,Alexandr Dolgopolov,64 62 
+3480,Juan Martin del Potro,Alexander Zverev,36 765 64 
+3481,Marin Cilic,Steve Johnson,761 64 
+3482,Grigor Dimitrov,Sam Querrey,63 763 
+3483,Viktor Troicki,John Isner,64 764 
+3484,Richard Gasquet,Gilles Simon,75 675 63 
+3485,Albert Ramos-Vinolas,Jan-Lennard Struff,764 64 
+3486,Rafael Nadal,Jared Donaldson,62 61 
+3487,Roger Federer,Diego Schwartzman,764 64 
+3488,Alexander Zverev,Aljaz Bedene,40 (RET)
+3489,Marin Cilic,Kyle Edmund,63 765 
+3490,Viktor Troicki,Dominic Thiem,63 36 765 
+3491,Grigor Dimitrov,Ryan Harrison,36 63 766 
+3492,Albert Ramos-Vinolas,Pablo Carreno Busta,75 75 
+3493,Gilles Simon,David Goffin,764 63 
+3494,Sam Querrey,Frances Tiafoe,63 767 
+3495,Jan-Lennard Struff,Kevin Anderson,765 762 
+3496,John Isner,Stefanos Tsitsipas,762 769 
+3497,Fabio Fognini,Lucas Pouille,767 63 
+3498,Juan Martin del Potro,Andrey Rublev,63 64 
+3499,Alexandr Dolgopolov,Feliciano Lopez,764 16 64 
+3500,Richard Gasquet,Hyeon Chung,36 64 63 
+3501,Steve Johnson,Di Wu,62 61 
+3502,Hyeon Chung,Roberto Bautista Agut,64 63 
+3503,Sam Querrey,Yuichi Sugita,63 62 
+3504,Kevin Anderson,Adrian Mannarino,63 61 
+3505,John Isner,Dusan Lajovic,46 765 766 
+3506,Steve Johnson,Nick Kyrgios,765 (RET)
+3507,Alexandr Dolgopolov,Jack Sock,46 61 21 (RET)
+3508,Lucas Pouille,Daniil Medvedev,64 62 
+3509,Juan Martin del Potro,Nikoloz Basilashvili,62 36 64 
+3510,Aljaz Bedene,Paolo Lorenzi,61 64 
+3511,Jared Donaldson,Pablo Cuevas,677 64 64 
+3512,Kyle Edmund,Jiri Vesely,63 62 
+3513,Fabio Fognini,Fernando Verdasco,26 64 62 
+3514,Richard Gasquet,Robin Haase,6711 75 62 
+3515,Ryan Harrison,Ze Zhang,62 63 
+3516,Feliciano Lopez,Ivo Karlovic,761 766 
+3517,Albert Ramos-Vinolas,Joao Sousa,36 63 75 
+3518,Andrey Rublev,Damir Dzumhur,61 46 61 
+3519,Diego Schwartzman,Jordan Thompson,64 764 
+3520,Gilles Simon,Yibing Wu,63 64 
+3521,Jan-Lennard Struff,Mischa Zverev,36 65 (RET)
+3522,Frances Tiafoe,Benoit Paire,64 64 
+3523,Viktor Troicki,Denis Shapovalov,673 63 60 
+3524,Stefanos Tsitsipas,Karen Khachanov,75 63 
+3525,Di Wu,Jeremy Chardy,762 62 
+3526,Alexandr Dolgopolov,Malek Jaziri,764 75 
+3527,Frances Tiafoe,Leonardo Mayer,46 64 64 
+3528,Dusan Lajovic,Donald Young,63 62 
+3529,Nikoloz Basilashvili,Vasek Pospisil,767 26 63 
+3530,Stefanos Tsitsipas,Yen-Hsun Lu,57 762 64 
+3531,Jordan Thompson,Henri Laaksonen,62 63 
+3532,Jeremy Chardy,Radu Albot,61 766 
+3533,Alexandr Dolgopolov,Nicolas Jarry,761 63 
+3534,Leonardo Mayer,Sergiy Stakhovsky,762 36 765 
+3535,Henri Laaksonen,Borna Coric,768 64 
+3536,Donald Young,Peter Polansky,61 64 
+3537,Nikoloz Basilashvili,Fajing Sun,63 763 
+3538,Yen-Hsun Lu,Rigele Te,75 63 
+3539,Radu Albot,Florian Mayer,61 764 
+3540,Stefanos Tsitsipas,Peter Gojowczyk,63 764 
+3541,Jordan Thompson,Yan Bai,63 61 
+3542,Frances Tiafoe,Zhizhen Zhang,64 64 
+3543,Dusan Lajovic,Taro Daniel,61 675 62 
+3544,Jeremy Chardy,Thiago Monteiro,6711 63 64 
+3545,Vasek Pospisil,Taylor Fritz,63 765 
+3546,Malek Jaziri,Mikhail Youzhny,62 64 
+3547,Jo-Wilfried Tsonga,Diego Schwartzman,63 75 
+3548,Jo-Wilfried Tsonga,Ruben Bemelmans,63 63 
+3549,Diego Schwartzman,Stefanos Tsitsipas,63 75 
+3550,Stefanos Tsitsipas,David Goffin,26 761 764 
+3551,Jo-Wilfried Tsonga,Julien Benneteau,765 62 
+3552,Diego Schwartzman,David Ferrer,75 62 
+3553,Ruben Bemelmans,Joao Sousa,46 762 64 
+3554,David Goffin,Frances Tiafoe,761 62 
+3555,Jo-Wilfried Tsonga,Kenny De Schepper,64 63 
+3556,Ruben Bemelmans,Nick Kyrgios,673 63 63 
+3557,Diego Schwartzman,Ernesto Escobedo,63 765 
+3558,David Ferrer,Steve Darcis,75 57 63 
+3559,Julien Benneteau,Henri Laaksonen,61 61 
+3560,Joao Sousa,Sergiy Stakhovsky,57 64 64 
+3561,Stefanos Tsitsipas,Ivo Karlovic,764 56 (RET)
+3562,David Ferrer,Stefano Travaglia,46 64 763 
+3563,Stefanos Tsitsipas,Pablo Cuevas,61 64 
+3564,Joao Sousa,Benoit Paire,64 672 75 
+3565,Henri Laaksonen,Alexandr Dolgopolov,62 765 
+3566,Ruben Bemelmans,Peter Gojowczyk,46 765 762 
+3567,Julien Benneteau,Nikoloz Basilashvili,64 (RET)
+3568,Steve Darcis,Cedrik-Marcel Stebe,46 64 10 (RET)
+3569,Kenny De Schepper,Aldin Setkic,62 61 
+3570,Ernesto Escobedo,Denis Shapovalov,765 64 
+3571,Ivo Karlovic,Guido Pella,36 75 7610 
+3572,Sergiy Stakhovsky,Jared Donaldson,764 64 
+3573,Frances Tiafoe,Florian Mayer,63 64 
+3574,Stefano Travaglia,Vasek Pospisil,36 63 64 
+3575,Stefanos Tsitsipas,Sebastian Ofner,677 64 64 
+3576,Aldin Setkic,Bernard Tomic,763 75 
+3577,Kenny De Schepper,Mathias Bourgue,64 64 
+3578,Vasek Pospisil,Yannick Maden,36 75 60 
+3579,Aldin Setkic,Nicolas Mahut,75 761 
+3580,Kenny De Schepper,Quentin Halys,64 62 
+3581,Stefanos Tsitsipas,Zizou Bergs,60 63 
+3582,Stefano Travaglia,Kimmer Coppejans,46 62 63 
+3583,Sebastian Ofner,Ramkumar Ramanathan,75 64 
+3584,Bernard Tomic,Gleb Sakharov,64 64 
+3585,Mathias Bourgue,Arthur De Greef,764 63 
+3586,Damir Dzumhur,Ricardas Berankis,62 16 64 
+3587,Ricardas Berankis,Adrian Mannarino,36 64 61 
+3588,Damir Dzumhur,Mirza Basic,60 769 
+3589,Adrian Mannarino,Dudi Sela,676 61 62 
+3590,Damir Dzumhur,Andreas Seppi,46 62 64 
+3591,Mirza Basic,Daniil Medvedev,36 64 61 
+3592,Ricardas Berankis,Alexander Bublik,75 61 
+3593,Daniil Medvedev,Pablo Carreno Busta,63 63 
+3594,Alexander Bublik,Albert Ramos-Vinolas,46 75 62 
+3595,Adrian Mannarino,Lukas Rosol,63 764 
+3596,Andreas Seppi,Philipp Kohlschreiber,674 761 63 
+3597,Damir Dzumhur,Yuki Bhambri,46 75 64 
+3598,Mirza Basic,Laslo Djere,61 61 
+3599,Ricardas Berankis,Filip Krajinovic,36 75 64 
+3600,Dudi Sela,Rogerio Dutra Silva,75 61 
+3601,Filip Krajinovic,Andrey Rublev,75 766 
+3602,Damir Dzumhur,Thomas Fabbiano,63 06 62 
+3603,Laslo Djere,Paolo Lorenzi,46 769 64 
+3604,Mirza Basic,Blaz Kavcic,36 63 51 (RET)
+3605,Ricardas Berankis,Dusan Lajovic,63 762 
+3606,Yuki Bhambri,Roman Safiullin,62 64 
+3607,Alexander Bublik,Teymuraz Gabashvili,63 64 
+3608,Rogerio Dutra Silva,Evgeny Donskoy,63 75 
+3609,Daniil Medvedev,Andrey Kuznetsov,64 26 766 
+3610,Lukas Rosol,Konstantin Kravchuk,46 63 763 
+3611,Dudi Sela,Borna Coric,63 62 
+3612,Andreas Seppi,Jiri Vesely,63 41 (RET)
+3613,Filip Krajinovic,Uladzimir Ignatik,6710 75 63 
+3614,Mirza Basic,Mikhail Kukushkin,764 63 
+3615,Lukas Rosol,Alexander Bublik,64 75 
+3616,Yuki Bhambri,Alexey Vatutin,75 64 
+3617,Filip Krajinovic,Marc Polmans,762 63 
+3618,Mikhail Kukushkin,Sanjar Fayziev,46 61 762 
+3619,Alexander Bublik,Lloyd Harris,63 64 
+3620,Yuki Bhambri,Danilo Petrovic,64 64 
+3621,Alexey Vatutin,Denis Matsukevich,26 64 62 
+3622,Lukas Rosol,Artem Dubrivnyy,64 64 
+3623,Mirza Basic,Ivan Gakhov,64 63 
+3624,Uladzimir Ignatik,Vaclav Safranek,64 75 
+3625,Juan Martin del Potro,Grigor Dimitrov,64 62 
+3626,Grigor Dimitrov,Fabio Fognini,63 762 
+3627,Juan Martin del Potro,Fernando Verdasco,674 64 761 
+3628,Grigor Dimitrov,Mischa Zverev,63 64 
+3629,Fernando Verdasco,Kevin Anderson,761 761 
+3630,Fabio Fognini,Jack Sock,673 762 75 
+3631,Juan Martin del Potro,Yuichi Sugita,62 766 
+3632,Grigor Dimitrov,Jerzy Janowicz,75 765 
+3633,Kevin Anderson,Hyeon Chung,63 62 
+3634,Jack Sock,Jeremy Chardy,64 64 
+3635,Juan Martin del Potro,Jan-Lennard Struff,62 766 
+3636,Mischa Zverev,Viktor Troicki,62 63 
+3637,Fabio Fognini,Elias Ymer,64 36 767 
+3638,Yuichi Sugita,Marcos Baghdatis,63 36 62 
+3639,Fernando Verdasco,Jurgen Zopp,64 62 
+3640,Mischa Zverev,Mikael Ymer,16 75 64 
+3641,Fabio Fognini,Malek Jaziri,75 61 
+3642,Yuichi Sugita,Denis Istomin,16 63 764 
+3643,Fernando Verdasco,Robin Haase,63 61 
+3644,Marcos Baghdatis,Norbert Gombos,63 64 
+3645,Jeremy Chardy,Alessandro Giannessi,60 75 
+3646,Hyeon Chung,Marton Fucsovics,63 62 
+3647,Jerzy Janowicz,Pierre-Hugues Herbert,62 36 63 
+3648,Jan-Lennard Struff,Marius Copil,672 64 7612 
+3649,Viktor Troicki,Simone Bolelli,63 63 
+3650,Elias Ymer,Leonardo Mayer,64 36 75 
+3651,Jurgen Zopp,Lukas Lacko,64 671 62 
+3652,Marton Fucsovics,Tim Smyczek,64 60 
+3653,Lukas Lacko,Zdenek Kolar,675 763 63 
+3654,Jerzy Janowicz,Jurgen Zopp,61 673 64 
+3655,Simone Bolelli,Illya Marchenko,63 16 762 
+3656,Marton Fucsovics,Karl Friberg,60 63 
+3657,Lukas Lacko,Viktor Galovic,64 63 
+3658,Simone Bolelli,Casper Ruud,64 64 
+3659,Jerzy Janowicz,Andrea Arnaboldi,671 75 61 
+3660,Illya Marchenko,Stefano Napolitano,61 62 
+3661,Zdenek Kolar,Marco Trungelliti,767 36 63 
+3662,Jurgen Zopp,Fred Simonsson,64 62 
+3663,Tim Smyczek,Stephane Robert,764 16 64 
+3664,Roger Federer,Juan Martin del Potro,675 64 63 
+3665,Roger Federer,David Goffin,61 62 
+3666,Juan Martin del Potro,Marin Cilic,64 64 
+3667,Roger Federer,Adrian Mannarino,46 61 63 
+3668,Marin Cilic,Marton Fucsovics,763 57 764 
+3669,David Goffin,Jack Sock,766 63 
+3670,Juan Martin del Potro,Roberto Bautista Agut,62 26 64 
+3671,Roger Federer,Benoit Paire,61 63 
+3672,Marin Cilic,Borna Coric,63 36 63 
+3673,David Goffin,Hyeon Chung,64 61 
+3674,Juan Martin del Potro,Julien Benneteau,64 64 
+3675,Jack Sock,Robin Haase,64 26 64 
+3676,Roberto Bautista Agut,Ryan Harrison,63 761 
+3677,Adrian Mannarino,Denis Shapovalov,46 61 62 
+3678,Marton Fucsovics,Leonardo Mayer,30 (RET)
+3679,Roger Federer,Frances Tiafoe,61 63 
+3680,Marin Cilic,Florian Mayer,63 (RET)
+3681,David Goffin,Peter Gojowczyk,62 75 
+3682,Juan Martin del Potro,Joao Sousa,61 46 61 
+3683,Jack Sock,Vasek Pospisil,36 767 75 
+3684,Roberto Bautista Agut,Mikhail Kukushkin,60 63 
+3685,Adrian Mannarino,Ruben Bemelmans,760 46 61 
+3686,Leonardo Mayer,Mischa Zverev,75 75 
+3687,Julien Benneteau,Donald Young,64 62 
+3688,Hyeon Chung,Paolo Lorenzi,63 61 
+3689,Borna Coric,Henri Laaksonen,678 61 63 
+3690,Marton Fucsovics,Jared Donaldson,60 61 
+3691,Robin Haase,Marco Chiudinelli,62 763 
+3692,Ryan Harrison,Alexandr Dolgopolov,64 61 
+3693,Benoit Paire,Steve Johnson,63 764 
+3694,Denis Shapovalov,Yuichi Sugita,46 62 763 
+3695,Marton Fucsovics,Florian Mayer,64 64 
+3696,Peter Gojowczyk,Nicolas Mahut,61 63 
+3697,Mikhail Kukushkin,Vasek Pospisil,64 64 
+3698,Julien Benneteau,Marcel Granollers,64 64 
+3699,Marcel Granollers,Denis Istomin,765 61 
+3700,Florian Mayer,Ernesto Escobedo,64 75 
+3701,Peter Gojowczyk,Paul-Henri Mathieu,673 75 64 
+3702,Mikhail Kukushkin,Adrian Bodmer,75 63 
+3703,Julien Benneteau,Felix Auger-Aliassime,64 63 
+3704,Marton Fucsovics,Franko Skugor,675 64 64 
+3705,Vasek Pospisil,Kenny De Schepper,763 64 
+3706,Nicolas Mahut,Marc-Andrea Huesler,75 61 
+3707,Lucas Pouille,Jo-Wilfried Tsonga,61 64 
+3708,Jo-Wilfried Tsonga,Philipp Kohlschreiber,764 75 
+3709,Lucas Pouille,Kyle Edmund,677 64 63 
+3710,Jo-Wilfried Tsonga,Alexander Zverev,766 62 
+3711,Kyle Edmund,Jan-Lennard Struff,62 75 
+3712,Philipp Kohlschreiber,Diego Schwartzman,75 766 
+3713,Lucas Pouille,Richard Gasquet,765 61 
+3714,Alexander Zverev,Gilles Simon,766 64 
+3715,Richard Gasquet,Dominic Thiem,46 75 61 
+3716,Diego Schwartzman,Pablo Carreno Busta,57 61 61 
+3717,Jo-Wilfried Tsonga,Damir Dzumhur,675 767 61 
+3718,Kyle Edmund,Dennis Novak,762 675 763 
+3719,Philipp Kohlschreiber,Pierre-Hugues Herbert,764 63 
+3720,Lucas Pouille,Guillermo Garcia-Lopez,63 768 
+3721,Jan-Lennard Struff,Albert Ramos-Vinolas,675 62 761 
+3722,Alexander Zverev,Viktor Troicki,63 46 64 
+3723,Dominic Thiem,Andrey Rublev,64 63 
+3724,Pablo Carreno Busta,Guido Pella,62 767 
+3725,Philipp Kohlschreiber,John Isner,766 64 
+3726,Albert Ramos-Vinolas,Sam Querrey,36 767 763 
+3727,Guillermo Garcia-Lopez,Kevin Anderson,64 64 
+3728,Jo-Wilfried Tsonga,Karen Khachanov,672 64 63 
+3729,Damir Dzumhur,Ricardas Berankis,64 62 
+3730,Kyle Edmund,David Ferrer,62 765 
+3731,Richard Gasquet,Feliciano Lopez,62 63 
+3732,Pierre-Hugues Herbert,Bernard Tomic,764 75 
+3733,Dennis Novak,Thomas Fabbiano,764 75 
+3734,Lucas Pouille,Sebastian Ofner,63 64 
+3735,Diego Schwartzman,Fabio Fognini,61 26 62 
+3736,Gilles Simon,Ernests Gulbis,63 63 
+3737,Jan-Lennard Struff,Pablo Cuevas,75 61 
+3738,Guido Pella,Lukas Lacko,62 62 
+3739,Dennis Novak,Thomas Fabbiano,64 36 63 
+3740,Guillermo Garcia-Lopez,Sergiy Stakhovsky,36 63 61 
+3741,Pierre-Hugues Herbert,Simone Bolelli,761 62 
+3742,Sergiy Stakhovsky,Nikoloz Basilashvili,61 75 
+3743,Guido Pella,Elias Ymer,63 57 63 
+3744,Simone Bolelli,Dusan Lajovic,63 64 
+3745,Thomas Fabbiano,Andreas Haider-Maurer,63 62 
+3746,Lukas Lacko,Rogerio Dutra Silva,75 64 
+3747,Guillermo Garcia-Lopez,Jerzy Janowicz,767 64 
+3748,Pierre-Hugues Herbert,Quentin Halys,62 57 63 
+3749,Dennis Novak,Andreas Seppi,64 761 
+3750,Jack Sock,Filip Krajinovic,57 64 61 
+3751,Filip Krajinovic,John Isner,64 672 765 
+3752,Jack Sock,Julien Benneteau,75 62 
+3753,Filip Krajinovic,Rafael Nadal,(W/O)
+3754,Julien Benneteau,Marin Cilic,765 75 
+3755,John Isner,Juan Martin del Potro,64 675 64 
+3756,Jack Sock,Fernando Verdasco,673 62 63 
+3757,Rafael Nadal,Pablo Cuevas,63 675 63 
+3758,Marin Cilic,Roberto Bautista Agut,764 62 
+3759,Fernando Verdasco,Dominic Thiem,64 64 
+3760,John Isner,Grigor Dimitrov,7610 57 763 
+3761,Julien Benneteau,David Goffin,63 63 
+3762,Juan Martin del Potro,Robin Haase,75 64 
+3763,Jack Sock,Lucas Pouille,766 63 
+3764,Filip Krajinovic,Nicolas Mahut,62 36 61 
+3765,Rafael Nadal,Hyeon Chung,75 63 
+3766,Marin Cilic,Borna Coric,64 63 
+3767,Robin Haase,Alexander Zverev,36 62 62 
+3768,Dominic Thiem,Peter Gojowczyk,64 673 64 
+3769,Grigor Dimitrov,Richard Gasquet,64 64 
+3770,David Goffin,Adrian Mannarino,62 26 63 
+3771,Nicolas Mahut,Pablo Carreno Busta,64 61 
+3772,John Isner,Diego Schwartzman,762 6711 63 
+3773,Filip Krajinovic,Sam Querrey,64 64 
+3774,Julien Benneteau,Jo-Wilfried Tsonga,26 764 62 
+3775,Fernando Verdasco,Kevin Anderson,57 64 75 
+3776,Juan Martin del Potro,Joao Sousa,62 62 
+3777,Roberto Bautista Agut,Jeremy Chardy,64 61 
+3778,Pablo Cuevas,Albert Ramos-Vinolas,675 761 62 
+3779,Jack Sock,Kyle Edmund,46 764 765 
+3780,Lucas Pouille,Feliciano Lopez,63 64 
+3781,Julien Benneteau,Denis Shapovalov,64 64 
+3782,Jeremy Chardy,Gilles Simon,63 60 
+3783,Hyeon Chung,Mischa Zverev,60 62 
+3784,Borna Coric,Jan-Lennard Struff,63 64 
+3785,Pablo Cuevas,Karen Khachanov,64 62 
+3786,Kyle Edmund,Evgeny Donskoy,57 767 63 
+3787,Richard Gasquet,Benoit Paire,63 46 64 
+3788,Peter Gojowczyk,Ryan Harrison,765 63 
+3789,Robin Haase,Steve Johnson,62 61 
+3790,Filip Krajinovic,Yuichi Sugita,64 62 
+3791,Feliciano Lopez,Pierre-Hugues Herbert,764 63 
+3792,Nicolas Mahut,Vasek Pospisil,57 75 764 
+3793,Adrian Mannarino,David Ferrer,62 64 
+3794,Diego Schwartzman,Viktor Troicki,63 64 
+3795,Joao Sousa,Paolo Lorenzi,64 75 
+3796,Fernando Verdasco,Andrey Rublev,761 766 
+3797,Jan-Lennard Struff,Peter Gojowczyk,63 764 
+3798,Borna Coric,Evgeny Donskoy,62 63 
+3799,Joao Sousa,Ugo Humbert,75 64 
+3800,Jeremy Chardy,Guillermo Garcia-Lopez,63 64 
+3801,Filip Krajinovic,Laslo Djere,57 63 62 
+3802,Vasek Pospisil,Paul-Henri Mathieu,63 64 
+3803,Guillermo Garcia-Lopez,Jared Donaldson,75 670 64 
+3804,Jan-Lennard Struff,Mikhail Kukushkin,765 64 
+3805,Vasek Pospisil,Nikoloz Basilashvili,26 63 62 
+3806,Borna Coric,Benjamin Bonzi,64 63 
+3807,Laslo Djere,Denis Istomin,61 33 (RET)
+3808,Joao Sousa,Norbert Gombos,64 63 
+3809,Filip Krajinovic,Guido Pella,64 61 
+3810,Paul-Henri Mathieu,Daniil Medvedev,64 64 
+3811,Peter Gojowczyk,Quentin Halys,64 63 
+3812,Jeremy Chardy,Dusan Lajovic,674 62 64 
+3813,Ugo Humbert,Thomas Fabbiano,46 63 64 
+3814,Evgeny Donskoy,Andreas Seppi,63 62 
+3815,Roger                Federer                       ,Alexander            Zverev                        ,766 57 61 
+3816,Roger                Federer                       ,Marin                Cilic                         ,675 64 61 
+3817,Roger                Federer                       ,Jack                 Sock                          ,64 764 
+3818,Alexander            Zverev                        ,Marin                Cilic                         ,64 36 64 
+3819,Grigor               Dimitrov                      ,Dominic              Thiem                         ,63 57 75 
+3820,Dominic              Thiem                         ,Pablo                Carreno Busta                 ,63 36 64 
+3821,Jack                 Sock                          ,Marin                Cilic                         ,57 62 764 
+3822,Grigor               Dimitrov                      ,David                Goffin                        ,60 62 
+3823,David                Goffin                        ,Rafael               Nadal                         ,765 674 64 
